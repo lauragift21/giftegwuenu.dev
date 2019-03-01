@@ -14,7 +14,7 @@
 
 ## Demo URL
 
-https://gridsome-starter-blog.netlify.com
+https://giftegwuenu.netlify.com
 
 ## Install
 
