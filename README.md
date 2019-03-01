@@ -1,5 +1,6 @@
-# Gridsome Blog Starter
+# giftegwuenu.dev - A wip revamped version of my blog
 
+> It uses gridsome-starter-blog
 > A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 
 ## Features
