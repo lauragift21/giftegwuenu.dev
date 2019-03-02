@@ -27,7 +27,6 @@
         date (format: "D. MMMM YYYY")
         timeToRead
         description
-        coverImage (width: 770, height: 380, blur: 10)
         ...on Post {
             id
             title
@@ -49,7 +48,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Gift Egwuenu'
   }
 }
 </script>
