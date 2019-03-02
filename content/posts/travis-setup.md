@@ -3,7 +3,7 @@ title: Setup Continuous Integration with Travis CI in Your Nodejs App
 date: 2018-06-22
 published: true
 tags: ['CI','express']
-# cover_image: http://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg
+# cover_image: https://res.cloudinary.com/lauragift/image/upload/v1529656180/logo-travisci-wide1_lcjhdf.jpg
 canonical_url: false
 description: "This tutorial will take you through how to setup CI with travis in nodejs app"
 ---
@@ -66,7 +66,7 @@ describe('test', () => {
 });
 
 ```
-![test](http://res.cloudinary.com/lauragift/image/upload/v1529662546/Screenshot_from_2018-06-22_11-11-40_nyow0d.png)
+![test](https://res.cloudinary.com/lauragift/image/upload/v1529662546/Screenshot_from_2018-06-22_11-11-40_nyow0d.png)
 
 **NPM Script**  
 Make sure app and test is working by running these scripts.
@@ -99,7 +99,7 @@ Travis is a CI service which simply means it a automated process. A typical work
 _* A commit is pushed to to GitHub_  
 _* Travis build is triggered and it checks if the test is passing or failing._
 
-![travis ui](http://res.cloudinary.com/lauragift/image/upload/v1529664742/Screenshot_from_2018-06-22_11-49-48_abjiek.png)
+![travis ui](https://res.cloudinary.com/lauragift/image/upload/v1529664742/Screenshot_from_2018-06-22_11-49-48_abjiek.png)
 
 #### Travis Build setup
 

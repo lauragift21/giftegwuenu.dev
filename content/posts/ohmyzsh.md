@@ -3,7 +3,7 @@ title: Quick Setup of Oh My ZSH! terminal on Ubuntu
 date: 2018-04-27
 published: true
 tags: ['tools','productivity']
-# cover_image: http://res.cloudinary.com/lauragift/image/upload/c_crop/v1524901971/8356e1fb62e77c8b132b10ec4f0b846e_amnahc.jpg
+# cover_image: https://res.cloudinary.com/lauragift/image/upload/c_crop/v1524901971/8356e1fb62e77c8b132b10ec4f0b846e_amnahc.jpg
 canonical_url: false
 description: "Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.Learn the nitty gritty of using Oh My Zsh for make your terminal com alive"
 ---
@@ -12,7 +12,7 @@ description: "Oh My Zsh is a delightful, open source, community-driven framework
 
 Tired of the good ol' boring looking terminal? Do you want to try something different and funky then you should definitely try Oh-my-zsh! As developers, we can't deny the fact that the Command line terminal is part of our existence._
 
-![banner](http://res.cloudinary.com/lauragift/image/upload/v1524834046/Screenshot_from_2018-04-27_13-58-51_ffofu9.png)
+![banner](https://res.cloudinary.com/lauragift/image/upload/v1524834046/Screenshot_from_2018-04-27_13-58-51_ffofu9.png)
 
 _[Oh-My-Zsh](http://ohmyz.sh/) is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that will make you shout._
 
@@ -58,7 +58,7 @@ Oh-My-Zsh comes bundled with several [themes](https://github.com/robbyrussell/oh
 ZSH_THEME="agnoster"
 ```
 
-![agnoster](http://res.cloudinary.com/lauragift/image/upload/v1524845811/Screenshot_from_2018-04-27_17-12-52_nlj66n.png)
+![agnoster](https://res.cloudinary.com/lauragift/image/upload/v1524845811/Screenshot_from_2018-04-27_17-12-52_nlj66n.png)
 
 **PLUGINS**
 -----------

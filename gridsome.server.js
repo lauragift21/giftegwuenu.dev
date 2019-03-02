@@ -7,16 +7,16 @@
 
 module.exports = function (api) {
   api.loadSource(store => {
-    const Post = store.addContentType({
-      typeName: 'Post',
+    const BlogPost = store.addContentType({
+      typeName: 'BlogPost',
       route: '/blog/:slug'
     })
-    Post.addNode({
-      title: Post.title,
-      description: Post.description,
+    BlogPost.addNode({
+      title: BlogPost.title,
+      description: BlogPost.description,
       fields: {
-        AuthorName: Post.AuthorName,
-        'url-slug': Post['url-slug']
+        AuthorName: BlogPost.AuthorName,
+        'url-slug': BlogPost['url-slug']
       }
     })
   })

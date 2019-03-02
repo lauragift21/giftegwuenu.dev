@@ -65,6 +65,6 @@ After that step create a new site from the Netlify dashboard and connect your re
 
 Create a deploy command with this setting and deploy.
 
-![Screenshot](http://res.cloudinary.com/lauragift/image/upload/v1519148146/Screenshot_from_2018-02-20_18-30-47_zoifgr.png)
+![Screenshot](https://res.cloudinary.com/lauragift/image/upload/v1519148146/Screenshot_from_2018-02-20_18-30-47_zoifgr.png)
 
 Viola, you have successfully built and deployed your site with Hugo and Netlify with these quick steps.
