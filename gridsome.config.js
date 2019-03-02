@@ -35,7 +35,7 @@ module.exports = {
     {
       use: 'gridsome-plugin-rss',
       options: {
-        contentTypeName: 'BlogPost',
+        contentTypeName: 'Post',
         feedOptions: {
           title: 'Gift Egwuenu',
           feed_url: 'https://giftegwuenu.netlify.com/rss.xml',
