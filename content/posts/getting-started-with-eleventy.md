@@ -3,7 +3,7 @@ title: Getting Started with Eleventy
 date: 2019-01-16
 published: true
 tags: ['jamstack','11ty']
-cover_image: https://res.cloudinary.com/lauragift/image/upload/v1547576269/gift-egwuenu/Screen%20Shot%202019-01-15%20at%207.13.40%20PM.png
+# cover_image: https://res.cloudinary.com/lauragift/image/upload/v1547576269/gift-egwuenu/Screen%20Shot%202019-01-15%20at%207.13.40%20PM.png
 canonical_url: false
 description: "The era of static sites generators is ever growing due to the popularity of JamStack on the web. We'll learn how to get started with 11ty, a static site generator and explore its use cases."
 ---

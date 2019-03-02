@@ -3,7 +3,7 @@ title: Introducing React Hooks
 date: 2018-12-04
 published: true
 tags: ['react','hooks']
-cover_image: https://res.cloudinary.com/lauragift/image/upload/v1543931797/1_Ra-gkqfPqbWVhgP3tR-0Cg_a7gxdm.png
+# cover_image: https://res.cloudinary.com/lauragift/image/upload/v1543931797/1_Ra-gkqfPqbWVhgP3tR-0Cg_a7gxdm.png
 canonical_url: false
 description: "React v16.7.0 was introduced at the React Conf 2018 and Dan Abramov did the honors of letting the cat out of the bag when he introduced React Hooks.  We only just got a new release React v16.6.0:lazy, memo and contextType and now Hooks don’t you just love the react community."
 ---

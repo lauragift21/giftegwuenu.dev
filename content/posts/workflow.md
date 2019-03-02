@@ -3,7 +3,7 @@ title: My Workflow And Tools That Help Me Speed Up Productivity
 date: 2019-02-17
 published: true
 tags: ['tools', 'productivity']
-cover_image: https://d2mxuefqeaa7sj.cloudfront.net/s_E948749FFF9AABC92D46BF495805D213A4C4E2668CE3B0F9FAB1649B51E48A0F_1550400798183_designing+a+scandinavian-style+home.png
+# cover_image: https://d2mxuefqeaa7sj.cloudfront.net/s_E948749FFF9AABC92D46BF495805D213A4C4E2668CE3B0F9FAB1649B51E48A0F_1550400798183_designing+a+scandinavian-style+home.png
 canonical_url: false
 description: "In this post I’ll outline the tools I use for my day to day activities."
 ---

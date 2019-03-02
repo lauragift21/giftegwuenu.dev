@@ -49,7 +49,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Gift Egwuenu'
   }
 }
 </script>

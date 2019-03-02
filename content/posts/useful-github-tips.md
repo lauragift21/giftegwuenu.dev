@@ -1,5 +1,5 @@
 ---
-title: Useful Tips for writing better Git commit messages
+title: Useful Tips for Writing Better Git Commit Messages
 date: 2018-05-04
 published: true
 tags: ['git','github']

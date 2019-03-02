@@ -17,6 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
+      <span>Made with 💚 by <a href="www.twitter.com/lauragift21">@lauragift21</a></span>
       <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
     </footer>
 

@@ -1,5 +1,5 @@
 ---
-title: A Collection of Essential Vscode  Extensions
+title: A Collection of Essential VSCode  Extensions
 date: 2018-05-12
 published: true
 tags: ['tools', 'productivity']
