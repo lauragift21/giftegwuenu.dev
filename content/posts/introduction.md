@@ -2,6 +2,7 @@
 title:  Introduction
 date: 2018-02-08
 published: true
+tags: ['life-event']
 canonical_url: false
 ---
 
