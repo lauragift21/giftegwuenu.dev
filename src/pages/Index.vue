@@ -48,7 +48,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Gift Egwuenu'
+    title: 'Home'
   }
 }
 </script>
