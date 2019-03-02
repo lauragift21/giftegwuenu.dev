@@ -34,8 +34,8 @@ A whole lot of companies have already joined the bandwagon so what are you waiti
 
 ## Examples of websites
 
-![screenshot](http://res.cloudinary.com/lauragift/image/upload/v1523804538/2-screenshot_r6uux6.png)
-![screenshot](http://res.cloudinary.com/lauragift/image/upload/v1523804647/JAMstack_JavaScript_APIs_and_Markup_1_ys6djd.png)
+![screenshot](https://res.cloudinary.com/lauragift/image/upload/v1523804538/2-screenshot_r6uux6.png)
+![screenshot](https://res.cloudinary.com/lauragift/image/upload/v1523804647/JAMstack_JavaScript_APIs_and_Markup_1_ys6djd.png)
 
 ## Useful JAMstack Resources
 

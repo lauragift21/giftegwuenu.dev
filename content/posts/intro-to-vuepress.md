@@ -148,7 +148,7 @@ Publish directory:docs/.VuePress/dist
 
 Hit the deploy button!
 
-![Wakanda](http://res.cloudinary.com/lauragift/image/upload/c_crop/v1524289619/Screenshot_from_2018-04-20_22-33-04_pgvl39.png)
+![Wakanda](https://res.cloudinary.com/lauragift/image/upload/c_crop/v1524289619/Screenshot_from_2018-04-20_22-33-04_pgvl39.png)
 
 VuePress is amazingly fast and easy to get started with this tutorial breaks all VuePress is capable of doing in bite-sized sections. With the ability to write Vue within markdown files, customize themes and also delivers a pre-rendered HTML and runs as an SPA when loaded. Feel free to checkout the [docs](https://VuePress.vuejs.org/guide/) to find out more about what VuePress offers. Our final project [lives here](https://gallant-nobel-d7c6cd.netlify.com/) and [repo](https://github.com/lauragift21/VuePress).
 
