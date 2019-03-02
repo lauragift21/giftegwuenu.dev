@@ -21,7 +21,8 @@
         <Comment/>
       </div>
     </div>
-
+    <!-- Add newsletter form -->
+    <Newsletter class="post-newsletter" />
     <Author class="post-author"/>
   </Layout>
 </template>
@@ -31,13 +32,15 @@ import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Author from "~/components/Author.vue";
 import Comment from "~/components/Comment.vue";
+import Newsletter from "~/components/Newsletter.vue";
 
 export default {
   components: {
     Author,
     PostMeta,
     PostTags,
-    Comment
+    Comment,
+    Newsletter
   },
   metaInfo() {
     return {
@@ -124,5 +127,9 @@ query Post ($path: String!) {
 
 .post-author {
   margin-top: calc(var(--space) / 2);
+}
+
+.post-newsletter {
+  padding: 0;
 }
 </style>
