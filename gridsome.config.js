@@ -31,6 +31,27 @@ module.exports = {
       options: {
         id: 'UA-102896008-2'
       }
+    },
+    {
+      use: 'gridsome-plugin-rss',
+      options: {
+        contentTypeName: 'BlogPost',
+        feedOptions: {
+          title: 'Gift Egwuenu',
+          feed_url: 'https://giftegwuenu.netlify.com/rss.xml',
+          site_url: 'https://giftegwuenu.netlify.com'
+        },
+        feedItemOptions: node => ({
+          title: node.title,
+          description: node.description,
+          url: 'https://giftegwuenu.netlify.com/' + 'node.fields.urlSlug',
+          author: node.fields.author
+        }),
+        output: {
+          dir: './static/',
+          name: 'rss'
+        }
+      }
     }
   ],
 
