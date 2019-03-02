@@ -7,6 +7,18 @@
 
 module.exports = function (api) {
   api.loadSource(store => {
-    // Use the Data store API here: https://gridsome.org/docs/data-store-api
+    const BlogPost = store.addContentType({
+      typeName: 'BlogPost',
+      route: '/:slug'
+    })
+    BlogPost.addNode({
+      title: BlogPost.title,
+      description: BlogPost.description,
+      fields: {
+        AuthorName: BlogPost.AuthorName,
+        'url-slug': BlogPost['url-slug']
+      }
+    })
   })
+
 }
