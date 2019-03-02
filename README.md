@@ -14,6 +14,10 @@
 - 100, 100, 100, 100 score on Google Lighthouse.
 - Uses same front-matter fields as Dev.to.
 
+## Added Features
+- Newsletter support
+- Disqus support
+- GA Support
 ## Demo URL
 
 https://giftegwuenu.netlify.com
