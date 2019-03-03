@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Gift Egwuenu',
-  siteDescription: 'Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.',
+  siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
 
   plugins: [
     {
