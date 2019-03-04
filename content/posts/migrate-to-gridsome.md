@@ -66,6 +66,6 @@ I used Netlify for hosting the previous blog and configured it to use a custom d
 ![netlify](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_0359E29EF9AFDFD62C78AB13AD32DC2BCF0651A56D00A7FF5B337BAA1E7D7742_1551707469947_Screen%2BShot%2B2019-03-04%2Bat%2B2.50.52%2BPM.png&hmac=CB9d%2BCoRUgooKGKIdt%2FsDyJybccC2wXgvnqdKyrLgrc%3D&width=1490)
 
 ## Conclusion
-Making this move wasn't as daunting as I thought it'll be. I'm happy I was able to do this and now I can play with Vue a framework I'm more familiar with as compared with when I was using Hugo and have to understand Go to make additional implementation changes. I'm now going to focus on creating content and don't worry I'm switching anytime soon.
+Making this move wasn't as daunting as I thought it'll be. I'm happy I was able to do this and now I can play with Vue a framework I'm more familiar with as compared to when I was using Hugo and have to understand Go to make additional implementation changes. I'm now going to focus on creating content and don't worry I'm not switching anytime soon.
 
 If you have a question regarding JAMStack, Gridsome or why I switched you can reach out to me on twitter [@lauragift21](www.twitter.com/lauragift21)
