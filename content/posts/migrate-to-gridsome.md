@@ -1,7 +1,7 @@
 ---
 title: Migrating to Gridsome from Hugo
 date: 2019-03-04
-published: false
+published: true
 tags: ['Hugo','gridsome', 'jamstack']
 canonical_url: true
 description: "I recently moved my blog from Hugo to Gridsome static site generator. its great to adopt change I did because I wanted a more flexible solution and Gridsome offers that and more."
@@ -68,4 +68,4 @@ I used Netlify for hosting the previous blog and configured it to use a custom d
 ## Conclusion
 Making this move wasn't as daunting as I thought it'll be. I'm happy I was able to do this and now I can play with Vue a framework I'm more familiar with as compared with when I was using Hugo and have to understand Go to make additional implementation changes. I'm now going to focus on creating content and don't worry I'm switching anytime soon.
 
-If you have a question regarding JAMStack, Gridsome or why I switch you can reach out to me on twitter [@lauragift21](www.twitter.com/lauragift21)
+If you have a question regarding JAMStack, Gridsome or why I switched you can reach out to me on twitter [@lauragift21](www.twitter.com/lauragift21)
