@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5afa6365-c9e4-4479-90b9-d1c6a2dc83bf/deploy-status)](https://app.netlify.com/sites/giftegwuenu/deploys)
 
-# giftegwuenu.dev - A wip revamped version of my blog
+# giftegwuenu.dev - Personal Blog By Gift Egwuenu
 
 > It uses gridsome-starter-blog
 > A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
