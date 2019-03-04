@@ -63,7 +63,7 @@ I had to make some additional changes to this blog because a couple of integrati
 ## Deploying
 I used Netlify for hosting the previous blog and configured it to use a custom domain. I recently bought [giftegwuenu.dev](giftegwuenu.dev) and just make it redirect to [giftegwuenu.com](giftegwuenu.com). Switching from the previous blog to this was really quick because with Netlify you already have a domain assigned to any projects you create. So I deleted the custom domain from my previous blog and added it to this new one. And it worked pretty seamlessly. Netlify is Bae 💚  
 
-![netlify](https://paper.dropbox.com/ep/redirect/image?url=https%3A%2F%2Fd2mxuefqeaa7sj.cloudfront.net%2Fs_0359E29EF9AFDFD62C78AB13AD32DC2BCF0651A56D00A7FF5B337BAA1E7D7742_1551707469947_Screen%2BShot%2B2019-03-04%2Bat%2B2.50.52%2BPM.png&hmac=CB9d%2BCoRUgooKGKIdt%2FsDyJybccC2wXgvnqdKyrLgrc%3D&width=1490)
+![netlify](https://res.cloudinary.com/practicaldev/image/fetch/s--u0zM2jbF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/lauragift/image/upload/v1551708884/Screen_Shot_2019-03-04_at_2.50.52_PM_h7seox.png)
 
 ## Conclusion
 Making this move wasn't as daunting as I thought it'll be. I'm happy I was able to do this and now I can play with Vue a framework I'm more familiar with as compared to when I was using Hugo and have to understand Go to make additional implementation changes. I'm now going to focus on creating content and don't worry I'm not switching anytime soon.
