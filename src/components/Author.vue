@@ -28,7 +28,7 @@
       <a href="//github.com/lauragift21">
         <g-image alt="github" class src="~/assets/images/github.png"/>
       </a>
-      <a href="//linkedin.com/in/egwuenugift/">
+      <a href="//linkedin.com/in/egwuenugift">
         <g-image alt="linkedin" class src="~/assets/images/linkedin.png" width="32"/>
       </a>
     </p>
