@@ -11,8 +11,8 @@
 
     <h1 v-if="showTitle" class="author__site-title">{{ $static.metaData.siteName }}</h1>
 
-    <p class="author__intro">Hey! 👋 Welcome to my blog.
-      <br>I’m passionate about web technologies and constantly learning and improving my skills. I enjoy creating solutions to complex problems.
+    <p class="author__intro">Hello! 👋 
+      <br>I’m a Software Developer based in Lagos, Nigeria and I'm passionate about the open-source community and enjoy solving complex problems using web technologies.
     </p>
 
     <p class="author__links">
