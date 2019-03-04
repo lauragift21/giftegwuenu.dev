@@ -54,6 +54,8 @@ I had to make some additional changes to this blog because a couple of integrati
  - Newsletter
  - About Me Page
  - Share on Twitter functionality
+ - RSS Support
+ - Twitter Embed Support
 
 
  I've been able to add a few of these already. I was lucky to get Google analytics plugin already available so I only needed to install it. For Disqus I installed a package called `vue-disqus` and migrated the form I used for the newsletter over to this new blog only needed to tweak some styling so it fits this new layout.  This blog is still a work in progress as I add the other features I have pending. Overall so far moving to Gridsome has been great!
