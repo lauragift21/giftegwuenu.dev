@@ -18,7 +18,6 @@
       </div>
       <div class="post-comments">
         <!-- Add comment widgets here -->
-        <Comment/>
       </div>
     </div>
     <!-- Add newsletter form -->
@@ -31,7 +30,6 @@
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Author from "~/components/Author.vue";
-import Comment from "~/components/Comment.vue";
 import Newsletter from "~/components/Newsletter.vue";
 
 export default {
@@ -39,7 +37,6 @@ export default {
     Author,
     PostMeta,
     PostTags,
-    Comment,
     Newsletter
   },
   metaInfo() {
