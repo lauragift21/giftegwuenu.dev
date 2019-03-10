@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'Gift Egwuenu',
+  siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
 
   plugins: [
@@ -55,6 +56,23 @@ module.exports = {
         output: {
           dir: './static/',
           name: 'rss'
+        }
+      }
+    },
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // default
+        exclude: ['/exclude-me'],
+        config: {
+          '/articles/*': {
+            changefreq: 'weekly',
+            priority: 0.5
+          },
+          '/about': {
+            changefreq: 'monthly',
+            priority: 0.7
+          }
         }
       }
     }
