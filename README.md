@@ -18,6 +18,8 @@
 - Newsletter support
 - Disqus support
 - GA Support
+- RSS/Sitemap support
+
 ## Demo URL
 
 https://giftegwuenu.netlify.com
