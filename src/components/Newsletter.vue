@@ -18,9 +18,9 @@
         id="email"
         onfocus="this.value=''"
         placeholder="Email address"
-      />
-      <input type="hidden" value="1" name="embed" />
-      <input class="form__submit" type="submit" value="Subscribe" />
+      >
+      <input type="hidden" value="1" name="embed">
+      <input class="form__submit" type="submit" value="Subscribe">
     </form>
   </div>
 </template>
@@ -41,7 +41,7 @@ h4 {
   &__email {
     padding: 13px;
     width: 15rem;
-    border: 1px solid #F0F0F5;
+    border: 1px solid #f0f0f5;
     margin-right: 13px;
   }
   &__submit {
@@ -49,7 +49,17 @@ h4 {
     padding: 10px;
     outline: none;
     border-radius: 2px;
+    background: #fff;
     cursor: pointer;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .form {
+    &__submit {
+      background: #fff;
+      margin-top: 10px;
+    }
   }
 }
 </style>
