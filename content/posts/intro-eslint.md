@@ -7,7 +7,7 @@ canonical_url: false
 description: "Linting is a way of keeping your code clean from any issues and generally improving your code style."
 ---
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F14f848c2c826aa748e367ca4920584fedbf5dd8a.9d3b8a6f-bb7a-4797-b6f6-a3944e7284c6.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F14f848c2c826aa748e367ca4920584fedbf5dd8a.9d3b8a6f-bb7a-4797-b6f6-a3944e7284c6.mp3'></iframe>
 
 *Linting in JavaScript is really important, Most developers tend to skip this step when developing software, When in an actual sense this should be one important step before starting out your projects.*
 

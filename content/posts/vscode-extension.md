@@ -7,7 +7,7 @@ canonical_url: false
 description: "Every developer makes use of a code editor as a tool for the trade in this tutorial i'll be highlighing my go to extensions for vscode."
 ---
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F3c00f05e48983cb894ca64bbcdc273a062fce423.85bd849a-07ff-4629-a339-d554bb6070a2.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F3c00f05e48983cb894ca64bbcdc273a062fce423.85bd849a-07ff-4629-a339-d554bb6070a2.mp3'></iframe>
 
 _Code Editors are one of the essential tools for a Developer as long as you write code. But an interesting fact is every developer loves to enhance thier workflow and be more productive. I mean why waste time trying to achieve a task when there's a tool to do that. That brings us to the topic extensions for Vscode. These tools goes a long way in helping developers maintain thier codebase and also promote productivity. Ever since i switched to Vscode i've found the following extensions to be my holy grail. I pretty much can't do without them don't get me wrong i mean they're awesome tools to have around. Let's cut to the chase shall we._
 

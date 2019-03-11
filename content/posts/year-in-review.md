@@ -10,7 +10,7 @@ description: "2018 has been a really productive and long year so far for me. Her
 
 ![me](https://res.cloudinary.com/lauragift/image/upload/v1545070543/IMG_20180217_120621-COLLAGE-COLLAGE_mdxope.jpg)
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F1173877ba3eb235f6f6cdc84b2291dd27ffbbc30.c26983da-4074-4739-b65d-ebed120c286b.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F1173877ba3eb235f6f6cdc84b2291dd27ffbbc30.c26983da-4074-4739-b65d-ebed120c286b.mp3'></iframe>
 
 _Inspired by @una's article on her year in review and @ireaderinokun's post I decided to write mine so here it goes...._
 

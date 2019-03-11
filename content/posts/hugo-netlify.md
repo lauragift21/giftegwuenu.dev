@@ -8,7 +8,7 @@ canonical_url: false
 description: "Hugo is a static site generator. We'll be looking at how to build a static site generator with Hugo and deploy to Netlify"
 ---
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F4e14e9cd196b843045b1c504a7656d71b2930c37.306c19cd-4385-4366-8542-3dd992d86bbe.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F4e14e9cd196b843045b1c504a7656d71b2930c37.306c19cd-4385-4366-8542-3dd992d86bbe.mp3'></iframe>
 
  I'll be highlighting how to build a quick site with Hugo and deploy to netlify in a jiffy. But we have to understand what Hugo and Netlify are before we start building.
 

@@ -9,7 +9,7 @@ description: "VuePress is a Vue-powered Static Site Generator mainly designed fo
 
 ![banner](https://thepracticaldev.s3.amazonaws.com/i/xnkv5z7k6vl3qs495q1d.png)
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F9daf3c69e555521c19cd73a938fbd1b677a2fa13.d560bbbc-cfd5-4e3e-9f8c-64e0c6f0e500.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F9daf3c69e555521c19cd73a938fbd1b677a2fa13.d560bbbc-cfd5-4e3e-9f8c-64e0c6f0e500.mp3'></iframe>
 
 *[VuePress](https://VuePress.vuejs.org/) is the new kid on the block on the list of static site generators. Vue creator Evan You came up with this awesome tool for writing documentation for Vue based project well that was the inspiration behind the project, But this powerful tool can also be customized to fit your needs.*
 
