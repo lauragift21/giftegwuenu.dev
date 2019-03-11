@@ -17,6 +17,7 @@
         class="form__email"
         id="email"
         onfocus="this.value=''"
+        aria-label="email"
         placeholder="Email address"
       >
       <input type="hidden" value="1" name="embed">
