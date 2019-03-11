@@ -7,7 +7,7 @@ canonical_url: false
 description: " Awesome tips on how to write better git commit messages."
 ---
 
-<iframe style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fabd1faaf3f2d74f786b992c54dc14f96cf25165f.5b1fa3dd-ba67-4e9e-bb70-c71e6ecdda37.mp3'></iframe>
+<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fabd1faaf3f2d74f786b992c54dc14f96cf25165f.5b1fa3dd-ba67-4e9e-bb70-c71e6ecdda37.mp3'></iframe>
 
 Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. As a developer one of the basic tools we can’t escape using is making use of git for our workflow. One of the mistakes most developers make. Well this is technically not a mistake but you know the saying “ if you can do it better then why not”.
 
