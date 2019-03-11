@@ -11,7 +11,7 @@
 
     <h1 v-if="showTitle" class="author__site-title">{{ $static.metaData.siteName }}</h1>
 
-    <p class="author__intro">Hello! 👋 
+    <p class="author__intro">Hello! 👋
       <br>I’m a Software Developer based in Lagos, Nigeria and I'm passionate about the open-source community and enjoy solving complex problems using web technologies.
     </p>
 
@@ -30,6 +30,9 @@
       </a>
       <a href="//linkedin.com/in/egwuenugift">
         <g-image alt="linkedin" class src="~/assets/images/linkedin.png" width="32"/>
+      </a>
+      <a href="//noti.st/lauragift21">
+        <g-image alt="notist" class src="~/assets/images/notist.jpg" width="32"/>
       </a>
     </p>
   </div>
