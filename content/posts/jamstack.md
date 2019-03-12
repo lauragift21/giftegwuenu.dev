@@ -1,6 +1,6 @@
 ---
 title: What is JAMstack and Why You Should Try It
-date: 2018-12-04
+date: 2018-04-15
 published: true
 tags: ['jamstack','netlify']
 canonical_url: false

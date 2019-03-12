@@ -1,6 +1,6 @@
 ---
 title: My 2018 Year in Review & 2019 Resolutions
-date: 2018-12-04
+date: 2018-12-20
 published: true
 tags: ['year-review','life-events']
 # cover_image: https://res.cloudinary.com/lauragift/image/upload/v1545070543/IMG_20180217_120621-COLLAGE-COLLAGE_mdxope.jpg
