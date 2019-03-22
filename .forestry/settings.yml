@@ -21,4 +21,4 @@ build:
   publish_command: vuepress build -d .vuepress/dist
   preview_output_directory: public
   output_directory: ".vuepress/dist"
-  instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
+  instant_preview_command: gridsome develop -p 8080 -h 0.0.0.0
