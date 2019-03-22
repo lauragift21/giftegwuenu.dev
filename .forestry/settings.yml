@@ -12,5 +12,5 @@ file_template: ":filename:"
 build:
   preview_command: gridsome build
   publish_command: vuepress build -d .vuepress/dist
-  preview_output_directory: gridsome build
+  preview_output_directory: public
   output_directory: ".vuepress/dist"
