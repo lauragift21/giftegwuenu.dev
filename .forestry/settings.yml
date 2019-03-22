@@ -15,7 +15,6 @@ public_path: https://res.cloudinary.com/lauragift/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
-instant_preview: true
 build:
   preview_command: gridsome build
   publish_command: vuepress build -d .vuepress/dist
