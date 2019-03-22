@@ -20,3 +20,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- content/posts/getting-up-and-running-with-netlify-forms.md
