@@ -21,7 +21,7 @@
       </div>
     </div>
     <!-- Add newsletter form -->
-    <Newsletter class="post-newsletter" />
+    <Newsletter class="post-newsletter"/>
     <Author class="post-author"/>
   </Layout>
 </template>
@@ -46,8 +46,17 @@ export default {
         {
           name: "description",
           content: this.$page.post.description
-        }
-      ]
+        },
+        //twitter card: https://cards-dev.twitter.com/
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:description", content: this.$page.post.description },
+        { name: "twitter:title", content: this.$page.post.title },
+        { name: "twitter:site", content: "@lauragift21" },
+        { name: "twitter:creator", content: "@lauragift21" },
+        // open graph
+        { property: "og:updated_time", content: this.$page.post.date }
+      ],
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
     };
   }
 };
