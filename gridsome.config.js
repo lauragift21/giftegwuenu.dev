@@ -19,7 +19,9 @@ module.exports = {
         route: '/:slug',
         remark: {
           plugins: [
-            ['gridsome-plugin-remark-twitter']
+            ['gridsome-plugin-remark-twitter', {
+              debug: true
+            }]
           ]
         },
         refs: {
