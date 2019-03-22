@@ -10,7 +10,7 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_command: vuepress build -d .vuepress/dist
+  preview_command: gridsome build
   publish_command: vuepress build -d .vuepress/dist
-  preview_output_directory: ".vuepress/dist"
+  preview_output_directory: gridsome build
   output_directory: ".vuepress/dist"
