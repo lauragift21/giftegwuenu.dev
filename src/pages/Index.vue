@@ -66,7 +66,7 @@ nav {
 }
 a {
   padding: 20px;
-  color: #111;
+  color: var(--link-color);
   text-decoration: none;
   border-radius: 10px;
 }
