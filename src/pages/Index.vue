@@ -1,19 +1,22 @@
 <template>
   <Layout :show-logo="false">
     <!-- Author intro -->
-    <Author :show-title="true" />
-    
+    <Author :show-title="true"/>
     <!-- List posts -->
     <div class="posts">
-      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+      <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node"/>
     </div>
-
+    <Pager :info="$page.allPost.pageInfo"/>
   </Layout>
 </template>
 
 <page-query>
-{
-  posts: allPost {
+query Post ($page: Int) {
+   allPost(sortBy: "date", page: $page, perPage: 5) @paginate {
+    pageInfo {
+     totalPages,
+      currentPage
+    }
     edges {
       node {
         id
@@ -39,16 +42,38 @@
 </page-query>
 
 <script>
-import Author from '~/components/Author.vue'
-import PostCard from '~/components/PostCard.vue'
+import { Pager } from "gridsome";
+import Author from "~/components/Author.vue";
+import PostCard from "~/components/PostCard.vue";
 
 export default {
   components: {
+    Pager,
     Author,
     PostCard
   },
   metaInfo: {
-    title: 'Home'
+    title: "Home"
   }
-}
+};
 </script>
+
+<style scoped>
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  padding: 20px;
+  color: var(--link-color);
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+a:hover {
+  background-color: #48E617 !important;
+  border-color: #48E617 !important;
+}
+</style>
+
