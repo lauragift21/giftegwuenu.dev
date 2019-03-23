@@ -1,32 +1,37 @@
 <template>
   <div id="app">
-
     <header class="header">
       <div class="header__left">
-        <Logo v-if="showLogo" /> 
+        <Logo v-if="showLogo"/>
       </div>
-      
-      <div class="header__right">        
-        <ToggleTheme />
+
+      <div class="header__right">
+        <ToggleTheme/>
       </div>
     </header>
-
-    <main class="main">
-      <slot/>
-    </main>
+    <transition name="fade" appear>
+      <main class="main">
+        <slot/>
+      </main>
+    </transition>
 
     <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span>Made with 💚 by <a href="www.twitter.com/lauragift21">@lauragift21</a></span>
-      <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}.</span>
+      <span>
+        Made with 💚 by
+        <a href="www.twitter.com/lauragift21">@lauragift21</a>
+      </span>
+      <span class="footer__links">
+        Powered by
+        <a href="//gridsome.org">Gridsome</a>
+      </span>
     </footer>
-
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-import ToggleTheme from '~/components/ToggleTheme.vue'
+import Logo from "~/components/Logo.vue";
+import ToggleTheme from "~/components/ToggleTheme.vue";
 
 export default {
   props: {
@@ -36,7 +41,7 @@ export default {
     Logo,
     ToggleTheme
   }
-}
+};
 </script>
 
 <style lang="scss">
@@ -46,7 +51,7 @@ export default {
   align-items: center;
   min-height: var(--header-height);
   padding: 0 calc(var(--space) / 2);
-  top:0;
+  top: 0;
   z-index: 10;
 
   &__left,
@@ -73,14 +78,21 @@ export default {
   justify-content: center;
   padding: calc(var(--space) / 2);
   text-align: center;
-  font-size: .8em;
+  font-size: 0.8em;
 
   > span {
-    margin: 0 .35em;
+    margin: 0 0.35em;
   }
 
   a {
     color: currentColor;
   }
+}
+.fade-enter-active {
+  transition: opacity .5s;
+}
+
+.fade-enter {
+  opacity: 0;
 }
 </style>
