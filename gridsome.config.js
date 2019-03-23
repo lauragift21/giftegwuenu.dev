@@ -43,21 +43,22 @@ module.exports = {
     {
       use: 'gridsome-plugin-rss',
       options: {
-        contentTypeName: 'BlogPost',
+        contentTypeName: 'Post',
         feedOptions: {
           title: 'Gift Egwuenu',
-          feed_url: 'https://giftegwuenu.netlify.com/rss.xml',
-          site_url: 'https://giftegwuenu.netlify.com'
+          feed_url: 'https://giftegwuenu.com/feed.xml',
+          site_url: 'https://giftegwuenu.com'
         },
         feedItemOptions: node => ({
           title: node.title,
-          description: node.description,
-          url: 'https://giftegwuenu.netlify.com/' + 'node.fields.urlSlug',
-          author: node.fields.author
+          description: node.fields.description,
+          url: 'https://giftegwuenu.com/' + 'node.slug',
+          author: node.fields.author,
+          date: node.fields.date
         }),
         output: {
-          dir: './static/',
-          name: 'rss'
+          dir: './static',
+          name: 'feed.xml'
         }
       }
     },
