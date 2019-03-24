@@ -19,6 +19,8 @@
 - Disqus support
 - GA Support
 - RSS/Sitemap support
+- Twitter Card Preview support
+- Pagination support
 
 ## Demo URL
 
