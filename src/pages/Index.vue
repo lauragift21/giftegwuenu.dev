@@ -3,7 +3,7 @@
     <!-- Author intro -->
     <Author :show-title="true"/>
     <!-- List posts -->
-    <div class="posts">
+    <div id="main" class="posts">
       <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node"/>
     </div>
     <Pager :info="$page.allPost.pageInfo"/>

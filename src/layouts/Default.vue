@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <a class="skip" href="#main">Skip to main content</a>
     <header class="header">
       <div class="header__left">
         <Logo v-if="showLogo"/>
@@ -9,6 +10,7 @@
         <ToggleTheme/>
       </div>
     </header>
+
     <transition name="fade" appear>
       <main class="main">
         <slot/>
@@ -67,6 +69,16 @@ export default {
   }
 }
 
+.skip {
+  position: absolute;
+  left: -999em;
+}
+
+.skip:active,
+.skip:focus {
+  left: -0em;
+}
+
 .main {
   margin: 0 auto;
   padding: 1.5vw 15px 0;
@@ -89,7 +101,7 @@ export default {
   }
 }
 .fade-enter-active {
-  transition: opacity .5s;
+  transition: opacity 0.5s;
 }
 
 .fade-enter {
