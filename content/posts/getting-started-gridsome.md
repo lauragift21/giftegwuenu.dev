@@ -2,7 +2,7 @@
 title: Getting Started with Gridsome
 date: 2019-03-12
 published: true
-tags: ['gridsome','jamstack', 'links']
+tags: ['gridsome','jamstack', 'links', 'guestpost']
 canonical_url: true
 description: "The era of Static Site Generators is changing over time, a lot of cool tools are being created to help foster the JAMStack evolution and developers are embracing these tools. One of the tools for creating blazing fast websites is Gridsome."
 ---

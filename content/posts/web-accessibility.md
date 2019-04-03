@@ -2,7 +2,7 @@
 title: Web Accessibility For Beginners
 date: 2019-03-22
 published: true
-tags: ['links', 'accessibility']
+tags: ['links', 'accessibility', 'guestpost']
 canonical_url: true
 description: "Building accessible applications or websites is not the norm today. This is because the idea of accessibility is known to most developers, while in actual sense it is often neglected and not a common practice today in the world of web development."
 ---

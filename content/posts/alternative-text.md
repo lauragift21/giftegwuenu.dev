@@ -27,6 +27,7 @@ Typically, when adding an image to a webpage, we use the HTML image element to r
 
 ![girl holding burger](https://res.cloudinary.com/lauragift/image/upload/v1554123305/photo-1551212721-f0d4160f0abd_fxpx0w.jpg)
 
+
 ```html
 <img src="./burger.png" alt="A girl holding a hamburger.">
 ```
