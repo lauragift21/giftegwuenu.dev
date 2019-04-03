@@ -2,7 +2,7 @@
 title: The First Remote Nigerian Conference—Concatenate Conference 2018
 date: 2018-09-06
 published: true
-tags: ['event','links']
+tags: ['event','links', 'guestpost']
 canonical_url: true
 description: "Takeaways from the Concatenate Conference, a free conference for Nigerian developers with topics ranging from frameworks to design systems, performance to animation."
 ---

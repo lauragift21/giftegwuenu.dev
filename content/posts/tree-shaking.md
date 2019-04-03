@@ -2,7 +2,7 @@
 title: Tree-Shaking Basics for React Applications
 date: 2019-03-13
 published: true
-tags: ['react','links']
+tags: ['react','links', 'guestpost']
 canonical_url: true
 description: "Tree-shaking is an important way to reduce the size of your bundle and improve performance. See how you can do it in your React apps."
 ---
