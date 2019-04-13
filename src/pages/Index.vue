@@ -12,7 +12,7 @@
 
 <page-query>
 query Post ($page: Int) {
-   allPost(sortBy: "date", page: $page, perPage: 5) @paginate {
+   allPost(sortBy: "date", page: $page, perPage: 10) @paginate {
     pageInfo {
      totalPages,
       currentPage
