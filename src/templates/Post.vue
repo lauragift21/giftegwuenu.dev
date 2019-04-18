@@ -149,6 +149,4 @@ query Post ($path: String!) {
 .post-newsletter {
   padding: 0;
 }
-
-
 </style>
