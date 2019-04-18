@@ -6,19 +6,23 @@
       <PostMeta :post="$page.post"/>
     </div>
 
-    <div class="post content-box">
-      <div class="post__header">
-        <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
-      </div>
+    <div class="post__flex">
+      <div class="post content-box">
+        <div class="post__header">
+          <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
+        </div>
 
-      <div class="post__content" v-html="$page.post.content"/>
+        <div class="post__content" v-html="$page.post.content"/>
 
-      <div class="post__footer">
-        <PostTags :post="$page.post"/>
+        <div class="post__footer">
+          <PostTags :post="$page.post"/>
+        </div>
+        <div class="post-comments">
+          <!-- Add comment widgets here -->
+        </div>
       </div>
-      <div class="post-comments">
-        <!-- Add comment widgets here -->
-      </div>
+      <br>
+      <div id="codefund"></div>
     </div>
     <!-- Add newsletter form -->
     <Newsletter class="post-newsletter"/>
@@ -56,7 +60,10 @@ export default {
         // open graph
         { property: "og:updated_time", content: this.$page.post.date }
       ],
-      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
+      script: [
+        { src: "https://codefund.app/properties/264/funder.js", async: true }
+      ]
     };
   }
 };
@@ -120,6 +127,10 @@ query Post ($path: String!) {
       display: block;
       max-width: none;
     }
+  }
+
+  &__flex {
+    display: inline;
   }
 }
 
