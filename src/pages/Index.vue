@@ -4,7 +4,10 @@
     <Author :show-title="true"/>
     <!-- List posts -->
     <div id="main" class="posts">
-      <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node"/>
+      <div id="codefund"></div>
+      <div>
+        <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node"/>
+      </div>
     </div>
     <Pager :info="$page.allPost.pageInfo"/>
   </Layout>
@@ -53,7 +56,14 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: "Home"
+    title: "Home",
+    script: [
+      {
+        src:
+          "https://codefund.app/properties/264/funder.js?template=square",
+        async: true
+      }
+    ]
   }
 };
 </script>
@@ -72,8 +82,13 @@ a {
 }
 
 a:hover {
-  background-color: #48E617 !important;
-  border-color: #48E617 !important;
+  background-color: #48e617 !important;
+  border-color: #48e617 !important;
+}
+
+#main {
+  display: grid;
+  grid-template-columns: 22% 60%;
 }
 </style>
 

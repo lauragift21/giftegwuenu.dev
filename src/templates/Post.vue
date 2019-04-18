@@ -2,11 +2,11 @@
   <Layout>
     <div class="post-title">
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
-
       <PostMeta :post="$page.post"/>
     </div>
 
     <div class="post__flex">
+      <div id="codefund"></div>
       <div class="post content-box">
         <div class="post__header">
           <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
@@ -22,7 +22,6 @@
         </div>
       </div>
       <br>
-      <div id="codefund"></div>
     </div>
     <!-- Add newsletter form -->
     <Newsletter class="post-newsletter"/>
@@ -62,7 +61,11 @@ export default {
       ],
       script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
       script: [
-        { src: "https://codefund.app/properties/264/funder.js", async: true }
+        {
+          src:
+            "https://codefund.app/properties/264/funder.js/?template=image-only&theme=light",
+          async: true
+        }
       ]
     };
   }
@@ -130,7 +133,8 @@ query Post ($path: String!) {
   }
 
   &__flex {
-    display: inline;
+    display: grid;
+    grid-template-columns: 22% 60%;
   }
 }
 
