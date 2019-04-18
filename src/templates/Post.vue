@@ -21,6 +21,7 @@
           <!-- Add comment widgets here -->
         </div>
       </div>
+      <br>
       <div id="codefund"></div>
     </div>
     <!-- Add newsletter form -->
