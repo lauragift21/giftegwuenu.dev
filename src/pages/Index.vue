@@ -59,8 +59,7 @@ export default {
     title: "Home",
     script: [
       {
-        src:
-          "https://codefund.app/properties/264/funder.js?template=square",
+        src: "https://codefund.app/properties/264/funder.js?template=square",
         async: true
       }
     ]
@@ -89,6 +88,15 @@ a:hover {
 #main {
   display: grid;
   grid-template-columns: 22% 60%;
+}
+
+@media only screen and (max-width: 650px) {
+  #main {
+    display: block;
+  }
+  #codefund {
+    display: none;
+  }
 }
 </style>
 

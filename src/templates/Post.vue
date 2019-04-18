@@ -153,4 +153,13 @@ query Post ($path: String!) {
 .post-newsletter {
   padding: 0;
 }
+
+@media only screen and (max-width: 650px) {
+  .post {
+    &__flex {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+  }
+}
 </style>
