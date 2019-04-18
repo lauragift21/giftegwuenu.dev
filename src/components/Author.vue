@@ -12,8 +12,7 @@
     <h1 v-if="showTitle" class="author__site-title">{{ $static.metaData.siteName }}</h1>
 
     <p class="author__intro">Hello! 👋
-      <br>I’m a Software Developer based in Lagos, Nigeria and I'm passionate about the open-source community and enjoy solving complex problems using web technologies.
-    </p>
+      <br>I’m a Software Developer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and the open-source community.</p>
 
     <p class="author__links">
       <a href="//twitter.com/lauragift21">
