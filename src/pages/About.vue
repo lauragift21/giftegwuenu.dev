@@ -12,15 +12,45 @@
     </nav>
     <br>
     <div class="about__data">
-      <div class="headshot">
-        <g-image
-          src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=304&q=60"
-          alt="headshot"
-        />
-      </div>
       <div class="bio">
-        <h1>Hello! I'm Gift 👋</h1>
-        <p>I'm a software developer and technical content creator. I've been programming for 3 years now</p>
+        <span class="intro">Hello! I'm Gift 👋</span>
+        <br>
+        <span>
+          I'm a Full Stack Developer currently working at Andela, I am passionate about making the web accessible to everyone and also an advocate for building open-source projects
+          and I enjoy solving complex problems using web technologies. I'm also passionate about building communities which led me to starting
+          the
+          <a href="https://vuevixens.org">Vue Vixens</a> chapter in Nigeria and the
+          <a href="https://meetup.com/JAMStack-Lagos/">JAMstack community</a> in Lagos. I'm also a co-organizer for
+          <a href="https://concatenate.io/">Concatenate Conference.</a>
+          When I'm not coding you can find me geeking about
+          <a href="https://unsplash.com/@gift_e">Photography</a> and exploring different ways of documenting stories using photography.
+        </span>
+        <p class="links">
+          <a href="//twitter.com/lauragift21">
+            <g-image alt="twitter" class src="~/assets/images/twitter.png"/>
+          </a>
+          <a href="//dev.to/lauragift21">
+            <g-image alt="dev" class src="~/assets/images/dev.jpg" width="30"/>
+          </a>
+          <a href="//instagram.com/lauragift_">
+            <g-image alt="instagram" class src="~/assets/images/instagram.png"/>
+          </a>
+          <a href="//github.com/lauragift21">
+            <g-image alt="github" class src="~/assets/images/github.png"/>
+          </a>
+          <a href="//linkedin.com/in/egwuenugift">
+            <g-image alt="linkedin" class src="~/assets/images/linkedin.png" width="32"/>
+          </a>
+          <a href="//noti.st/lauragift21">
+            <g-image alt="notist" class src="~/assets/images/notist.jpg" width="32"/>
+          </a>
+          <a href="mailto:laurandidi21@gmail.com">
+            <g-image alt="notist" class src="~/assets/images/email.svg" width="34"/>
+          </a>
+        </p>
+      </div>
+      <div class="headshot">
+        <g-image src="../assets/images/gift.jpg" class="pic" alt="headshot" width="400"/>
       </div>
     </div>
   </div>
@@ -39,7 +69,7 @@ export default {
 .about {
   min-height: 100vh;
   text-align: center;
-  
+
   &__data {
     display: flex;
     justify-content: center;
@@ -56,8 +86,41 @@ export default {
     margin-top: 30px;
   }
 }
-
+.links {
+  margin-top: 0.9em;
+  a {
+    margin: 0 0.5em;
+  }
+}
 .bio {
-  width: 34em;
+  width: 32em;
+  margin-right: 20px;
+  text-align: left;
+}
+
+.intro {
+  font-size: 3em;
+}
+
+.pic {
+  border-radius: 2%;
+}
+
+@media only screen and (max-width: 650px) {
+  .about {
+    &__data {
+      display: flex;
+      flex-direction: column;
+
+      .bio {
+        width: 22em;
+        text-align: center;
+      }
+
+      .headshot {
+        display: none;
+      }
+    }
+  }
 }
 </style>
