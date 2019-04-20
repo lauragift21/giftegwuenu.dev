@@ -5,10 +5,7 @@
       <div class="header__left">
         <Logo v-if="showLogo"/>
       </div>
-
-      <div class="header__right">
-        <ToggleTheme/>
-      </div>
+      <Nav/>
     </header>
 
     <transition name="fade" appear>
@@ -33,6 +30,7 @@
 
 <script>
 import Logo from "~/components/Logo.vue";
+import Nav from "~/components/Nav.vue";
 import ToggleTheme from "~/components/ToggleTheme.vue";
 
 export default {
@@ -41,6 +39,7 @@ export default {
   },
   components: {
     Logo,
+    Nav,
     ToggleTheme
   }
 };
@@ -64,7 +63,7 @@ export default {
 
   @media screen and (min-width: 1300px) {
     //Make header sticky for large screens
-    position: sticky;
+    // position: sticky;
     width: 100%;
   }
 }
