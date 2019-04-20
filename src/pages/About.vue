@@ -13,10 +13,9 @@
     <br>
     <div class="about__data">
       <div class="bio">
-        <span class="intro">Hello! I'm Gift 👋</span>
-        <br>
+        <h1 class="intro">Hello! I'm Gift 👋</h1>
         <span>
-          I'm a Full Stack Developer currently working at Andela, I am passionate about making the web accessible to everyone and also an advocate for building open-source projects
+          I'm a Full Stack Developer currently working at Andela, I am passionate about making the web accessible to everyone and also an advocate for building open-source software
           and I enjoy solving complex problems using web technologies. I'm also passionate about building communities which led me to starting
           the
           <a href="https://vuevixens.org">Vue Vixens</a> chapter in Nigeria and the
