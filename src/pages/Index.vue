@@ -91,7 +91,7 @@ a:hover {
 }
 
 #codefund {
-  margin-right: 1.6em;
+  margin-right: 0.7em;
 }
 
 @media only screen and (max-width: 650px) {
