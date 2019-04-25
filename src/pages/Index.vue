@@ -5,7 +5,7 @@
     <!-- List posts -->
     <div id="main" class="posts">
       <div id="codefund"></div>
-      <div>
+      <div class="posts-card">
         <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node"/>
       </div>
     </div>
@@ -90,12 +90,22 @@ a:hover {
   grid-template-columns: 22% 60%;
 }
 
+#codefund {
+  margin-right: 1.6em;
+}
+
 @media only screen and (max-width: 650px) {
   #main {
     display: block;
   }
   #codefund {
     display: none;
+  }
+}
+
+@media only screen and (min-width: 1650px) {
+  #codefund {
+    margin-right: -9em;
   }
 }
 </style>

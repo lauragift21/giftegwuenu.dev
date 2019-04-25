@@ -162,4 +162,13 @@ query Post ($path: String!) {
     }
   }
 }
+
+@media only screen and (min-width: 1650px) {
+  .content-box {
+    margin-left: 6em;
+  }
+  #codefund {
+    margin-right: -9em;
+  }
+}
 </style>
