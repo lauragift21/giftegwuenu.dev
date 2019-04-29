@@ -154,7 +154,7 @@ query Post ($path: String!) {
   padding: 0;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 320px) and (max-width: 800px) {
   .post {
     &__flex {
       display: flex;
