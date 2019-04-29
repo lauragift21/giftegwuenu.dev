@@ -161,6 +161,9 @@ query Post ($path: String!) {
       flex-direction: column-reverse;
     }
   }
+  .content-box {
+    margin-left: 0;
+  }
 }
 
 @media only screen and (min-width: 1650px) {
