@@ -154,7 +154,7 @@ query Post ($path: String!) {
   padding: 0;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 600px) {
   .post {
     &__flex {
       display: flex;
@@ -162,7 +162,7 @@ query Post ($path: String!) {
     }
   }
   .content-box {
-    margin-left: 0;
+    margin: 0;
   }
 }
 
