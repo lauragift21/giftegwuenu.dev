@@ -154,12 +154,15 @@ query Post ($path: String!) {
   padding: 0;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 600px) {
   .post {
     &__flex {
       display: flex;
       flex-direction: column-reverse;
     }
+  }
+  .content-box {
+    margin: 0;
   }
 }
 
