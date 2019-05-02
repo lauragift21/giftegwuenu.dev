@@ -162,7 +162,7 @@ query Post ($path: String!) {
     }
   }
   .content-box {
-    margin: 0;
+    margin: 0 !important;
   }
 }
 
