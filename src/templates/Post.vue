@@ -7,7 +7,7 @@
 
     <div class="post__flex">
       <div id="codefund"></div>
-      <div class="post content-box">
+      <div class="post content-boxs">
         <div class="post__header">
           <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
         </div>
@@ -161,13 +161,13 @@ query Post ($path: String!) {
       flex-direction: column-reverse;
     }
   }
-  .content-box {
+  .content-boxs {
     margin: 0 !important;
   }
 }
 
 @media only screen and (min-width: 1650px) {
-  .content-box {
+  .content-boxs {
     margin-left: 6em;
   }
   #codefund {
