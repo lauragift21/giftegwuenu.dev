@@ -1,14 +1,14 @@
 <template>
-  <Layout>
+  <div>
     <g-link to="/">Go Home</g-link>
-    <div>
+    <div class="icon">
       <g-image src="../assets/images/404.svg"></g-image>
     </div>
-  </Layout>
+  </div>
 </template>
 
 <style scoped>
-div {
+.icon {
   display: flex;
   justify-content: center;
   align-items: center;
