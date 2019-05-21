@@ -1,8 +1,10 @@
 <template>
-  <div>
+  <Layout>
     <g-link to="/">Go Home</g-link>
-    <g-image src="../assets/images/404.svg"></g-image>
-  </div>
+    <div>
+      <g-image src="../assets/images/404.svg"></g-image>
+    </div>
+  </Layout>
 </template>
 
 <style scoped>
