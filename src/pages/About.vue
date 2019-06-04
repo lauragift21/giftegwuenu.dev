@@ -16,7 +16,7 @@
         <h1 class="intro">Hello! I'm Gift 👋</h1>
         <span>
           I'm a Full Stack Developer currently working at Andela, I am passionate about making the web accessible to everyone and also an advocate for building open-source software
-          and I enjoy solving complex problems using web technologies. I'm also passionate about building communities which led me to starting
+          and I enjoy solving complex problems using web technologies. I'm also passionate about building communities which led me to start
           the
           <a href="https://vuevixens.org">Vue Vixens</a> chapter in Nigeria and the
           <a href="https://meetup.com/JAMStack-Lagos/">JAMstack community</a> in Lagos. I'm also a co-organizer for
