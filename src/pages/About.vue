@@ -49,7 +49,7 @@
         </p>
       </div>
       <div class="headshot">
-        <g-image src="../assets/images/gift.jpg" class="pic" alt="headshot" width="400"/>
+        <g-image src="https://res.cloudinary.com/lauragift/image/upload/v1560232564/gift5_xlsgrt.jpg" class="pic" alt="headshot" />
       </div>
     </div>
   </div>
@@ -104,6 +104,7 @@ export default {
 
 .pic {
   border-radius: 2%;
+  height: 500px;
 }
 
 @media only screen and (max-width: 650px) {
