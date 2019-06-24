@@ -5,8 +5,11 @@
     <ul>
       <li v-for="talk in Talks" :key="talk.id">
         <span class="talks__date">{{talk.date}}:</span>
-        <span>&nbsp{{talk.title}} -</span>
-        <span>&nbsp{{talk.event}}</span>
+        <span class="talks__title">
+          &nbsp
+          <a :href="talk.link">{{talk.title}}</a> -
+        </span>
+        <span class="talks__date">&nbsp{{talk.event}}</span>
       </li>
     </ul>
     <h2>Upcoming</h2>
@@ -38,7 +41,10 @@ export default {
   margin: 0 auto;
   max-width: 1100px;
   &__date {
-    font-weight: 700;
+    font-weight: 400;
+  }
+  &__title {
+    font-weight: 900;
   }
 }
 </style>
