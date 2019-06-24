@@ -18,11 +18,17 @@
           I'm a Full Stack Developer currently working at Andela, I am passionate about making the web accessible to everyone and also an advocate for building open-source software
           and I enjoy solving complex problems using web technologies. I'm also passionate about building communities which led me to start
           the
-          <a href="https://vuevixens.org">Vue Vixens</a> chapter in Nigeria and the
+          <a
+            href="https://vuevixens.org"
+          >Vue Vixens</a> chapter in Nigeria and the
           <a href="https://meetup.com/JAMStack-Lagos/">JAMstack community</a> in Lagos. I'm also a co-organizer for
-          <a href="https://concatenate.io/">Concatenate Conference.</a>
+          <a
+            href="https://concatenate.io/"
+          >Concatenate Conference.</a>
           When I'm not coding you can find me geeking about
-          <a href="https://unsplash.com/@gift_e">Photography</a> and exploring different ways of documenting stories using photography.
+          <a
+            href="https://unsplash.com/@gift_e"
+          >Photography</a> and exploring different ways of documenting stories using photography.
         </span>
         <p class="links">
           <a href="//twitter.com/lauragift21">
@@ -49,17 +55,24 @@
         </p>
       </div>
       <div class="headshot">
-        <g-image src="https://res.cloudinary.com/lauragift/image/upload/v1560232564/gift5_xlsgrt.jpg" class="pic" alt="headshot" />
+        <g-image
+          src="https://res.cloudinary.com/lauragift/image/upload/v1560232564/gift5_xlsgrt.jpg"
+          class="pic"
+          alt="headshot"
+        />
       </div>
     </div>
+    <Talks />
   </div>
 </template>
 
 <script>
 import ToggleTheme from "~/components/ToggleTheme.vue";
+import Talks from "~/components/Talks.vue";
 export default {
   components: {
-    ToggleTheme
+    ToggleTheme,
+    Talks
   }
 };
 </script>
@@ -67,14 +80,11 @@ export default {
 <style lang="scss">
 .about {
   min-height: 100vh;
-  text-align: center;
 
   &__data {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
-    margin: 20px;
   }
 }
 .nav {
