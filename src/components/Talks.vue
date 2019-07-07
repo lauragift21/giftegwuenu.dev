@@ -47,4 +47,9 @@ export default {
     font-weight: 900;
   }
 }
+@media only screen and (max-width: 650px) {
+  .talks {
+    margin: 10px;
+  }
+}
 </style>
