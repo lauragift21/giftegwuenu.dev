@@ -6,10 +6,10 @@
       <li v-for="talk in Talks" :key="talk.id">
         <span class="talks__date">{{talk.date}}:</span>
         <span class="talks__title">
-          &nbsp
+          &nbsp;
           <a :href="talk.link">{{talk.title}}</a> -
         </span>
-        <span class="talks__date">&nbsp{{talk.event}}</span>
+        <span class="talks__date">&nbsp;{{talk.event}}</span>
       </li>
     </ul>
     <h2>Upcoming</h2>
