@@ -2,7 +2,7 @@
 title: How to Center Anything in CSS
 date: 2018-03-23
 published: true
-tags: ['CSS']
+tags: ['css']
 canonical_url: false
 description: "Learn how to center elements with Flexbox and CSS Grid."
 ---
