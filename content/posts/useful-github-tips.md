@@ -4,12 +4,12 @@ date: 2018-05-04
 published: true
 tags: ['git','github']
 canonical_url: false
-description: " Awesome tips on how to write better git commit messages."
+description: "Awesome tips on how to write better git commit messages."
 ---
 
 <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fabd1faaf3f2d74f786b992c54dc14f96cf25165f.5b1fa3dd-ba67-4e9e-bb70-c71e6ecdda37.mp3'></iframe>
 
-Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. As a developer one of the basic tools we can’t escape using is making use of git for our workflow. One of the mistakes most developers make. Well this is technically not a mistake but you know the saying “ if you can do it better then why not”.
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. As a developer one of the basic tools we can’t escape using is making use of git for our workflow. One of the mistakes most developers make well this is technically not a mistake but you know the saying “if you can do it better then why not”.
 
 **Some Rules to keep in mind when writing commit messages**
 
@@ -37,7 +37,7 @@ _Instead of this:_
 git commit -m "Add new feature"
 ```
 
-**Mistake 2: Not limiting the subject to more than 50 chars**
+**Mistake 2: Not limiting the subject to more than 50 characters**
 
 Always make sure the subject of commit never exceeds 50 characters it’s a general rule of thumb. Having more characters tends to get truncated by GitHub and what we are striving for is for a user to know what a commit is doing at one glance.
 
@@ -87,7 +87,7 @@ Notice how this doesn’t work for the other non-imperative forms:
 
 **Mistake 6: Making a long note for body of commit message**
 
-Some commit messages requires more explanation especially when the subject line is vague. adding body to the commit comes handy in cases like this. Always strive to limit the number of char in the body to 72 char. let your body explain what the commit is doing and why it is doing it.
+Some commit messages requires more explanation especially when the subject line is vague. adding body to the commit comes handy in cases like this. Always strive to limit the number of characters in the body to 72 characters. let your body explain what the commit is doing and why it is doing it.
 
 **Mistake 7: Use the body to explain what and why vs. how**
 
