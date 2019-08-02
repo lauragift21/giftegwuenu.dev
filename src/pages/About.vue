@@ -56,7 +56,7 @@
       </div>
       <div class="headshot">
         <g-image
-          src="https://res.cloudinary.com/lauragift/image/upload/v1560232564/gift5_xlsgrt.jpg"
+          src="https://res.cloudinary.com/lauragift/image/upload/v1562153429/gift5_irlhir.jpg"
           class="pic"
           alt="headshot"
         />
