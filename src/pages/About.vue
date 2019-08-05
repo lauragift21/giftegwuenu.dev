@@ -113,8 +113,8 @@ export default {
 }
 
 .pic {
-  border-radius: 2%;
-  height: 500px;
+  border-radius: 3px;
+  height: 400px;
 }
 
 @media only screen and (max-width: 650px) {
