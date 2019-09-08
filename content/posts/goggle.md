@@ -2,7 +2,7 @@
 title: The Art of Googling
 date: 2019-09-07
 published: true
-tags: ['skills', 'work']
+tags: ['skills', 'productivity']
 canonical_url: true
 description: "Google is your best friend. Learning how to properly Google problems when you have a blocker is a key skill for every developer out there."
 ---
