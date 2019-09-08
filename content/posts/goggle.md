@@ -7,7 +7,7 @@ canonical_url: true
 description: "Google is your best friend. Learning how to properly Google problems when you have a blocker is a key skill for every developer out there."
 ---
 
-Inspired by this article from [localghost.dev](https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/),I've decided to write mine but with a twist. In this article, I'll be outlining some tips for improving googling skills and also share the things that I've googled in the past week as a Software Engineer. This should be interesting right let's find out!
+Inspired by this article from [localghost.dev](https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/), I've decided to write mine but with a twist. In this article, I'll be outlining some tips for improving your googling skills and also share the things that I've googled in the past week as a Software Engineer. This should be interesting right let's find out!
 
 
 ![QoPHzAqpt5](https://user-images.githubusercontent.com/17781315/64488351-d7182580-d23e-11e9-92b8-20ebeba95cfd.gif)
@@ -16,17 +16,19 @@ Inspired by this article from [localghost.dev](https://localghost.dev/2019/09/ev
 
 
 ## Helpful Tips For Improving Your Googling Skills
-- **Using the wildcard asterisk (*):** This is a recent trick I learned. When searching for answers with a specific error. You can copy the enitre error to google search and get a few results related because you added some keys specific to your app. But in order to get the best results you can edit that and add the asterik wildcard to your search and this will improve your result and give you precise answers to what you need.
+- **Using the wildcard asterisk (*):** This is a recent trick I learned when searching for answers with a specific error. You can copy the entire error to google search and get a few results related because you added some keys specific to your app. But to get the best results, you can edit that and add the asterisk wildcard to your search and this will improve your result and give you precise answers to what you need.
 
 ![Shot](https://user-images.githubusercontent.com/17781315/64489479-95da4280-d24b-11e9-9af7-0e82eb71ea8d.png)
 
-- **Using a specific domain:** Adding a specific domain can also help you refine your result when searching on google. If you know the specific site to search for instance Stack Overflow. You can append the site name `site: sitename` to your search so it returns results from that site.
+- **Using a specific domain:** Adding a specific domain can also help you refine your result when searching on google. If you know the specific site to search i.e Stack Overflow. You can append the site name `site: sitename` to your search so it returns results only from that site.
 
 ![Screen Shot 2019-09-08 at 3 20 05 PM](https://user-images.githubusercontent.com/17781315/64489528-2add3b80-d24c-11e9-8630-e1fcc30ec7a2.png)
 
-- **Use Good Keywords:** Finding results tailored to your search depends on what kind of keyword is used. When conducting a search include a keyword that is closely related to the problem you are searching (e.g JavaScript, Array Methods etc).
+- **Use Good Keywords:** Finding results tailored to your search depends on what kind of keyword you use. When searching, include a keyword that is closely related to the problem you are searching (e.g JavaScript, Array Methods, etc).
 
-- **Filter and refine your search:** 
+- **Search for Titles, Text using intext:** You can refine your search to only return texts or titles from a specific site. This will help drill down the result to return exactly what you're searching for.
+
+![Screen Shot 2019-09-08 at 3 37 16 PM](https://user-images.githubusercontent.com/17781315/64489754-9e804800-d24e-11e9-9aed-06291295dd46.png)
 
 ## What I Googled in the Past Week
 
