@@ -26,7 +26,7 @@ Inspired by this article from [localghost.dev](https://localghost.dev/2019/09/ev
 
 - **Use Good Keywords:** Finding results tailored to your search depends on what kind of keyword you use. When searching, include a keyword that is closely related to the problem you are searching (e.g JavaScript, Array Methods, etc).
 
-- **Search for Titles, Text using intext:** You can refine your search to only return texts or titles from a specific site. This will help drill down the result to return exactly what you're searching for.
+- **Search for Titles using intitle, Text using intext** You can refine your search to only return texts or titles from a specific site. This will help drill down the result to return exactly what you're searching for. When searching for title you can use intitle as a prefix and intext: for text in the body of the site.
 
 ![Screen Shot 2019-09-08 at 3 37 16 PM](https://user-images.githubusercontent.com/17781315/64489754-9e804800-d24e-11e9-9aed-06291295dd46.png)
 
