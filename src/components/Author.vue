@@ -23,7 +23,7 @@
       <a href="//dev.to/lauragift21">
         <g-image alt="dev" class src="~/assets/images/dev.jpg" width="30"/>
       </a>
-      <a href="//instagram.com/lauragift_">
+      <a href="//instagram.com/thegiftcode_">
         <g-image alt="instagram" class src="~/assets/images/instagram.png"/>
       </a>
       <a href="//github.com/lauragift21">
