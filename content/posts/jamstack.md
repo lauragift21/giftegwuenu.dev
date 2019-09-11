@@ -7,7 +7,7 @@ canonical_url: false
 description: "JAMstack is a modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fe4510f8079e5e5667b049c75e8e98f2349c57f08.28cb8043-e474-44b9-ac4e-5ab9a7256346.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fe4510f8079e5e5667b049c75e8e98f2349c57f08.28cb8043-e474-44b9-ac4e-5ab9a7256346.mp3'></iframe> -->
 
 Have you ever wanted to build a modern web application without all the gimmick then you should have already heard of the `JAMstack` where `JAM` stands for `JavaScript API's and Markup`.
 

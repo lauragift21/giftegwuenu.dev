@@ -8,7 +8,7 @@ canonical_url: false
 description: "Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.Learn the nitty gritty of using Oh My Zsh for make your terminal com alive"
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F6f48f43e318a0676ad198fa89223a3f758fee41d.4ef465eb-2ff9-47f2-a1ea-b45b63e798e3.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F6f48f43e318a0676ad198fa89223a3f758fee41d.4ef465eb-2ff9-47f2-a1ea-b45b63e798e3.mp3'></iframe> -->
 
 Tired of the good ol' boring looking terminal? Do you want to try something different and funky then you should definitely try Oh-my-zsh! As developers, we can't deny the fact that the Command line terminal is part of our existence._
 

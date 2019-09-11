@@ -8,7 +8,7 @@ canonical_url: false
 description: "React v16.7.0 was introduced at the React Conf 2018 and Dan Abramov did the honors of letting the cat out of the bag when he introduced React Hooks.  We only just got a new release React v16.6.0:lazy, memo and contextType and now Hooks don’t you just love the react community."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fb83af23d5742cb52468fd08ccb8342d0a3e6c2f9.bf9ce1dd-570b-42bc-bb7f-b23d7cc5c6d8.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Fb83af23d5742cb52468fd08ccb8342d0a3e6c2f9.bf9ce1dd-570b-42bc-bb7f-b23d7cc5c6d8.mp3'></iframe> -->
 
 **[React v16.8.0](https://reactjs.org/docs/hooks-intro.html) was introduced at the React Conf 2018 and officially released in February 2019. [Dan Abramov] (https://twitter.com/dan_abramov) did the honors of letting the cat out of the bag when he introduced [React Hooks.](https://reactjs.org/docs/hooks-intro.html) We only just got a new release React v16.6.0: lazy, memo and contextType and now Hooks don't you just love the react community.**
 

@@ -41,6 +41,11 @@ export default {
     Logo,
     Nav,
     ToggleTheme
+  },
+  metaInfo() {
+    return {
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
+    }
   }
 };
 </script>

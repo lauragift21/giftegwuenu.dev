@@ -19,8 +19,8 @@ module.exports = {
         route: '/:slug',
         remark: {
           plugins: [
-            ['gridsome-plugin-remark-twitter', {
-              debug: true
+            ['@noxify/gridsome-plugin-remark-embed', {
+              'enabledProviders' : ['Youtube', 'Twitter', 'Gist'],
             }]
           ]
         },

@@ -7,7 +7,7 @@ canonical_url: false
 description: "Learn how to center elements with Flexbox and CSS Grid."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F7a89f3a2653c0ba3d4f570af5f19fadc51a2d9f1.ac5b952c-03a2-4eb5-bf29-ef6cf3d6b635.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F7a89f3a2653c0ba3d4f570af5f19fadc51a2d9f1.ac5b952c-03a2-4eb5-bf29-ef6cf3d6b635.mp3'></iframe> -->
 
 Centering in CSS can be a pain in the ass. There are several methods to achieve just one task, centering an element. To cut to the chase i'll outline two quick methods to achieve this in a jiffy ✈.
 

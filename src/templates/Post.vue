@@ -59,7 +59,6 @@ export default {
         // open graph
         { property: "og:updated_time", content: this.$page.post.date }
       ],
-      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
       script: [
         {
           src:
