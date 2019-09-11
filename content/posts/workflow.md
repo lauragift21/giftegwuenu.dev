@@ -8,7 +8,7 @@ canonical_url: false
 description: "In this post I’ll outline the tools I use for my day to day activities."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F217a029af55bc18feb46c83f62ca6b7c30d781c9.114d0841-0590-4550-ac87-d2b6e1f5f58a.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F217a029af55bc18feb46c83f62ca6b7c30d781c9.114d0841-0590-4550-ac87-d2b6e1f5f58a.mp3'></iframe> -->
 
 Nearly every developer works with different tools on a daily basis to help them achieve their goals or complete specific tasks. In this post, I’ll outline the tools I use for my day to day activities. First thing I’ll like to do is define a workflow.
 

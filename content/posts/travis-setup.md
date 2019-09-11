@@ -8,7 +8,7 @@ canonical_url: false
 description: "This tutorial will take you through how to setup CI with travis in nodejs app"
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F0c36c2d676426bcaac9fa74cee12dbd86607a879.59c77039-9f59-4802-896c-22ccfd8feeff.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border: none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F0c36c2d676426bcaac9fa74cee12dbd86607a879.59c77039-9f59-4802-896c-22ccfd8feeff.mp3'></iframe> -->
 
 This post will explain in detail how to go about setting up [Travis CI](https://travis-ci.org/) deployment in a nodejs project.
 

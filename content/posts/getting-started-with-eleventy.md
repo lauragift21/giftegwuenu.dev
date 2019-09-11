@@ -8,7 +8,7 @@ canonical_url: false
 description: "The era of static sites generators is ever growing due to the popularity of JamStack on the web. We'll learn how to get started with 11ty, a static site generator and explore its use cases."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border:none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Ff5a2aefd034c4c23303ac013b55cd0b7f324fd44.1767b4f5-64d9-46b9-b0e0-eb43db5ecc21.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border:none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2Ff5a2aefd034c4c23303ac013b55cd0b7f324fd44.1767b4f5-64d9-46b9-b0e0-eb43db5ecc21.mp3'></iframe> -->
 
 _Due to the ever evolving nature of the web, there's always a buzzword here and there or new tech popping, leaving us as developers in awe of what to actually learn and get a hang of._
 

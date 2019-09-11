@@ -7,7 +7,7 @@ canonical_url: false
 description: "I moved my content from writing in markdown to writing content with a CMS. This makes creating content seamless as I have most of the things I would manually do automated for me."
 ---
 
-<iframe title="parler" style="width: 100%; max-height: 115px; border:none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F4934d422476cf488c04b4942bf858e580a1254ee.bc4a5c43-97f6-49d0-9f63-124a0fef49e2.mp3'></iframe>
+<!-- <iframe title="parler" style="width: 100%; max-height: 115px; border:none;" src='https://api.parler.io/ss/player?url=https%3A%2F%2Fwww.parler.io%2Faudio%2F16923918848%2F4934d422476cf488c04b4942bf858e580a1254ee.bc4a5c43-97f6-49d0-9f63-124a0fef49e2.mp3'></iframe> -->
 
  _Here's a quick disclaimer. I use what works best for me, there are several other ways to write content for your blog. what matters to me is how to get the content out sooner and I found out going with this route could help me speed things up. This is what works for me, You can give it a try and see if it suits your needs too._
 
