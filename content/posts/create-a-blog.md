@@ -7,8 +7,6 @@ canonical_url: true
 description: "In this post, I'll outline the benefits of blogging and why it's important to start a blog as a developer and also share several ways you can get your blog up and running."
 ---
 
-![bANNER](https://res.cloudinary.com/practicaldev/image/fetch/s--9K2g73UM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/gr0dt31b0rbqol277wpc.png)
-
 As developers, We always tend to look up solutions to a bug or error on Google and half the time we do this we are redirected to a blog written by another developer or even yourself in some cases. This is one of the ultimate reasons for owning a personal blog - teaching other developers.
 In this post, I'll outline the benefits of blogging and why it's important to start a blog as a developer and also share several ways you can get your blog up and running.
 
