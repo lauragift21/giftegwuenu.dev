@@ -7,6 +7,8 @@ canonical_url: true
 description: "In this post, I'll outline the benefits of blogging and why it's important to start a blog as a developer and also share several ways you can get your blog up and running."
 ---
 
+![bANNER](https://res.cloudinary.com/practicaldev/image/fetch/s--9K2g73UM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/gr0dt31b0rbqol277wpc.png)
+
 As developers, We always tend to look up solutions to a bug or error on Google and half the time we do this we are redirected to a blog written by another developer or even yourself in some cases. This is one of the ultimate reasons for owning a personal blog - teaching other developers.
 In this post, I'll outline the benefits of blogging and why it's important to start a blog as a developer and also share several ways you can get your blog up and running.
 
@@ -33,7 +35,7 @@ But feel free to disregard my recommendation and do what fits your needs.
 
 - **Pick a Domain or Field:** This should always be your first thought before going on to publish your first post. Think about what you want to specialize in. Are you more interested in web, mobile, security, or career guides? This is the best time to pick a domain you can as well do as much as you want but make sure you are specific to get a target audience that will always return to your blog.
 - **Create a Platform:** This is the interesting part that I love. You get to choose a platform that best suits your needs. I'm going to outline some platform I think it's great and you make the choice.
-  - Build your blog! You can either decide to use Wordpress or Wixx which are pre-generated CMS or pick a static site generator like Gatsby and Hugo and create a custom made blog for yourself.
+   - Build your blog! You can either decide to use Wordpress or Wixx which are pre-generated CMS or pick a static site generator like Gatsby and Hugo and create a custom made blog for yourself.
   - [Medium](https://medium.com): You can create an account and post directly to medium the downside to this is [you don't own your content](https://ownyourcontent.wordpress.com/2019/05/14/khoi-vinh-on-how-his-blog-amplified-his-work-and-career/).
   - [Dev.to](https://dev.to):  This platform allows you to post your content and has a huge developer community and also allows you to cross-post your content more on that later.
   - [Hashnode](https://hashnode.com): Hashnode is also a great platform for blogging with a huge number of developer centered content.
