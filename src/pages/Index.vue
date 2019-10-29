@@ -4,7 +4,7 @@
     <Author :show-title="true" />
     <!-- List posts -->
     <div id="main" class="posts">
-      <CarbonAds/>
+      <carbon-ads></carbon-ads>
       <div class="posts-card">
         <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node" />
       </div>
