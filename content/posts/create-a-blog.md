@@ -47,7 +47,7 @@ But feel free to disregard my recommendation and do what fits your needs.
 
 I follow the same process I've outlined above but I'll go ahead and share in detail how I create my content.
 
-- [My blog](https://giftegwuenu.com) is built using [Gridsome](www.gridsome.com) static site generator hosted on [Netlify](www.netlify.com) and I write my content in [Markdown](https://www.markdownguide.org/basic-syntax/).
+- [My blog](https://giftegwuenu.com) is built using [Gridsome](www.gridsome.org) static site generator hosted on [Netlify](www.netlify.com) and I write my content in [Markdown](https://www.markdownguide.org/basic-syntax/).
 - I have a Notion Page dedicated to collecting blog post ideas when I think of an idea I add it on there.
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/2022roez4pnw8dhuyyki.png)
 - I start an article by researching on the topic if it's new to me and coming up with an outline. After I complete the article I syndicate to [Dev.to](www.dev.to) and share it on social media(Twitter, Instagram, Linkedin).
