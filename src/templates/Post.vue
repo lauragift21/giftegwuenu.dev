@@ -4,9 +4,8 @@
       <h1 class="post-title__text">{{ $page.post.title }}</h1>
       <PostMeta :post="$page.post"/>
     </div>
-
     <div class="post__flex">
-      <div id="codefund"></div>
+      <carbon-ads></carbon-ads>
       <div class="post content-boxs">
         <div class="post__header">
           <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
@@ -34,13 +33,15 @@ import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Author from "~/components/Author.vue";
 import Newsletter from "~/components/Newsletter.vue";
+import CarbonAds from "~/components/CarbonAds.vue";
 
 export default {
   components: {
     Author,
     PostMeta,
     PostTags,
-    Newsletter
+    Newsletter,
+    CarbonAds
   },
   metaInfo() {
     return {
@@ -59,13 +60,6 @@ export default {
         // open graph
         { property: "og:updated_time", content: this.$page.post.date }
       ],
-      script: [
-        {
-          src:
-            "https://codefund.app/properties/264/funder.js/?template=image-only&theme=light",
-          async: true
-        }
-      ]
     };
   }
 };
@@ -168,9 +162,6 @@ query Post ($path: String!) {
 @media only screen and (min-width: 1650px) {
   .content-boxs {
     margin-left: 6em;
-  }
-  #codefund {
-    margin-right: -9em;
   }
 }
 </style>
