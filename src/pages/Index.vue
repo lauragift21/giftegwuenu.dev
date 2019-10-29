@@ -4,7 +4,7 @@
     <Author :show-title="true" />
     <!-- List posts -->
     <div id="main" class="posts">
-      <div id="carbonads"></div>
+      <CarbonAds/>
       <div class="posts-card">
         <PostCard v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node" />
       </div>
@@ -48,23 +48,18 @@ query Post ($page: Int) {
 import { Pager } from "gridsome";
 import Author from "~/components/Author.vue";
 import PostCard from "~/components/PostCard.vue";
+import CarbonAds from "~/components/CarbonAds.vue";
 
 export default {
   components: {
     Pager,
     Author,
-    PostCard
+    PostCard,
+    CarbonAds
   },
   metaInfo: {
     title: "Home",
-    script: [
-      {
-        src:
-          "https://cdn.carbonads.com/carbon.js?serve=CE7DV2J7&placement=wwwgiftegwuenucom",
-        async: true
-      }
-    ]
-  }
+  },
 };
 </script>
 
@@ -91,89 +86,9 @@ a:hover {
   grid-template-columns: 22% 60%;
 }
 
-#carbonads {
-  position: relative;
-  display: flex;
-  width: 300px;
-  height: 250px;
-  background-color: #fff;
-  box-shadow: inset 0 0 1px 1px hsla(0, 0%, 0%, 0.15);
-  text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
-
-  justify-content: center;
-  align-items: center;
-}
-
-#carbonads a {
-  color: #111;
-  text-decoration: none;
-}
-
-#carbonads a:hover {
-  color: #111;
-}
-
-#carbonads span {
-  display: block;
-  overflow: hidden;
-}
-
-.carbon-img {
-  display: block;
-  margin: 0 0 8px;
-  line-height: 1;
-}
-
-.carbon-img img {
-  max-width: 150px !important;
-  width: 150px;
-  height: auto;
-}
-
-.carbon-text {
-  display: block;
-  margin-bottom: 8px;
-  padding: 0 10px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.35;
-}
-
-.carbon-poweredby {
-  position: absolute;
-  right: 10px;
-  bottom: 10px;
-  display: block;
-  padding: 5px 6px;
-  border-radius: 2.5px;
-  background-color: hsl(246, 93%, 69%);
-  color: #fff !important;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-weight: 600;
-  font-size: 8px;
-  line-height: 1;
-}
-
-#carbonads {
-  margin-right: 0.7em;
-}
-
 @media only screen and (max-width: 650px) {
   #main {
     display: block;
-  }
-  #carbonads {
-    display: none;
-  }
-}
-
-@media only screen and (min-width: 1650px) {
-  #carbonads {
-    margin-right: -9em;
   }
 }
 </style>
