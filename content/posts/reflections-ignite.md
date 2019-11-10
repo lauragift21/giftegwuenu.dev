@@ -7,7 +7,7 @@ canonical_url: false
 description: " I had the opportunity to attend Microsoft Ignite as a community leader. Here's my recap and reflections from the conference"
 ---
 
-This past week, I had the opportunity to attend [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) as a community leader. This is by far one of the best things that have ever happened to me this year. Over the last few years, I started my career in tech, I've always wanted to attend an international conference I just didn't know when I'll get the chance to.
+This past week, I had the opportunity to attend [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) as a community leader. This is by far one of the best things that have ever happened to me this year. Over the last few years, I started my career in tech I've always wanted to attend an international conference I just didn't know when I'll get the chance to.
 
 https://twitter.com/lauragift21/status/1191056103045550080
 
