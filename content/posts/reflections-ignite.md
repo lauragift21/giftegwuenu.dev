@@ -1,6 +1,6 @@
 ---
 title: Reflections from Microsoft Ignite 2019
-date: 2019-11-09
+date: 2019-11-10
 published: true
 tags: ['conferences']
 canonical_url: false
