@@ -26,5 +26,12 @@
     "date": "April, 27 2019",
     "event": "Women TechMakers Ajah, Nigeria",
     "link": "https://speakerdeck.com/lauragift21/building-a-killer-personal-brand"
+  },
+  {
+    "id": "6",
+    "title": "Debugging Like a Boss: A Developer's Guide to Great Debugging Experience",
+    "date": "November, 16 2019",
+    "event": "Denver Script Colorado",
+    "link": "https://bit.ly/debugging-talk"
   }
 ]
