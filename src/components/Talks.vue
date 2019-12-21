@@ -4,7 +4,7 @@
     <h2>Upcoming</h2>
     <p>April, 22-24 2020: 
       <span class="talks__title">JAMstack FTW: Static Site Generation With Vue - </span> 
-      Refactr 2020, Altanta
+      REFACTR 2020, Altanta
     </p>
     <h2>Past</h2>
     <ul>
