@@ -1,6 +1,11 @@
 <template>
   <div class="talks">
     <h1>Speaking Engagements 🔈</h1>
+    <h2>Upcoming</h2>
+    <p>April, 22-24 2020: 
+      <span class="talks__title">JAMstack FTW: Static Site Generation With Vue - </span> 
+      REFACTR 2020, Altanta
+    </p>
     <h2>Past</h2>
     <ul>
       <li v-for="talk in Talks" :key="talk.id">
@@ -12,8 +17,6 @@
         <span class="talks__date">&nbsp;{{talk.event}}</span>
       </li>
     </ul>
-    <h2>Upcoming</h2>
-    <p>Coming Soon...</p>
     <p>
       Interested in having me speak at your event?
       Let's talk about it via
