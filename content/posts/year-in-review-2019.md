@@ -73,6 +73,7 @@ My life was quite interesting nothing out of the blue. I was more intentional ab
 
 
 - I read about 5 books not proud of this because I wanted to do more but didn’t dedicate time to reach my set goal. I promise myself I’ll do better by investing in audiobooks.
+- I turned 24 and it feels like I’m getting old omg!!
 - I traveled to 6 cities in 3 countries. This was such an amazing experience and I look forward to doing more trips in 2020.
 ![https://traveltip.org/countries_visited.php](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577445001015_visited_countries.php.png)
 
