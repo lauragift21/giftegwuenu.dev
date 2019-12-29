@@ -7,7 +7,7 @@ canonical_url: true
 description: "I tagged 2019 my year of grace because a lot of events that happened in my life didn’t go the way I had planned it they were even better than I expected."
 ---
 
-The year is 2025, and I’m randomly scrolling through my blog and I come across this post I’m about to write one thing I know is I’ll have a sheepish smile on my face. The purpose of writing a year-end review every year is to reflect on how well you did, check yourself and set goals for the upcoming year. [I started doing this in 2018](https://www.giftegwuenu.com/my-2018-year-in-review-and-2019-resolutions) and I know there’s value here and it helps reinforce the fact that I’m doing great and hitting my long term goals.
+The year is 2025, and I’m randomly scrolling through my blog and I come across this post I’ve written, one thing is certain I’ll have a sheepish smile on my face. The purpose of writing a year-end review is to reflect on how well you did, check yourself and set goals for the next year. [I started doing this in 2018](https://www.giftegwuenu.com/my-2018-year-in-review-and-2019-resolutions) and I know there’s value here and it helps reinforce the fact that I’m doing great and hitting my long term goals.
 
 I resolved at the beginning of the year to create a list of things I wanted to achieve before the year runs out I used Notion for tracking my progress which I find helpful. I’m happy to say I accomplished all my goals for the year. Well, except a few like learning how to drive but I’ve moved those to my 2020 goals.  
 
@@ -36,7 +36,7 @@ Overall I think my growth pivoted this year, Things started great at work as I g
 
 
 ### **Writing, Speaking & Community**   
-I wrote a total of 23 articles both on my blog and other publications and traffic on my blog grew by over 15,000 page views. I shared a lot of tutorials and decided to try video tutorials as well. I created 11 videos on [my YouTube Channel](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA) and grew my subscribers to 444 amazing viewers.
+I wrote a total of 23 articles both on my blog and other publications and traffic on my blog grew by over 15,000 page views. I shared a lot of tutorials and decided to try video tutorials as well. I created 12 videos on [my YouTube Channel](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA) and grew my subscribers to 446 amazing subs.
 
 My favorites among articles I wrote:
 
@@ -44,6 +44,12 @@ My favorites among articles I wrote:
 - [Building a UI Component with React & Storybook](https://www.giftegwuenu.com/building-a-ui-component-with-react-and-storybook)
 - [A Practical Guide to Optimizing Performance on the Web](https://www.giftegwuenu.com/a-practical-guide-to-optimizing-performance-on-the-web)
 - [Guide to using Alternative Text on Images](https://www.giftegwuenu.com/guide-to-using-alternative-text-on-images)
+
+and YouTube Videos:
+
+- [Personal Branding for Software Engineers and Designers](https://www.youtube.com/watch?v=HxDqyK3fNUs)
+- [A Day in the Life of a Software Engineer in Lagos](https://www.youtube.com/watch?v=9mLMtAxSr8U)
+- [WHAT'S IN MY WORK BAG?! // Software Engineer Edition 👩‍💻](https://www.youtube.com/watch?v=ENaGmtn8dho&t=238s)
 
 
 ![YouTube Channel](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577441397781_Screenshot+2019-12-27+at+10.40.27+AM.png)
@@ -82,7 +88,9 @@ My life was quite interesting nothing out of the blue. I was more intentional ab
 - I decided to cut my hair. Best decision ever as I now feel free I never liked making my natural hair it was so painful.
 ![Big Chop](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577445904155_IMG_0349-COLLAGE.jpg)
 
-
+## Humans of 2019
+I couldn't think of a better name for this section. I had grateful list in mind but decided to change it last minute. A special list of people who came through for me this year in one way or another and I want to thank them for taking a chance on me. These are people I now call friends and happy I have them in my life.
+[Sarah Drasner](https://twitter.com/sarah_edo), [Franca Rotwukka](https://twitter.com/Mac_2reel), [Simona Cotin](https://twitter.com/simona_cotin), [Karissa Peth](https://twitter.com/karissapeth), [Adora Nwodo](https://twitter.com/AdoraNwodo)
 
 ## What’s Next?  
 
