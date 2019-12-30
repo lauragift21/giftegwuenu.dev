@@ -96,7 +96,7 @@ I couldn't think of a better name for this section. I had grateful list in mind 
 
 ## What’s Next?  
 
-I have a couple of things planned out for 2020. I also look forward to doing even more work and creating an impact than I did this year. It’s been such an exciting and scary journey I’ve had and I sincerely look forward to what I do with myself in 2020. My mantra for 2020 is to Do The Work!! Some plans I’ve in the works and hope to achieve include:
+I have a couple of things planned out for 2020. I also look forward to doing even more work and creating more impact than I did this year. It’s been such an exciting and scary journey I’ve had and I sincerely look forward to what I do with myself in 2020. My mantra for 2020 is to Do The Work!! Some plans I’ve in the works and hope to achieve include:
 
 **More Speaking Engagements:** I hope to speak at more events in 2020 and also improve my skills as a speaker. 
 
