@@ -1,6 +1,6 @@
 ---
 title: 2019 In Review; My Year of Grace
-date: 2019-12-31
+date: 2019-12-30
 published: true
 tags: ['year-review','life-events']
 canonical_url: true
