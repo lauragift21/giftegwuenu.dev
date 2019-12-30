@@ -92,7 +92,7 @@ I'll be lying to myself if I said the entire 2019 was great and only good things
 
 ## Humans of 2019
 I couldn't think of a better name for this section. I had grateful list in mind but decided to change it last minute. A special list of people who came through for me this year in one way or another and I want to thank them for taking a chance on me. These are people I now call friends and happy I have them in my life.
-[Sarah Drasner](https://twitter.com/sarah_edo), [Franca Rotwukka](https://twitter.com/Mac_2reel), [Simona Cotin](https://twitter.com/simona_cotin), [Karissa Peth](https://twitter.com/karissapeth), [Adora Nwodo](https://twitter.com/AdoraNwodo)
+[Sarah Drasner](https://twitter.com/sarah_edo), [Franca Rotwukka](https://twitter.com/Mac_2reel), [Simona Cotin](https://twitter.com/simona_cotin), [Karissa Peth](https://twitter.com/karissapeth), [Adora Nwodo](https://twitter.com/AdoraNwodo), [Seyi Adeleke](https://twitter.com/seyi__adeleke)
 
 ## What’s Next?  
 
