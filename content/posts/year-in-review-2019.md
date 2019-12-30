@@ -9,7 +9,7 @@ description: "I tagged 2019 my year of grace because a lot of events that happen
 
 The year is 2025, and I’m randomly scrolling through my blog and I come across this post I’ve written, one thing is certain I’ll have a sheepish smile on my face. The purpose of writing a year-end review is to reflect on how well you did, check yourself and set goals for the next year. [I started doing this in 2018](https://www.giftegwuenu.com/my-2018-year-in-review-and-2019-resolutions) and I know there’s value here and it helps reinforce the fact that I’m doing great and hitting my long term goals.
 
-I resolved at the beginning of the year to create a list of things I wanted to achieve before the year runs out I used Notion for tracking my progress which I find helpful. I’m happy to say I accomplished all my goals for the year. Well, except a few like learning how to drive but I’ve moved those to my 2020 goals.  
+I resolved at the beginning of the year to create a list of things I wanted to achieve before the year runs out I used [Notion](https://www.notion.so/?r=dc185bbb4b3443619f50b44d8415422d) for tracking my progress which I find helpful. I’m happy to say I accomplished all my goals for the year. Well, except a few like learning how to drive but I’ve moved those to my 2020 goals.  
 
 ![My Notion Board](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577438430063_Screenshot+2019-12-27+at+10.20.15+AM.png)
 
