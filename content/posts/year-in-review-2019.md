@@ -36,7 +36,7 @@ Overall I think my growth pivoted this year, Things started great at work as I g
 
 
 ### **Writing, Speaking & Community**   
-I wrote a total of 23 articles both on my blog and other publications and traffic on my blog grew by over 15,000 page views. I shared a lot of tutorials and decided to try video tutorials as well. I created 12 videos on [my YouTube Channel](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA) and grew my subscribers to 446 amazing subs.
+I wrote a total of 23 articles both on my blog and other publications and traffic on my blog grew by over 15,000 page views. I shared a lot of tutorials and decided to try video tutorials as well. I created 12 videos on [my YouTube Channel](https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA) and grew my subscribers to 464 amazing subs.
 
 My favorites among articles I wrote:
 
@@ -60,7 +60,7 @@ I spoke at [5 events](https://speakerdeck.com/lauragift21), one of which was a m
 ![](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577443603774_EGgtusgWwAA_muk.jpg)
 
 
-I was super active in the community this year. This comes with a lot of hard work and opportunities. I helped organized 6 events (meetups and a conference). The Vue Vixens Nigeria chapter I help run had 3 events with over 150 women introduced to Vue.js. JAMstack Lagos a community I started with a friend [William Imoh](https://twitter.com/iChuloo) now has almost [600 members on Meetup](https://www.meetup.com/JAMStack-Lagos) with two events under our belts I look forward to doing more in 2020. I also helped co-organize one of the biggest conferences in Africa [Concatenate Conference](http://concatenate.dev/) with other amazing folks (Sarah, Simona, Christian, and Silm).
+I was super active in the community this year. This comes with a lot of hard work and opportunities. I helped organized 6 events (meetups and a conference). The Vue Vixens Nigeria chapter I help run had 3 events with over 150 women introduced to Vue.js. JAMstack Lagos a community I started with a friend [William Imoh](https://twitter.com/iChuloo) now has almost [600 members on Meetup](https://www.meetup.com/JAMStack-Lagos) with two events under our belts I look forward to doing more in 2020. I also helped co-organize one of the biggest conferences in Africa [Concatenate Conference](http://concatenate.dev/) with other amazing folks (Sarah, Simona, Christian, and Silm) this is my biggest highlight of the year.
 
 
 ![Vue Vixens 😍](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577443125933_IMG_5611.jpg)
