@@ -1,5 +1,5 @@
 ---
-title: 2019 In Review; Year of Grace
+title: 2019 In Review; My Year of Grace
 date: 2019-12-31
 published: true
 tags: ['year-review','life-events']
@@ -17,7 +17,7 @@ I resolved at the beginning of the year to create a list of things I wanted to a
 
 I tagged 2019 my year of grace because a lot of events that happened in my life didn’t go the way I had planned it they were even better than I expected. I am so sure God is looking out for me because I had a good year. 
 
-***In 2019, I…***. 
+***In 2019, I…*** 
 
 - Got promoted at work in January
 - Hosted 3 events for Vue Vixens Nigeria
@@ -26,7 +26,7 @@ I tagged 2019 my year of grace because a lot of events that happened in my life 
 - Traveled to 3 countries and visited 6 cities  
 - Invited to 3 International Conferences 
 - I became a Media Developer Expert for Cloudinary
-- Started a YouTube Channel and created 11 videos and got up 444 subs in less than 6 months
+- Started a YouTube Channel and created 12 videos and got up 464 subs in less than 6 months
 - Published 23 posts on my blog and my blog traffic grew to 15,000 Page Views.
 
 ### **Work**  
@@ -49,7 +49,7 @@ and YouTube Videos:
 
 - [Personal Branding for Software Engineers and Designers](https://www.youtube.com/watch?v=HxDqyK3fNUs)
 - [A Day in the Life of a Software Engineer in Lagos](https://www.youtube.com/watch?v=9mLMtAxSr8U)
-- [WHAT'S IN MY WORK BAG?! // Software Engineer Edition 👩‍💻](https://www.youtube.com/watch?v=ENaGmtn8dho&t=238s)
+- [WHAT'S IN MY WORK BAG?! // Software Engineer Edition](https://www.youtube.com/watch?v=ENaGmtn8dho&t=238s)
 
 
 ![YouTube Channel](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577441397781_Screenshot+2019-12-27+at+10.40.27+AM.png)
@@ -78,15 +78,17 @@ I was a guest on 3 podcasts in 2019 alone!! [Views on Vue](https://devchat.tv/vi
 My life was quite interesting nothing out of the blue. I was more intentional about self-care and looking out for myself. Also, like my friend will say trying to live my best life.
 
 
-- I read about 5 books not proud of this because I wanted to do more but didn’t dedicate time to reach my set goal. I promise myself I’ll do better by investing in audiobooks.
+- I read about 3 books not proud of this because I wanted to do more but didn’t dedicate time to reach my set goal. I promise myself I’ll do better by investing in audiobooks.
 - I turned 24 and it feels like I’m getting old omg!!
 - I traveled to 6 cities in 3 countries. This was such an amazing experience and I look forward to doing more trips in 2020.
-![https://traveltip.org/countries_visited.php](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577445001015_visited_countries.php.png)
-
 ![Happy Moments](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577445786445_IMG_3515-COLLAGE.jpg)
 
 - I decided to cut my hair. Best decision ever as I now feel free I never liked making my natural hair it was so painful.
 ![Big Chop](https://paper-attachments.dropbox.com/s_613553E3A2CF0B36768E92B8020027C7BF360306EC6342F8BDEAE81FF9AA8BEE_1577445904155_IMG_0349-COLLAGE.jpg)
+
+
+## The L's in My Life 
+I'll be lying to myself if I said the entire 2019 was great and only good things happened to me. Well, life they say is not always a bed of roses. I had different points in my life when I doubted myself and dealt with depression for most part of the year. Not even going to think about the amount of times I felt like an imposter. A shitty place to be in life is when you can't find happiness I was in this block for a period and I hated it. That didn't stop me from trying again when I fail because I won't give up if anything. I got rejected from getting things I was really hoping I would secure but regardless I kept the energy high and my attitude to those rejections was to keep trying I'm taking this same energy into 2020.
 
 ## Humans of 2019
 I couldn't think of a better name for this section. I had grateful list in mind but decided to change it last minute. A special list of people who came through for me this year in one way or another and I want to thank them for taking a chance on me. These are people I now call friends and happy I have them in my life.
@@ -98,12 +100,12 @@ I have a couple of things planned out for 2020. I also look forward to doing eve
 
 **More Speaking Engagements:** I hope to speak at more events in 2020 and also improve my skills as a speaker. 
 
-**Keep the Fire Burning; Learn In Public:** I love the concept of [Learning in Public](https://www.swyx.io/writing/learn-in-public/) and I want to be intentional about this in 2020. The act of learning in public means you get to share your skill development and your works in progress online, even before you think you’re ready. I want to continue sharing content on my Blog, YouTube and help build communities. 
+**Keep the Fire Burning; Learn In Public:** I love the concept of [Learning in Public](https://www.swyx.io/writing/learn-in-public/) and I want to be intentional about this in 2020. The act of learning in public means you get to share your skill development and your works in progress online, even before you think you’re ready. I want to continue sharing content on my blog, YouTube and help build communities. 
 
 **Release Egghead Lessons:** I became an Egghead Instructor this year and I’m working on a couple of lessons and hoping they get released in 2020.
 
 **Write a Book and release a Course:** I started working on this project this year but I look forward to releasing them in 2020.
 
-**Look for a Job (Remote or Relocation):** I want to explore more opportunities by 2020 that includes finding a new job. I’m open to working remotely and relocation. If you have any leads for me you can reach me via any of my social media profiles.
+**Land a New Job:** I want to explore more opportunities by 2020 that includes finding a new job. I’m open to working remotely or relocation. If you have any leads please let me know thanks!
 
 That wraps up my year! It was a great one I can’t wait to see what I do in 2020 as it’s the start of a new decade I’m so excited to keep growing and making an impact in my community.
