@@ -27,7 +27,7 @@ I tagged 2019 my year of grace because a lot of events that happened in my life 
 - Invited to 3 International Conferences 
 - I became a Media Developer Expert for Cloudinary
 - Started a YouTube Channel and created 12 videos and got up 464 subs in less than 6 months
-- Published 23 posts on my blog and my blog traffic grew to 15,000 Page Views.
+- Published 23 posts on my blog and my blog traffic grew to 15,000 page views and on [Dev.to](https://dev.to) 129,000 post views.
 
 ### **Work**  
 Overall I think my growth pivoted this year, Things started great at work as I got promoted in January, I was involved with a lot of open-source projects. I contributed to [Gridsome Docs](https://github.com/gridsome/gridsome.org), [Storefront UI](https://github.com/DivanteLtd/storefront-ui), [Learning Resource Roadmap](https://github.com/devcenter-square/Learning-Resource-Path-Front-End). In total, I had 1017 contributions on GitHub. I created a [starter for Gridsome called Minimal Blog Starter](https://github.com/lauragift21/gridsome-minimal-blog) which I’ve seen a couple of people using. 
