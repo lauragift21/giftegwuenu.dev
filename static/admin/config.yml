@@ -6,7 +6,7 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: posts
-    label: posts
+    label: Posts
     folder: "content/posts"
     create: true
     fields:
@@ -16,3 +16,4 @@ collections:
       - {label: "Tags", name: 'tags', widget: 'list'}
       - {label: "Canonical_url", name: 'canonical_url', widget: 'boolean', default: true}
       - {label: "Description", name: 'description', widget: 'string'}
+      - {label: "Body", name: 'body', widget: 'markdown'}
