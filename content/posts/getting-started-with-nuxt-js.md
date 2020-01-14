@@ -30,8 +30,9 @@ Nuxt.js comes bundled with features that are hard to miss and all these features
 
 Nuxt.js is really easy to get started with. The Nuxt team has created a scaffolding tool that will enable you to create a nuxt app in seconds called `create-nuxt-app`. You can either use `npx` or `yarn` to create a Nuxt project with the following commands.
 
-```
-
+```javascript
+npx create-nuxt-app <project-name> or 
+yarn create nuxt-app <project-name>
 ```
 
 ![1](https://yqintl.alicdn.com/87344d0a7d9675eebeca5394b7882fbf7eabb3f9.gif "1")
@@ -43,7 +44,7 @@ The options available when using the `create-nuxt-app` command is diverse, you c
 Once the dependencies are installed, the command available to run the project is the following command:
 
 ```
-
+yarn run dev
 ```
 
 There are other commands available to either build the app, lint the entire project or generate a static site using the `generate` script.
@@ -87,13 +88,35 @@ The way routing works with Nuxt.js is it automatically generates the [vue-router
 An example of such structure is the following, the file tree will look exactly like the structure below
 
 ```
-
+pages/
+--|index.vue
+--|product.vue
+ --|index.vue
+ --|one.vue 
 ```
 
 and that will generate routes like the following:
 
 ```
-
+router: {
+  routes: [
+    {
+      name: 'index',
+      path: '/',
+      component: 'pages/index.vue'
+    },
+    {
+      name: 'product',
+      path: '/product',
+      component: 'pages/product/index.vue'
+    },
+    {
+      name: 'product-one',
+      path: '/product/one',
+      component: 'pages/product/one.vue'
+    }
+  ]
+}
 ```
 
 ## Dynamic Routes
@@ -101,13 +124,42 @@ and that will generate routes like the following:
 You might be wondering how this will work in cases when we are dealing with dynamic routes. In order to define a dynamic route with a parameter, you need to define a `.vue` file OR a directory **prefixed by an underscore,** let's take a look at an example.
 
 ```
-
+pages/
+--| _slug/
+-----| comments.vue
+-----| index.vue
+--| users/
+-----| _id.vue
+--| index.vue
 ```
 
 and that will generate the following routes:
 
 ```
-
+router: {
+  routes: [
+    {
+      name: 'index',
+      path: '/',
+      component: 'pages/index.vue'
+    },
+    {
+      name: 'users-id',
+      path: '/users/:id?',
+      component: 'pages/users/_id.vue'
+    },
+    {
+      name: 'slug',
+      path: '/:slug',
+      component: 'pages/_slug/index.vue'
+    },
+    {
+      name: 'slug-comments',
+      path: '/:slug/comments',
+      component: 'pages/_slug/comments.vue'
+    }
+  ]
+}
 ```
 
 ## Nested Routes
@@ -117,13 +169,36 @@ Nuxt.js lets you create a nested route by using the children routes of vue-route
 To define the parent component of a nested route, you need to create a Vue file with the **same name as the directory** which contains your children views.
 
 ```
-
+pages/
+--| products/
+-----| _id.vue
+-----| index.vue
+--| products.vue
 ```
 
 will become:
 
 ```
-
+router: {
+  routes: [
+    {
+      path: '/products',
+      component: 'pages/products.vue',
+      children: [
+        {
+          path: '',
+          component: 'pages/products/index.vue',
+          name: 'products'
+        },
+        {
+          path: ':id',
+          component: 'pages/products/_id.vue',
+          name: 'products-id'
+        }
+      ]
+    }
+  ]
+}
 ```
 
 When navigating between pages, Nuxt recommends we use `nuxt-link` component that is built in as opposed to using `router-link` that is used by vue-router.
@@ -150,7 +225,7 @@ Depending on your choice for deployment the following are ways you can build you
 To run your application, you will need to run the command below:
 
 ```
-
+$ yarn build or npm run build
 ```
 
 **Static Generated**
@@ -158,7 +233,7 @@ To run your application, you will need to run the command below:
 To generate our application into static files, we would have to run the command below:
 
 ```
-
+$ yarn generate or npm run generate
 ```
 
 **Single Page Applications**
@@ -168,12 +243,20 @@ SPA's in Nuxt can be generated using two modes:
 * Adding `mode: 'spa'` to `nuxt.config.js` file
 
 ```
-
+export default { 
+  mode: 'spa'
+}
 ```
 
 * Adding `--spa` flag to every script command
 
 ```
+"scripts": {
+    "dev": "nuxt --spa",
+    "build": "nuxt build --spa",
+    "start": "nuxt start --spa",
+    "generate": "nuxt generate --spa",
+  },
 
 ```
 
