@@ -8,6 +8,8 @@ tags:
 canonical_url: true
 description: ' In this article, we''ll be taking a look at Nuxt framework, and will discuss how to set it up on an Alibaba Cloud ECS server. '
 ---
+## [Guest Post for Alibaba Cloud](https://www.alibabacloud.com/blog/getting-started-with-nuxt-js_595601)
+
 ## Introduction
 
 [Nuxt.js](https://nuxtjs.org/) is a universal framework for creating Vue.js applications. The goal behind having a universal framework is so that it is flexible enough to be used as both a server-side rendered app, a static generated site or a single page application.
@@ -257,7 +259,6 @@ export default {
     "start": "nuxt start --spa",
     "generate": "nuxt generate --spa",
   },
-
 ```
 
 With the following steps outlined above, we have the option of deploying our Nuxt app in three different modes.
