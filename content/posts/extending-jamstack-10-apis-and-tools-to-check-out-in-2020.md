@@ -11,7 +11,7 @@ description: >-
   creating static sites to a stack for developing dynamic web applications.
   Let’s take a look at an extensive list of APIs and tools you can leverage.
 ---
-I wrote an article for [Stackbit](https://www.stackbit.com) Blog on Extending JAMstack: 10 APIs and Tools to check out in 2020.\
+I wrote an article for [Stackbit](https://www.stackbit.com) Blog on Extending JAMstack: 10 APIs and Tools to check out in 2020.
 Enjoy and I hope you find it helpful!
 
 [Extending JAMstack: 10 APIs and Tools to check out in 2020](https://www.stackbit.com/blog/extending-jamestack-2020/)
