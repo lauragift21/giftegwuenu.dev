@@ -17,7 +17,7 @@
     </p>
 
     <p class="author__links">
-      <a href="//twitter.com/lauragift21">
+      <a href="//twitter.com/lauragift_">
         <g-image alt="twitter" class src="~/assets/images/twitter.png"/>
       </a>
       <a href="//dev.to/lauragift21">
