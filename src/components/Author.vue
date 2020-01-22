@@ -26,6 +26,9 @@
       <a href="//instagram.com/thegiftcode_">
         <g-image alt="instagram" class src="~/assets/images/instagram.png"/>
       </a>
+       <a href="/rss.xml">
+        <g-image alt="rss" class src="~/assets/images/rss.png" width="30"/>
+      </a>
       <a href="//github.com/lauragift21">
         <g-image alt="github" class src="~/assets/images/github.png"/>
       </a>
