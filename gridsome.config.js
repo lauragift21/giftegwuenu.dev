@@ -46,6 +46,7 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Gift Egwuenu',
+          description: 'A blog on frontend development, technical career and soft skills. Written by Gift Egwuenu, Front-end Developer',
           feed_url: 'https://giftegwuenu.com/feed.xml',
           site_url: 'https://giftegwuenu.com'
         },
@@ -53,7 +54,7 @@ module.exports = {
           title: node.title,
           description: node.fields.description,
           url: 'https://giftegwuenu.com/' + node.slug,
-          author: node.fields.author,
+          content: node.content,
           date: node.fields.date
         }),
         output: {
