@@ -53,7 +53,7 @@ module.exports = {
           title: node.title,
           description: node.fields.description,
           url: 'https://giftegwuenu.com/' + node.slug,
-          author: node.fields.author,
+          content: node.content,
           date: node.fields.date
         }),
         output: {
