@@ -10,4 +10,6 @@ description: >-
   Stackbit makes building and maintaining modern websites easy. In this video,
   we'll take a look at how to get a website from zero to deploy using Stackbit.
 ---
-https://www.youtube.com/watch?v=HQlRmpT6D-8&feature=emb_title
+Stackbit makes building and maintaining modern websites easy. In this video, we'll take a look at how to get a website from zero to deploy using Stackbit.
+
+https://www.youtube.com/embed/HQlRmpT6D-8
