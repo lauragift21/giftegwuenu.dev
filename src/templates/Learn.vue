@@ -11,8 +11,6 @@
     </nav>
 </template>
 
-
-
 <script>
 import ToggleTheme from "~/components/ToggleTheme.vue";
 
