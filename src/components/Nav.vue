@@ -5,12 +5,6 @@
         <li>
           <g-link class="header__link" to="/about">About</g-link>
         </li>
-        <!-- <li>
-          <g-link class="header__link" to="/talks">Talks</g-link>
-        </li> -->
-        <!-- <li>
-          <g-link class="header__link" to="/uses">Uses</g-link>
-        </li> -->
       </ul>
     </nav>
     <ToggleTheme/>
