@@ -11,13 +11,9 @@ description: >-
 ---
 In this video, I share my thoughts on the topic Learning In Public and why I have decided to embark on that journey with areas I'm looking forward to improving in my career. 
 
-
-
 https://www.youtube.com/embed/8VGoj8mrMnY
-
-
 
 ## Resources
 
-https://www.swyx.io/writing/learn-in-public/ 
-https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
+* https://www.swyx.io/writing/learn-in-public/
+* https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
