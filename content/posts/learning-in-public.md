@@ -17,8 +17,7 @@ https://www.youtube.com/embed/8VGoj8mrMnY
 
 
 
-## Resources:[](https://www.youtube.com/redirect?v=8VGoj8mrMnY&event=video_description&q=https%3A%2F%2Fwww.swyx.io%2Fwriting%2Flearn-in-public%2F&redir_token=c97naVQpQN9-jN7xnVGBejoXXWZ8MTU4MDM3MzU4M0AxNTgwMjg3MTgz)
+## Resources
 
-[https://www.swyx.io/writing/learn-in-...](https://www.youtube.com/redirect?v=8VGoj8mrMnY&event=video_description&q=https%3A%2F%2Fwww.swyx.io%2Fwriting%2Flearn-in-public%2F&redir_token=c97naVQpQN9-jN7xnVGBejoXXWZ8MTU4MDM3MzU4M0AxNTgwMjg3MTgz)[](https://www.youtube.com/redirect?v=8VGoj8mrMnY&event=video_description&q=https%3A%2F%2Fgist.github.com%2Fsw-yx%2F9720bd4a30606ca3ffb8d407113c0fe5&redir_token=c97naVQpQN9-jN7xnVGBejoXXWZ8MTU4MDM3MzU4M0AxNTgwMjg3MTgz)
-
-[https://gist.github.com/sw-yx/9720bd4...](https://www.youtube.com/redirect?v=8VGoj8mrMnY&event=video_description&q=https%3A%2F%2Fgist.github.com%2Fsw-yx%2F9720bd4a30606ca3ffb8d407113c0fe5&redir_token=c97naVQpQN9-jN7xnVGBejoXXWZ8MTU4MDM3MzU4M0AxNTgwMjg3MTgz)
+https://www.swyx.io/writing/learn-in-public/ 
+https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
