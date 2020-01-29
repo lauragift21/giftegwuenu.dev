@@ -16,4 +16,5 @@ https://www.youtube.com/embed/8VGoj8mrMnY
 ## Resources
 
 * https://www.swyx.io/writing/learn-in-public/
-* https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
+* https://www.swyx.io/writing/learn-in-public-hack/
+* https://kentcdodds.com/blog/intentional-career-building
