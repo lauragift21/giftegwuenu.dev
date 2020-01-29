@@ -20,12 +20,12 @@ I got inspired by [Tania Rascia](https://www.taniarascia.com/learn) Learn in Pub
 - [ ] CSS Modules
 
 ## Testing
-- [ ] Visual Testing with Cypress
+- [x] Visual Testing with Cypress
 
 ## Databases/API's
 - [ ] SQL
 - [ ] Working with Node.js
-- [ ] GraphQL 
+- [ ] GraphQL
 - [ ] Serverless Computing
 
 ## Computer Science
