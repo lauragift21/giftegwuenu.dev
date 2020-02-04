@@ -13,7 +13,7 @@
 
     <p class="author__intro">
       Hello! 👋
-      <br>I’m a Software Engineer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and the open-source community.
+      <br>I’m a Software Engineer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and building communities.
     </p>
 
     <p class="author__links">
@@ -37,9 +37,6 @@
       </a>
       <a href="//noti.st/lauragift21">
         <g-image alt="notist" class src="~/assets/images/notist.jpg" width="32"/>
-      </a>
-      <a href="//patreon.com/lauragift21">
-        <g-image alt="patreon" class src="~/assets/images/patron.jpg" width="32"/>
       </a>
     </p>
   </div>
