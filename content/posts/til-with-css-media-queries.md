@@ -89,6 +89,10 @@ I'm excited about these additional media features and can't wait to start using 
 
 ## Resources
 
-https://drafts.csswg.org/mediaqueries-5 https://web.dev/prefers-color-scheme
+https://drafts.csswg.org/mediaqueries-5 
+
+https://web.dev/prefers-color-scheme 
+
 https://a11y-101.com/development/reduced-motion
+
 https://developers.google.com/web/updates/2019/03/prefers-reduced-motion
