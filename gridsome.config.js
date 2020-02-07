@@ -20,7 +20,14 @@ module.exports = {
         remark: {
           plugins: [
             ['@noxify/gridsome-plugin-remark-embed', {
-              'enabledProviders' : ['Youtube', 'Twitter', 'Gist', 'Codepen'],
+              'enabledProviders' : [
+                'Youtube',
+                'Twitter',
+                'Gist',
+                'Codepen',
+                'Giphy',
+                'Spotify'
+              ],
             }]
           ]
         },

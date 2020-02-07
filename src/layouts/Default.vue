@@ -44,7 +44,8 @@ export default {
   },
   metaInfo() {
     return {
-      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
+      script: [{ src: "https://static.codepen.io/assets/embed/ei.js", async: true }],
     }
   }
 };
