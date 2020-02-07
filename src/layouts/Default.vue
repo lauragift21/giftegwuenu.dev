@@ -42,12 +42,29 @@ export default {
     Nav,
     ToggleTheme
   },
-  metaInfo() {
-    return {
-      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
-      script: [{ src: "https://static.codepen.io/assets/embed/ei.js", async: true }],
-    }
+  mounted() {
+    let twitterScript = document.createElement('script')
+    twitterScript.async = true;
+    twitterScript.setAttribute('src', 'https://platform.twitter.com/widgets.js')
+    document.head.appendChild(twitterScript)
+
+    let codepenScript = document.createElement('script')
+    codepenScript.async = true;
+    codepenScript.setAttribute('src', 'https://static.codepen.io/assets/embed/ei.js')
+    document.head.appendChild(codepenScript)
+
+    let GistStyles = document.createElement('link')
+    GistStyles.async = true;
+    GistStyles.setAttribute('rel', 'stylesheet');
+    GistStyles.setAttribute('href', 'https://github.githubassets.com/assets/gist-embed-d89dc96f3ab6372bb73ee45cafdd0711.css');
+    document.head.appendChild(GistStyles);
   }
+  // metaInfo() {
+  //   return {
+  //     script: [{ src: "https://platform.twitter.com/widgets.js", async: true }],
+  //     script: [{ src: "https://static.codepen.io/assets/embed/ei.js", async: true }],
+  //   }
+  // }
 };
 </script>
 
