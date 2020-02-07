@@ -4,7 +4,8 @@ date: 2020-02-07T13:34:35.187Z
 published: true
 tags:
   - css
-  - til
+  - TIL
+  - webdev
 canonical_url: true
 description: >-
   In this article, I'll share some media features I previously didn't know about
