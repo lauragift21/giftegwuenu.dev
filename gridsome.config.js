@@ -54,14 +54,14 @@ module.exports = {
         feedOptions: {
           title: 'Gift Egwuenu',
           description: 'A blog on frontend development, technical career and soft skills. Written by Gift Egwuenu, Front-end Developer',
-          feed_url: 'https://giftegwuenu.com/feed.xml',
+          feed_url: 'https://giftegwuenu.com/rss.xml',
           site_url: 'https://giftegwuenu.com'
         },
         feedItemOptions: node => ({
           title: node.title,
           date: node.date,
           url: 'https://giftegwuenu.com/' + node.slug,
-          description: node.content
+          description: node.description
         }),
         output: {
           dir: './static',
