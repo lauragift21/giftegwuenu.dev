@@ -25,7 +25,9 @@ Now we've come across the `@media` CSS rule but did you know that they are cool 
 
 Here's a short demo of how this feature works.
 
- https://codepen.io/lauragift21/pen/ZEGYzXB default-tab=css,result  
+ https://codepen.io/lauragift21/pen/ZEGYzXB?tabs=resul,css  
+
+
 
 This feature was added in [Media Queries Level 5 spec](https://drafts.csswg.org/mediaqueries-5/#prefers-color-scheme) and is supported by major browsers you can try this out right now by switching the default theme of your device. The [can I use embed](https://caniuse.com/) give a detailed view of browsers that are fully supported.
 
@@ -42,7 +44,7 @@ This media feature can be implemented with these modes:
 
 Here's a demo of how this feature works. The box will remain animated unless you switch the reduce motion option on let's try doing that by checking the accessibility settings on your device you'll immediately notice the animation is turned off.
 
-https://codepen.io/lauragift21/pen/WNvbNGR default-tab=css,result 
+https://codepen.io/lauragift21/pen/WNvbNGR?tabs=resul,css
 
 Added in [Media Queries Level 5 spec](https://drafts.csswg.org/mediaqueries-5/#prefers-reduced-motion) and is supported by major browsers you can try this out right now by switching the default theme of your device. The [can I use embed](https://caniuse.com/) give a detailed view of browsers that are fully supported.
 
