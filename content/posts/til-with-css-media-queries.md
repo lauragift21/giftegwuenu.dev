@@ -1,7 +1,7 @@
 ---
-title: TIL with CSS Media Queries
+title: 'TIL: CSS Media Queries'
 date: 2020-02-07T13:34:35.187Z
-published: false
+published: true
 tags:
   - css
   - til
