@@ -59,10 +59,9 @@ module.exports = {
         },
         feedItemOptions: node => ({
           title: node.title,
-          description: node.fields.description,
+          date: node.date,
           url: 'https://giftegwuenu.com/' + node.slug,
-          content: node.content,
-          date: node.fields.date
+          description: node.content
         }),
         output: {
           dir: './static',
