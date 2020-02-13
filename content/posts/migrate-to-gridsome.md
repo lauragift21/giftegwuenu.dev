@@ -24,7 +24,7 @@ In this post, I'll be highlighting how I made the switch and also add details of
 
 ## Introducing Gridsome
 
-!\[Gridsome homepage](<https://res.cloudinary.com/lauragift/image/upload/v1581599653/Screenshot_2020-02-13_at_2.12.18_PM_sxuz2r.png>)
+![Gridsome homepage](https://res.cloudinary.com/lauragift/image/upload/v1581599653/Screenshot_2020-02-13_at_2.12.18_PM_sxuz2r.png)
 
 [Gridsome](https://gridsome.org) is a Vue-powered static site generator for building blazing fast websites and Apps. Its a Vue alternative to Gatsby. I mostly like Gridsome because of its supports for GraphQL as a single source of truth for its data layer, allowing you connect to any headless CMS or external API like Google sheets, Airtable, local markdown files etc.\
 When I was using Hugo it was stress-free I was able to find my way around the codebase with little knowledge of Go programming language because Hugo was built using Go. But I've found that its a bit tricky when I need to add extra features that are not present in the template I was making use of. So really It wasn't that flexible for me. I've been having an issue with syntax highlighting and when I tried to fix this recently it was a disaster. So before I moved I weighed down the pros and cons of moving will my readers still recognise my blog when they visit?  I did make the move anyway.
