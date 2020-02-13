@@ -5,7 +5,7 @@ published: true
 tags:
   - CSS
 canonical_url: true
-description: 'Let''s learn what the :focus-within pseduo-class is and how to apply it.'
+description: 'Let''s learn what the :focus-within pseudo-class is and how to apply it.'
 ---
 In my quest to learn something new every week. I came across a not so new pseudo-class element [:focus-within](https://drafts.csswg.org/selectors-4/#the-focus-within-pseudo). Let's take a look at how it works and how to apply it to our styles.
 
