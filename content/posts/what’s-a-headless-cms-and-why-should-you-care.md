@@ -14,9 +14,8 @@ description: >-
 I wrote an article for [Stackbit](https://www.stackbit.com) Blog on - What’s a Headless CMS and Why Should You Care? Enjoy and I hope you find it helpful!
 
 
-
-\[What’s a Headless CMS and Why Should You Care?](https://www.stackbit.com/blog/what-is-a-headless-cms/)
-
+[What’s a Headless CMS and Why Should You Care?](https://www.stackbit.com/blog/what-is-a-headless-cms/)
 
 
-!\[blog banner](https://www.datocms-assets.com/13491/1581601683-whatsaheadlesscms.png)
+
+![blog banner](https://www.datocms-assets.com/13491/1581601683-whatsaheadlesscms.png)
