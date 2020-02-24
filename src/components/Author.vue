@@ -13,7 +13,7 @@
 
     <p class="author__intro">
       Hello! 👋
-      <br>I’m a Software Engineer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and building communities.
+      <br>I’m a Frontend Engineer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and building communities.
     </p>
 
     <p class="author__links">
