@@ -29,6 +29,7 @@
 </template>
 
 <script>
+import getShareImage from '@jlengstorf/get-share-image';
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Author from "~/components/Author.vue";
@@ -48,19 +49,41 @@ export default {
       title: this.$page.post.title,
       meta: [
         {
-          name: "description",
+          name: this.$page.post.title,
           content: this.$page.post.description
         },
         //twitter card: https://cards-dev.twitter.com/validator
         { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:image", content: this.getImage() },
         { name: "twitter:description", content: this.$page.post.description },
         { name: "twitter:title", content: this.$page.post.title },
         { name: "twitter:site", content: "@lauragift21" },
         { name: "twitter:creator", content: "@lauragift21" },
         // open graph
-        { property: "og:updated_time", content: this.$page.post.date }
+        { property: "og:title", content: this.$page.post.title },
+        { property: "og:description", content: this.$page.post.description },
+        { property: "og:image", content: this.getImage() },
+        { property: "og:updated_time", content: this.$page.post.date },
       ],
     };
+  },
+  mounted() {
+    this.getImage();
+  },
+  methods: {
+    getImage() {
+      const socialImage = getShareImage({
+        title: this.$page.post.title,
+        tagline: 'giftegwuenu.com',
+        cloudName: 'lauragift',
+        imagePublicID: 'social_card_sp9khr',
+        titleFont: 'futura',
+        taglineFont: 'futura',
+        titleFontSize: 72,
+        textColor: '232129',
+      });
+      return socialImage;
+    }
   }
 };
 </script>
