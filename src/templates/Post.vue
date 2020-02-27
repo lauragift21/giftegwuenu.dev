@@ -45,7 +45,6 @@ export default {
     CarbonAds
   },
   metaInfo() {
-    console.log('indife', this.getImage())
     return {
       title: this.$page.post.title,
       meta: [
@@ -61,7 +60,10 @@ export default {
         { name: "twitter:site", content: "@lauragift21" },
         { name: "twitter:creator", content: "@lauragift21" },
         // open graph
-        { property: "og:updated_time", content: this.$page.post.date }
+        { property: "og:title", content: this.$page.post.title },
+        { property: "og:description", content: this.$page.post.description },
+        { property: "og:image", content: this.getImage() },
+        { property: "og:updated_time", content: this.$page.post.date },
       ],
     };
   },
