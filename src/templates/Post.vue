@@ -45,8 +45,8 @@ export default {
     CarbonAds
   },
   metaInfo() {
+    console.log('indife', this.getImage())
     return {
-
       title: this.$page.post.title,
       meta: [
         {
@@ -65,7 +65,10 @@ export default {
       ],
     };
   },
-  computed: {
+  mounted() {
+    this.getImage();
+  },
+  methods: {
     getImage() {
       const socialImage = getShareImage({
         title: this.$page.post.title,
@@ -73,11 +76,12 @@ export default {
         cloudName: 'lauragift',
         imagePublicID: 'social_card_sp9khr',
         titleFont: 'futura',
+        taglineFont: 'futura',
         titleFontSize: 72,
         textColor: '232129',
       });
-    return socialImage;
-  },
+      return socialImage;
+    }
   }
 };
 </script>
