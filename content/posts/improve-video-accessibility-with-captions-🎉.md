@@ -29,7 +29,7 @@ For our demo, I have a video of me without captions and we'll walk through how t
 ```
 
 
-https://codepen.io/lauragift21/pen/zYGZrmr?tabs=result
+https://codepen.io/lauragift21/pen/zYGZrmr?tabs=result?height=600
 
 
 
@@ -155,7 +155,7 @@ Now, let's use the captions generated with our video.
 ```
 
 
-https://codepen.io/lauragift21/pen/KKpWOLY?tabs=result
+https://codepen.io/lauragift21/pen/KKpWOLY?tabs=result?height=600
 
 
 
