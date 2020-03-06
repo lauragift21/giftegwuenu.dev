@@ -27,7 +27,10 @@ For our demo, I have a video of me without captions and we'll walk through how t
 </video>
 
 ```
-https://codepen.io/lauragift21/pen/zYGZrmr?tabs=result,html
+
+
+https://codepen.io/lauragift21/pen/zYGZrmr?tabs=result
+
 
 
 I have the video muted by default and without captions, you can't really tell what I am saying until you unmute it which is one step away and could turn users away in some cases. 
@@ -150,7 +153,11 @@ Now, let's use the captions generated with our video.
 </video>
 
 ```
-https://codepen.io/lauragift21/pen/KKpWOLY?tabs=result,html
+
+
+https://codepen.io/lauragift21/pen/KKpWOLY?tabs=result
+
+
 
 This is a helpful approach in making sure your video content is accessible but always remember that no speech recognition tool is 100% accurate. If exact accuracy is important for your video, you can download the generated `.transcript`, `.srt` or `.vtt` file, edit them manually and overwrite the original files.
 
