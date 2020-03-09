@@ -1,5 +1,5 @@
 ---
-title: "Improve Video Accessibility with Captions \U0001F389"
+title: 'Improve Video Accessibility with Captions '
 date: 2020-03-06T07:41:22.352Z
 published: true
 tags:
