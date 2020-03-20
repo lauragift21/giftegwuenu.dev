@@ -19,4 +19,4 @@ My other day-to-day activities include the following and more:
 * Working closely and interacting with the Frictionless Data Community via (chats, remote hangouts, and in-person events)
 * Writing documentation, guide and blog posts for frictionless Data
 
-I'm glad I get to do this as a full-time job because my passion is for teaching and learning 🚀 and I'm excited to be a part of the [Frictionless Data community](https://frictionlessdata.io/) where I get to contribute, share, learn and interact with the data community.
+I'm glad I get to do this as a full-time job because a part of my passion is teaching and learning 🚀 and I'm excited to be a part of the [Frictionless Data community](https://frictionlessdata.io/) where I get to contribute, share, learn and interact with the data community.
