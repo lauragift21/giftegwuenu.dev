@@ -12,7 +12,7 @@ description: I started a challenge to learn a new technology using Pluralsight
 ---
 My goal with this video was to build out a scatterplot chart using D3.js and a dataset I found on Kaggle. I had no previous experience with D3.js so I think this was a great way of learning and getting starting with data viz! It was a great ride if you ask me.
 
-https://www.youtube.com/embed/AAvf2rak-js  
+https://www.youtube.com/embed/AAvf2rak-js
 
 
 
