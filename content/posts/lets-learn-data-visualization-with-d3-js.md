@@ -14,6 +14,4 @@ My goal with this video was to build out a scatterplot chart using D3.js and a d
 
 https://www.youtube.com/embed/AAvf2rak-js
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAvf2rak-js" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 PS: I'm thinking of doing more streams on my channel do you think it is a great idea?
