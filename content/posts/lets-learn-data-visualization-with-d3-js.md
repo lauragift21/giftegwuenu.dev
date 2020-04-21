@@ -14,7 +14,7 @@ My goal with this video was to build out a scatterplot chart using D3.js and a d
 
 
 
-https://www.youtube.com/embed/AAvf2rak-js 
+https://www.youtube.com/embed/AAvf2rak-js
 
 
 
