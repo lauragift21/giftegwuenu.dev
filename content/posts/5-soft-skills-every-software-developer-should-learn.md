@@ -12,6 +12,7 @@ description: Hello People! Let's move away from core technical things for a bit.
 ---
 Hello People! Let's move away from core technical things for a bit. In this video, I share soft skills that I feel every developer should learn and improve.
 
+
 https://www.youtube.com/embed/b4b_z6gFmlY
 
 
