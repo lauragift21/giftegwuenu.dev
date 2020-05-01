@@ -14,6 +14,12 @@ Hello People! Let's move away from core technical things for a bit. In this vide
 
 https://www.youtube.com/embed/b4b_z6gFmlY
 
+
+
+
+
+
+
 The norm that technical skills are important than the core soft skills does not hold true in the industry today. We all have to balance both to stay relevant in the industry.
 
 I learned a lot from [Pluralsight](https://www.pluralsight.com/) this month already and I decided to learn a bit more about soft skills. Here are some courses that I really enjoyed taking.
