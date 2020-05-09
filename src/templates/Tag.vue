@@ -19,7 +19,6 @@ query Tag ($id: String!) {
         node {
           ...on Post {
             title
-            path
             date (format: "D. MMMM YYYY")
             timeToRead
             description

@@ -8,7 +8,9 @@ module.exports = {
   siteName: 'Gift Egwuenu',
   siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
-
+  templates: {
+    Post: '/:title',
+  },
   plugins: [
     {
       // Create posts from markdown files
@@ -35,7 +37,6 @@ module.exports = {
           // Creates a GraphQL collection from 'tags' in front-matter and adds a reference.
           tags: {
             typeName: 'Tag',
-            route: '/tag/:id',
             create: true
           }
         }
