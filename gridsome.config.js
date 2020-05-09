@@ -8,7 +8,9 @@ module.exports = {
   siteName: 'Gift Egwuenu',
   siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
-
+  templates: {
+    Post: '/:title',
+  },
   plugins: [
     {
       // Create posts from markdown files
@@ -19,6 +21,7 @@ module.exports = {
         route: '/:slug',
         remark: {
           plugins: [
+            '@gridsome/remark-prismjs',
             ['@noxify/gridsome-plugin-remark-embed', {
               'enabledProviders' : [
                 'Youtube',
@@ -35,7 +38,6 @@ module.exports = {
           // Creates a GraphQL collection from 'tags' in front-matter and adds a reference.
           tags: {
             typeName: 'Tag',
-            route: '/tag/:id',
             create: true
           }
         }
@@ -93,10 +95,7 @@ module.exports = {
     remark: {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
-      anchorClassName: 'icon icon-link',
-      plugins: [
-        '@gridsome/remark-prismjs'
-      ]
+      anchorClassName: 'icon icon-link'
     }
   },
 }

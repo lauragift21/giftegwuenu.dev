@@ -152,11 +152,8 @@ Accessibility shouldn't be an afterthought and as we make more effort in deliver
 
 [Cloudinary Upload Demo](https://github.com/cloudinary/cloudinary_npm/blob/master/samples/basic/basic.js)
 
-\
 [Google AI Video Transcription Docs](https://cloudinary.com/documentation/google_ai_video_transcription_addon)
 
-\
 [Microsoft Azure Video IndexerDocs](https://cloudinary.com/documentation/microsoft_azure_video_indexer_addon)
 
-\
 [GitHub Repo](https://github.com/lauragift21/media-a11y-cloudinary)

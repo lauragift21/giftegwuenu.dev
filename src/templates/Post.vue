@@ -91,16 +91,16 @@ export default {
 <page-query>
 query Post ($path: String!) {
   post: post (path: $path) {
-    title
     path
-    date (format: "D. MMMM YYYY")
+    id
+    title
+    description
     timeToRead
     tags {
       id
       title
-      path
     }
-    description
+    date (format: "D. MMMM YYYY")
     content
   }
 }

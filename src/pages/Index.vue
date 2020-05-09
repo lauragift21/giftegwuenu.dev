@@ -25,14 +25,13 @@ query Post ($page: Int) {
         id
         title
         path
-        tags {
-          id
-          title
-          path
-        }
         date (format: "D. MMMM YYYY")
         timeToRead
         description
+        tags {
+          id
+          title
+        }
         ...on Post {
             id
             title
