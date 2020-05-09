@@ -1,58 +1,31 @@
 <template>
-  <div class="header__right">
+  <header class="flex justify-between">
+    <g-link class="no-marker" to="/">
+      <g-image src="~/assets/img/logo.png" width="70" />
+    </g-link>
     <nav>
-      <ul class="nav">
-        <li>
-          <g-link class="header__link" to="/about">About</g-link>
-        </li>
-        <!-- <li>
-          <g-link class="header__link" to="/talks">Talks</g-link>
-        </li> -->
-        <!-- <li>
-          <g-link class="header__link" to="/uses">Uses</g-link>
-        </li> -->
-      </ul>
+      <g-link class="pr-7 font-black text-xl link" to="/">Home</g-link>
+      <g-link class="pr-7 font-black text-xl link" to="/#about">About</g-link>
+      <g-link class="pr-7 font-black text-xl link" to="/writing">Writing</g-link>
+      <g-link class="pr-7 font-black text-xl link" to="/speaking">Speaking</g-link>
+      <g-link class="pr-7 font-black text-xl link" to="/#contact">Contact</g-link>
+      <toggle-theme />
     </nav>
-    <ToggleTheme/>
-  </div>
+  </header>
 </template>
 
 <script>
-import ToggleTheme from "~/components/ToggleTheme.vue";
-
+import ToggleTheme from './ToogleTheme';
 export default {
   components: {
     ToggleTheme
   }
-};
+}
 </script>
 
-<style lang="scss">
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  min-height: var(--header-height);
-  padding: 0 calc(var(--space) / 2);
-  top: 0;
-  z-index: 10;
+<style scoped>
 
-  &__left,
-  &__right {
-    display: flex;
-    align-items: center;
-  }
-  &__link {
-    text-decoration: none;
-    font-size: 21px;
-  }
-  .nav {
-  display: flex;
-  list-style: none;
-  li {
-    padding: 20px;
-    margin-top: 30px;
-  }
-}
+header {
+  margin: 0 auto;
 }
 </style>

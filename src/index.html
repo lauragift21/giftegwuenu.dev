@@ -1,24 +1,7 @@
 <!DOCTYPE html>
 <html ${htmlAttrs}>
   <head>
-    <!-- HTML Meta Tags -->
-    <title>Home - Gift Egwuenu</title>
-    <meta name="description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <!-- Google / Search Engine Tags -->
-    <meta itemprop="name" content="Gift Egwuenu">
-    <meta itemprop="description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <meta itemprop="image" content="">
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://giftegwuenu.netlify.com">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Gift Egwuenu">
-    <meta property="og:description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <meta property="og:image" content="">
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gift Egwuenu">
-    <meta name="twitter:description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap" rel="stylesheet">
     ${head}
   </head>
   <body ${bodyAttrs}>
@@ -53,7 +36,6 @@
         setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
       })();
     </script>
-    <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
     ${app}
     ${scripts}
   </body>
