@@ -4,7 +4,6 @@
       <g-image src="~/assets/img/logo.png" width="70" />
     </g-link>
     <nav>
-      <g-link class="pr-7 font-black text-xl link" to="/">Home</g-link>
       <g-link class="pr-7 font-black text-xl link" to="/#about">About</g-link>
       <g-link class="pr-7 font-black text-xl link" to="/writing">Writing</g-link>
       <g-link class="pr-7 font-black text-xl link" to="/speaking">Speaking</g-link>
