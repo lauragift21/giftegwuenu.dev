@@ -11,6 +11,7 @@ body {
  	--body-color: #33272a;
  	--title-color: #33272a;
 	--link-color: #25232D;
+	--link-accent-color: #ff8ba7;
 	--text-color: #594a4e;
  	--border-color:  rgba(0,0,0,.1);;
   --space: 3.5rem;
@@ -19,6 +20,22 @@ body {
 	--radius: 5px;
 	--pink-color: #f7c9c9;
 	--secondary-color: #fffffe;
+	--bg-transparent: rgba(255, 255, 255, .9);
+  --bg-teritary: #f3f5f4;
+  --dark-bg: #222222;
+  --code-bg: #222222;
+  --select-color: rgba(212, 53, 159, .2);
+  --inline-code-text:#33272a;
+  --inline-code-bg: #ff8ba7;
+  --inline-code-offset: #f3e1d8;
+  --border-color: #e2ecec;
+  --border-color-darker: #cfe6e6;
+  --mark-color: #fff8ec;
+  --border-radius: 5px;
+  --space: 25px;
+  --space-x2: 50px;
+	--code-color: #fdf9f3;
+	--font-weight: 700;
 }
 
 // Make  things smaller for mobile
@@ -35,7 +52,7 @@ body {
 
 // Override variables for Dark theme
 body[data-theme="dark"] {
- 	--bg-color: #1a1a1a;
+ 	--bg-color: #000;
  	--bg-content-color: #111;
  	--bg-code: rgba(0,0,0,.3);
  	--border-color:  rgba(255,255,255,.1);;
@@ -44,5 +61,19 @@ body[data-theme="dark"] {
 	--link-color: #fffffe;
 	--pink-color: #f7c9c9;
 	--text-color: #fffffe;
+	--pink-color: #111;
 	--secondary-color: #111;
+	--bg-transparent: rgba(255, 255, 255, .9);
+  --bg-teritary: #f3f5f4;
+  --dark-bg: #222222;
+  --code-bg: #222222;
+  --select-color: rgba(212, 53, 159, .2);
+  --inline-code-text:#ff8ba7;
+  --inline-code-bg: #c3f0ca;
+  --inline-code-offset: #f3e1d8;
+  --border-color: #e2ecec;
+  --border-color-darker: #cfe6e6;
+  --mark-color: #fff8ec;
+  --border-radius: 5px;
+  --code-color: #fdf9f3;
 }

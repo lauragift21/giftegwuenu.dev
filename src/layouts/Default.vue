@@ -38,6 +38,10 @@ query {
   color: var(--link-color);
 }
 
+.link:active {
+  color: var(--pink-color);
+}
+
 .link::before {
   content: '';
   position: absolute;

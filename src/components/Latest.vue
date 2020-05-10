@@ -1,5 +1,5 @@
 <template>
- <section class="w-full py-6">
+ <section class="w-full py-16">
   <h2 class="text-4xl xs:text-xl text-left  font-semibold mb-5 sm:text-center sm:text-3xl">Latest Articles</h2>
   <div class="pr-8 sm:ml-3 sm:mx-auto">
     <div class="card rounded-sm border border-l-8 shadow-md my-4 pb-3" v-for="edge in $static.allPost.edges" :key="edge.node.id">
