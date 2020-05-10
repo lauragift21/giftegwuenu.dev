@@ -3,7 +3,6 @@
   
 // Import main css
 import '~/assets/styles/index.scss'
-import 'prismjs/themes/prism.css'
 
 import DefaultLayout from '~/layouts/Default.vue'
 

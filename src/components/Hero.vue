@@ -3,7 +3,7 @@
     <div class="tagline flex-1 mt-40 xs:text-center sm:text-center p-2 xs:mt-1 sm:mt-1">
       <h1 class="text-6xl font-semibold">Hello I'm Gift Egwuenu</h1>
       <p
-        class="text-2xl"
+        class="text-3xl"
       >I’m a frontend engineer and technical writer based in Lagos Nigeria.</p>
       <div class="my-6 text-white">
         <abbr
@@ -35,7 +35,7 @@
         </abbr>
       </div>
     </div>
-    <div class="profile xs:mx-auto sm:mx-auto">
+    <div class="profile xs:mx-auto sm:mx-auto -mx-10">
       <g-image src="../assets/img/giftegwuenu.svg" class="rounded-full"  />
     </div>
   </section>
@@ -49,15 +49,18 @@ export default {};
 .hero {
   margin: 0 auto;
   padding-bottom: 10rem;
-  background: url("../assets/img/hero.svg") no-repeat;
+
+  /* background: url("../assets/img/hero.svg") no-repeat; */
 }
 abbr {
   text-decoration: none !important;
     color: var(--text-color);
 }
-  a {
+  h1 {
+  -webkit-transition: width 200ms ease-in-out;
+  transition: width 200ms ease-in-out;
   }
 .profile {
-  margin-top: 5rem;
+  margin-top: 10rem;
 }
 </style>

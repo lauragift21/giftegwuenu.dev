@@ -1,17 +1,13 @@
 <template>
   <Layout>
-    <div class="post-title">
-      <h1 class="post-title__text text-4xl font-semibold">{{ $page.post.title }}</h1>
-      <h1 class="post-title__text text-lg font-normal">{{ $page.post.date }}</h1>
+    <div class="text-center">
+      <h1 class="text-5xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
+      <span class="text-lg font-normal">{{ $page.post.date }}</span>
+      <PostTags :post="$page.post"/>
     </div>
-    <div class="post w-2/3">
-      <div class="post__content" v-html="$page.post.content"/>
-      <div class="post__footer">
-        <PostTags :post="$page.post"/>
-      </div>
-      <!-- <div class="post-comments"> -->
-        <!-- Add comment widgets here -->
-      <!-- </div> -->
+    <div class="mx-48 sm:mx-10 md:mx-30 xs:mx-auto">
+      <p class="lead" v-html="$page.post.excerpt"/>
+      <div class="markdown" v-html="$page.post.content"/>
     </div>
 </Layout>
 </template>
@@ -21,7 +17,7 @@ query Post ($path: String!) {
   post: post (path: $path) {
     title
     path
-    date (format: "D. MMMM YYYY")
+    date (format: "D MMMM YYYY")
     timeToRead
     tags {
       id
@@ -87,70 +83,3 @@ export default {
   }
 };
 </script>
-
-<style lang="scss">
-.post-title {
-  padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
-  text-align: center;
-}
-.post {
-  margin: 0 auto;
-  &__header {
-    width: calc(100% + var(--space) * 2);
-    margin-left: calc(var(--space) * -1);
-    margin-top: calc(var(--space) * -1);
-    margin-bottom: calc(var(--space) / 2);
-    overflow: hidden;
-    border-radius: var(--radius) var(--radius) 0 0;
-    img {
-      width: 100%;
-    }
-    &:empty {
-      display: none;
-    }
-  }
-  &__content {
-    h2:first-child {
-      margin-top: 0;
-    }
-    p:first-of-type {
-      font-size: 1.2em;
-      color: var(--title-color);
-    }
-    img {
-      width: calc(100% + var(--space) * 2);
-      margin-left: calc(var(--space) * -1);
-      display: block;
-      max-width: none;
-    }
-  }
-}
-.post-comments {
-  padding: calc(var(--space) / 2);
-  &:empty {
-    display: none;
-  }
-}
-.post-author {
-  margin-top: calc(var(--space) / 2);
-}
-.post-newsletter {
-  padding: 0;
-}
-@media only screen and (min-width: 320px) and (max-width: 800px) {
-  .post {
-    &__flex {
-      display: flex;
-      flex-direction: column-reverse;
-    }
-  }
-  .content-boxs {
-    // margin: 0 !important;
-  }
-}
-@media only screen and (min-width: 1650px) {
-  .content-boxs {
-    margin-left: 6em;
-  }
-}
-</style>

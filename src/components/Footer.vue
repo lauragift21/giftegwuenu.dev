@@ -9,26 +9,14 @@
       >Say Hello 👋</button>
     </div>
 
-    <div class="flex content-end justify-center mt-10 mb-5">
-      <a href="https://www.instagram.com/lauragift_" target="_blank">
-        <img src="../assets/img/instagram.svg" class="px-3" alt="my instagram handle" />
-      </a>
-      <a href="https://www.linkedin.com/in/egwuenugift/" target="_blank">
-        <img src="../assets/img/linkedin.svg" class="px-3" alt="my linkedin handle" />
-      </a>
-      <a href="https://www.twitter.com/lauragift_" target="_blank">
-        <img src="../assets/img/twitter.svg" class="px-3" alt="my twitter handle" />
-      </a>
-    </div>
-
     <div class="px-4 pb-4 xs:block">
       <div class="my-4 font-bold">
-        <a href="patreon.com/lauragift21" class="px-3">Patreon</a>
-        <a href="#" class="px-3">Resume</a>
-        <a href="https://github.com/lauragift21" class="px-3">GitHub</a>
+        <a href="https://patreon.com/lauragift21" class="px-3 text-lg">Patreon</a>
+        <a href="resume.pdf" class="px-3 text-lg">Resume</a>
+        <a href="https://github.com/lauragift21" class="px-3 text-lg">GitHub</a>
       </div>
-      <p class="font-bold text-md col-end-3">Designed and Developed by Gift Egwuenu</p>
-      <p class="font-bold text-md col-end-3">Made with Gridsome and Hosted on Netlify</p>
+      <p class="font-bold text-md col-end-3">Designed and Developed by <span class="p-1 rounded-sm bg-pink-600">Gift Egwuenu</span></p>
+      <!-- <p class="font-bold text-md col-end-3">Made with Gridsome and Hosted on Netlify</p> -->
     </div>
   </footer>
 </template>
@@ -42,15 +30,15 @@ footer {
   min-width: 100%;
   box-sizing: border-box;
   position: relative;
-  color: var(--bg-content-color);
-  background: var(--pink-color);
+  color: var(--bg-text-color);
+  /* background: var(--pink-color); */
   flex-shrink: 0;
 }
 .box {
-  border-color: #33272a;
+  border-color: var(--content-color);
 }
 button {
-  background: var(--bg-color);
+  background: var(--pink-color);
   color: var(--text-color);
 }
 

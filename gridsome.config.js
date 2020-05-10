@@ -1,7 +1,7 @@
 // This is where project configuration and plugin options are located. 
 // Learn more: https://gridsome.org/docs/config
 
-// Changes here requires a server restart.
+// Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
@@ -13,12 +13,10 @@ module.exports = {
   },
   plugins: [
     {
-      // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Post',
         path: 'content/posts/*.md',
-        route: '/:slug',
         remark: {
           plugins: [
             '@gridsome/remark-prismjs',
@@ -42,6 +40,9 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-tailwindcss'
     },
     {
       use: '@gridsome/plugin-google-analytics',
@@ -89,7 +90,6 @@ module.exports = {
       }
     }
   ],
-
   transformers: {
     //Add markdown support to all file-system sources
     remark: {
