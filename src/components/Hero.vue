@@ -3,7 +3,7 @@
     <div class="tagline flex-1 mt-40 xs:text-center sm:text-center p-2 xs:mt-1 sm:mt-1">
       <h1 class="text-6xl font-semibold">Hello I'm Gift Egwuenu</h1>
       <p
-        class="text-3xl"
+        class="text-2xl"
       >I’m a frontend engineer and technical writer based in Lagos Nigeria.</p>
       <div class="my-6 text-white">
         <abbr

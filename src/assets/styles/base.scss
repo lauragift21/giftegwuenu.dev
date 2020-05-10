@@ -7,13 +7,17 @@
 
 html {
   scroll-behavior: smooth;
+  max-width: 100%;
+  border: 6px solid;
+  border-image-source: linear-gradient(90deg, #f7c9c9 0%, #FA709A 70%);
+  border-image-slice: 1;
 }
 
 body {
  	background-color: var(--bg-color);
  	color: var(--body-color);
  	transition: color .6s, background-color .6s;
-   font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', serif;
   margin:0 auto;
   padding:0;
   width: 100%;

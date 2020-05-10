@@ -103,7 +103,7 @@
 }
 
 .markdown li a:not(.btn):focus,.markdown li a:not(.btn):hover,.markdown p a:not(.btn):focus,.markdown p a:not(.btn):hover {
-  color: #fff;
+  color: #111;
   box-shadow: inset 0 -1.25em 0 0 var(--color-primary);
   border-bottom-color: var(--color-primary);
   outline: 0
@@ -202,5 +202,5 @@
 }
 
 a:focus,button:focus,input:focus,textarea:focus {
-  outline: 5px solid var(--color-secondary)
+  outline: 2px dotted inherit;
 }

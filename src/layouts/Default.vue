@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <div class="layout ">
     <Nav />
     <slot/>
   </div>
@@ -55,5 +55,11 @@ query {
 .link:hover::before {
   transform: scaleX(1);
   transform-origin: center left;
+}
+
+@media screen and (max-width: 800px) {
+  .layout {
+    padding-top: 0;
+  } 
 }
 </style>
