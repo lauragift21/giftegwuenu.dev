@@ -51,6 +51,25 @@ module.exports = {
       }
     },
     {
+      use: 'gridsome-plugin-pwa',
+      options: {
+          title: 'Gift Egwuenu',
+          startUrl: '/',
+          display: 'standalone',
+          statusBarStyle: 'default',
+          manifestPath: 'manifest.json',
+          disableServiceWorker: true,
+          serviceWorkerPath: 'service-worker.js',
+          cachedFileTypes: 'js,json,css,html,png,jpg,jpeg,svg',
+          shortName: 'Gift Egwuenu',
+          themeColor: '#ff8ba7',
+          backgroundColor: '#ffffff',
+          icon: 'src/favicon.png', // must be provided like 'src/favicon.png'
+          msTileImage: '',
+          msTileColor: '#ff8ba7'
+      }
+    },
+    {
       use: 'gridsome-plugin-rss',
       options: {
         contentTypeName: 'Post',

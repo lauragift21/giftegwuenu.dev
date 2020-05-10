@@ -14,12 +14,13 @@
     "@gridsome/transformer-remark": "^0.5.0",
     "@jlengstorf/get-share-image": "^0.7.0",
     "gridsome": "^0.7.0",
+    "gridsome-plugin-pwa": "^0.0.17",
     "gridsome-plugin-rss": "^1.2.0"
   },
   "devDependencies": {
     "@noxify/gridsome-plugin-remark-embed": "^1.1.4",
+    "gridsome-plugin-tailwindcss": "^2.2.43",
     "node-sass": "^4.14.0",
-    "sass-loader": "^8.0.2",
-    "gridsome-plugin-tailwindcss": "^2.2.43"
+    "sass-loader": "^8.0.2"
   }
 }
