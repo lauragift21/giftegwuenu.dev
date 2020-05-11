@@ -1,6 +1,6 @@
 <template>
  <section class="w-full py-16">
-  <h2 class="text-4xl xs:text-xl text-left  font-semibold mb-5 sm:text-center sm:text-3xl">Latest Articles</h2>
+  <h2 class="text-4xl font-semibold mb-5 sm:text-4xl sm:px-6">Latest Articles</h2>
   <g-link to="/writing" class="more text-2xl mr-10 flex flex-row-reverse xs:text-xl">
    All articles >
   </g-link>
