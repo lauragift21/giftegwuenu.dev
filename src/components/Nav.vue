@@ -1,13 +1,13 @@
 <template>
-  <header class="flex justify-between">
-    <g-link class="no-marker" to="/">
+  <header class="flex justify-between sm:pt-5">
+    <g-link to="/">
       <g-image class="logo" src="../assets/img/logo.png" alt="logo" />
     </g-link>
-    <nav>
-      <g-link class="pr-7 font-black text-xl link" to="/#about">About</g-link>
-      <g-link class="pr-7 font-black text-xl link" to="/speaking/">Speaking</g-link>
-      <g-link class="pr-7 font-black text-xl link" to="/writing/">Writing</g-link>
-      <g-link class="pr-7 font-black text-xl link" to="/#contact">Contact</g-link>
+    <nav class="sm:inline">
+      <g-link class="mr-12 sm:-pr-3 font-black text-xl sm:text-base link" to="/#about">About</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/speaking/">Speaking</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/writing/">Writing</g-link>
+      <g-link class="mr-6 sm:-pr-3  font-black text-xl sm:text-base link" to="/#contact">Contact</g-link>
       <toggle-theme />
     </nav>
   </header>
@@ -35,6 +35,6 @@ header {
   background: var(--logo);
   background-size: 60px;
   height: 80px; 
-  padding-left: 180px;
+  padding-left: 100px;
 }
 </style>

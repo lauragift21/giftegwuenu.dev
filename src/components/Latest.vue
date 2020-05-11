@@ -1,7 +1,7 @@
 <template>
  <section class="w-full py-16">
   <h2 class="text-4xl xs:text-xl text-left  font-semibold mb-5 sm:text-center sm:text-3xl">Latest Articles</h2>
-  <g-link to="/writing" class="text-2xl mr-10 flex flex-row-reverse xs:text-xl">
+  <g-link to="/writing" class="more text-2xl mr-10 flex flex-row-reverse xs:text-xl">
    All articles >
   </g-link>
   <div class="pr-8 sm:ml-3 sm:mx-auto">
@@ -43,4 +43,11 @@ query Post {
   .description {
     color: var(--text-color);
   }
+
+  /* Smaller text for mobile */
+@media screen and (max-width: 500px) {
+  .more {
+    display: none;
+  }
+}
 </style>

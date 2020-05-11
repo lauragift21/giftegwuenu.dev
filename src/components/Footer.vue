@@ -1,15 +1,15 @@
 <template>
   <footer class="pt-10 xs:pt-5" id="contact" data-aos="fade">
-    <h3 class="text-5xl font-bold pb-4 xs:text-2xl">Get in Touch</h3>
-    <div class="box w-1/2 mx-auto py-8 border-solid border-4 rounded-lg xs:w-10/12">
-      <p class="font-bold text-2xl pb-16 xs:pb-8">Want to work together or have any questions?</p>
+    <h3 class="text-5xl font-bold pb-4">Get in Touch</h3>
+    <div class="box w-1/2 mx-auto py-8 border-solid border-4 rounded-lg sm:w-10/12">
+      <p class="font-bold text-2xl pb-16 sm:pb-8">Want to work together or have any questions?</p>
       <a
         class="mail hover:shadow font-bold py-3 px-8 text-xl rounded text-center"
         href="mailto:laurandidi21@gmailcom"
       >Say Hello 👋</a>
     </div>
 
-    <div class="px-4 pb-4 xs:block">
+    <div class="px-4 pb-4 sm:block">
       <div class="my-4 font-bold">
         <a href="https://patreon.com/lauragift21" class="px-3 text-xl">Patreon</a>
         <a href="resume.pdf" class="px-3 text-xl">Resume</a>

@@ -1,7 +1,7 @@
 module.exports = {
   theme: {
     screens: {
-      'xs': { 'max': '500px' },
+      'xs': { 'max': '300px' },
       'sm': { 'max': '768px' },
       'md': { 'max': '900px'},
       'lg': { 'max': '1024px' },

@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <div class="layout sm:px-3">
     <a class="skip" href="#main" >Skip to Content</a>
     <Nav />
     <slot />
@@ -48,8 +48,7 @@ query {
   position: relative;
   font-weight: 700;
   cursor: pointer;
-  font-size: 20px;
-  margin: 10px 20px;
+  /* margin: 10px 20px; */
   color: var(--link-color);
 }
 
