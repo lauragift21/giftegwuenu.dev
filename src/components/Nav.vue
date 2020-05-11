@@ -1,7 +1,7 @@
 <template>
   <header class="flex justify-between">
     <g-link class="no-marker" to="/">
-      <g-image class="logo" src="../assets/img/logo.png" />
+      <g-image class="logo" src="../assets/img/logo.png" alt="logo" />
     </g-link>
     <nav>
       <g-link class="pr-7 font-black text-xl link" to="/#about">About</g-link>
