@@ -4,10 +4,16 @@
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     ${head}
   </head>
   <body ${bodyAttrs}>
     <script>
+      AOS.init({
+        duration: 600,
+        delay: 40
+      });
       // Add dark / light detection that runs before Vue.js load. Borrowed from overreacted.io
       (function() {
         window.__onThemeChange = function() {};

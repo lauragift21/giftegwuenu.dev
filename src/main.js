@@ -3,13 +3,8 @@
   
 // Import main css
 import '~/assets/styles/index.scss'
-import AOS from 'aos';
-import 'aos/dist/aos.css';
 
-AOS.init({
-  duration: 600,
-  delay: 40
-});
+
 
 import DefaultLayout from '~/layouts/Default.vue'
 
