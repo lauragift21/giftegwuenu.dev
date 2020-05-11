@@ -13,6 +13,7 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.5.0",
     "@jlengstorf/get-share-image": "^0.7.0",
+    "aos": "^3.0.0-beta.6",
     "gridsome": "^0.7.0",
     "gridsome-plugin-pwa": "^0.0.17",
     "gridsome-plugin-rss": "^1.2.0"

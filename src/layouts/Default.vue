@@ -1,7 +1,8 @@
 <template>
-  <div class="layout ">
+  <div class="layout">
+    <a class="skip" href="#main" >Skip to Content</a>
     <Nav />
-    <slot/>
+    <slot />
   </div>
 </template>
 
@@ -26,6 +27,20 @@ query {
 <style>
 .layout {
   padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+.skip {
+  position: absolute;
+  left: -999em;
+  top: -999em;
+}
+
+.skip:active, 
+.skip:focus, 
+.skip:hover {
+  left: 1em;
+  top: 1em;
 }
 
 .link {

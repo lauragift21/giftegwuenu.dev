@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="text-center">
+    <div class="text-center" id="main"> 
       <h1 class="text-5xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
       <span class="text-lg font-normal">{{ $page.post.date }}</span>
       <PostTags :post="$page.post"/>

@@ -1,9 +1,9 @@
 <template>
   <Layout class="w-full">
-    <h1 class="text-4xl mx-10 my-5 font-bold uppercase">Speaking</h1>
-    <h2 class="text-3xl mx-10 sm:text-left my-5 text-center font-bold">Upcoming Talks</h2>
+    <h1 class="text-4xl mx-10 my-5 font-bold uppercase" id="main" data-aos="fade-right">Speaking</h1>
+    <h2 class="text-3xl mx-10 sm:text-left my-5 text-center font-bold" data-aos="slide-up">Upcoming Talks</h2>
     <div class="past sm:mx-10 mx-64">
-      <div class="mx-6 py-4 flex" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
+      <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
       <g-link :to="upcoming.link">
         <div class="card rounded sm:mx-4 px-8 py-6">
           <span class="font-bold">{{upcoming.date}}</span>
@@ -13,9 +13,9 @@
       </g-link>
       </div>
     </div>
-    <h3 class="text-3xl mx-10 my-5 sm:text-left  text-center font-bold">Past Talks</h3>
+    <h3 class="text-3xl mx-10 my-5 sm:text-left text-center font-bold" data-aos="slide-up">Past Talks</h3>
     <div class="past sm:mx-10 mx-64">
-      <div class="mx-6 py-4 flex" v-for="past in speaking.past" :key="past.id">
+      <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="past in speaking.past" :key="past.id">
       <g-link :to="past.link">
         <div class="card rounded sm:mx-4 px-8 py-6">
           <span class="font-bold">{{past.date}}</span>
@@ -25,9 +25,9 @@
       </g-link>
       </div>
     </div>
-    <h2 class="text-3xl mx-10 my-5 sm:text-left  text-center font-bold">Interviews</h2>
+    <h2 class="text-3xl mx-10 my-5 sm:text-left  text-center font-bold" data-aos="slide-up">Interviews</h2>
     <div class="past sm:mx-10  mx-64">
-      <div class="mx-6 py-4 flex" v-for="interviews in speaking.interviews" :key="interviews.id">
+      <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="interviews in speaking.interviews" :key="interviews.id">
       <g-link :to="interviews.link">
         <div class="card rounded sm:mx-4 px-8 py-6">
           <span class="font-bold">{{interviews.date}}</span>

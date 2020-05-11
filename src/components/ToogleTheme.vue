@@ -36,6 +36,9 @@ export default {
    &:hover {
     opacity: .8
   }
+  &:focus {
+    outline: none;
+  }
 }
 
 svg {

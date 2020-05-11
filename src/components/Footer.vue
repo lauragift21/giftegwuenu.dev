@@ -1,5 +1,5 @@
 <template>
-  <footer class="pt-10 xs:pt-5" id="contact">
+  <footer class="pt-10 xs:pt-5" id="contact" data-aos="fade">
     <h3 class="text-5xl font-bold pb-4 xs:text-2xl">Get in Touch</h3>
     <div class="box w-1/2 mx-auto py-8 border-solid border-4 rounded-lg xs:w-10/12">
       <p class="font-bold text-2xl pb-16 xs:pb-8">Want to work together or have any questions?</p>
