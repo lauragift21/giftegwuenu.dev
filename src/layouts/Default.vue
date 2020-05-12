@@ -16,14 +16,6 @@ export default {
 }
 </script>
 
-<static-query>
-query {
-  metadata {
-    siteName
-  }
-}
-</static-query>
-
 <style>
 .layout {
   padding-top: 40px;

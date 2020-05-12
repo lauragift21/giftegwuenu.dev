@@ -81,11 +81,11 @@ module.exports = {
         cacheTime: 600000, // default
         exclude: ['/exclude-me'],
         config: {
-          '/articles/*': {
+          '/writing/*': {
             changefreq: 'weekly',
             priority: 0.5
           },
-          '/about': {
+          '/speaking': {
             changefreq: 'monthly',
             priority: 0.7
           }
