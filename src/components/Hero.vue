@@ -9,19 +9,19 @@
       <p class="text-2xl">I’m a frontend engineer and technical writer based in Lagos Nigeria.</p>
       <div class="my-6 text-white">
         <abbr title="Twitter" class="pr-5 text-2xl font-semibold hover:text-pink-300">
-          <a href="https://twitter.com/lauragift_" target="_blank">TW</a>
+          <a href="https://twitter.com/lauragift_" target="_blank" rel="noopener">TW</a>
         </abbr>
         <abbr title="GitHub" class="pr-5 text-2xl font-semibold hover:text-pink-300">
-          <a href="https://github.com/lauragift21" target="_blank">GH</a>
+          <a href="https://github.com/lauragift21" target="_blank" rel="noopener">GH</a>
         </abbr>
         <abbr title="Instagram" class="pr-5 text-2xl font-semibold hover:text-pink-300">
-          <a href="https://instagram.com/lauragift_" target="_blank">IG</a>
+          <a href="https://instagram.com/lauragift_" target="_blank" rel="noopener">IG</a>
         </abbr>
         <abbr title="LinkedIn" class="pr-5 text-2xl font-semibold hover:text-pink-300">
-          <a href="https://www.linkedin.com/in/egwuenugift" target="_blank">LI</a>
+          <a href="https://www.linkedin.com/in/egwuenugift" target="_blank" rel="noopener">LI</a>
         </abbr>
         <abbr title="Dev" class="text-2xl font-semibold hover:text-pink-300">
-          <a href="https://dev.to/lauragift21" target="_blank">DV</a>
+          <a href="https://dev.to/lauragift21" target="_blank" rel="noopener">DV</a>
         </abbr>
       </div>
     </div>
