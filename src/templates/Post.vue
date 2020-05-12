@@ -9,6 +9,8 @@
       <p class="lead" v-html="$page.post.excerpt"/>
       <div class="markdown" v-html="$page.post.content"/>
     </div>
+    <!-- comment goes here -->
+    <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus>
 </Layout>
 </template>
 
@@ -83,3 +85,9 @@ export default {
   }
 };
 </script>
+
+<style lang="scss" scoped>
+#disqus_thread {
+  color: var(--title-color);
+}
+</style>

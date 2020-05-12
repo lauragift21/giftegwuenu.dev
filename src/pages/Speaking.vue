@@ -5,7 +5,7 @@
     <div class="past sm:mx-1 sm:text-base mx-64">
       <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
       <g-link :to="upcoming.link">
-        <div class="card rounded  px-8 py-6">
+        <div class="card rounded px-8 py-6">
           <span class="font-bold">{{upcoming.date}}</span>
           <h2 class="text-2xl my-3 font-semibold">{{upcoming.title}}</h2>
           <span class="font-bold">{{upcoming.event}}</span>
@@ -58,5 +58,19 @@ h1, h2 {
 
 .card {
   background: var(--secondary-color);
+  width: 40rem;
+}
+
+  /* Smaller text for mobile */
+@media screen and (max-width: 600px) {
+  .card {
+    width: 26rem;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .card {
+    width: 40rem;
+  }
 }
 </style>

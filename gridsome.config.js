@@ -8,6 +8,9 @@ module.exports = {
   siteName: 'Gift Egwuenu',
   siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
+  icon: {
+    favicon: './src/favicon.png'
+  },
   templates: {
     Post: '/:title',
   },
@@ -48,6 +51,21 @@ module.exports = {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-102896008-2'
+      }
+    },
+    {
+      use: 'gridsome-plugin-pwa',
+      options: {
+          title: 'Gift Egwuenu',
+          startUrl: '/',
+          display: 'standalone',
+          statusBarStyle: 'default',
+          manifestPath: 'manifest.json',
+          serviceWorkerPath: 'service-worker.js',
+          shortName: 'lauragift',
+          themeColor: '#fffffe',
+          backgroundColor: '#fffffe',
+          icon: '' // must be supplied!
       }
     },
     {

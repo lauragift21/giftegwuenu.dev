@@ -1,0 +1,39 @@
+{
+  "name": "Gift Egwuenu",
+  "short_name": "lauragift",
+  "description": "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
+  "icons": [{
+    "src": "/favicon.png",
+    "sizes": "100x99",
+    "type": "image/png"
+  }, 
+  {
+    "src": "/appicons/android-chrome-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  },
+  {
+    "src": "/appicons/apple-touch-icon.png",
+    "sizes": "76x76",
+    "type": "image/png"
+  }, 
+  {
+    "src": "/appicons/favico-140.png",
+    "sizes": "214x214",
+    "type": "image/png"
+  }, 
+  {
+    "src": "/appicons/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png"
+  }, {
+    "src": "/appicons/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation" : "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
+}
