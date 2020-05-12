@@ -54,21 +54,6 @@ module.exports = {
       }
     },
     {
-      use: 'gridsome-plugin-pwa',
-      options: {
-          title: 'Gift Egwuenu',
-          startUrl: '/',
-          display: 'standalone',
-          statusBarStyle: 'default',
-          manifestPath: 'manifest.json',
-          serviceWorkerPath: 'service-worker.js',
-          shortName: 'lauragift',
-          themeColor: '#fffffe',
-          backgroundColor: '#fffffe',
-          icon: '' // must be supplied!
-      }
-    },
-    {
       use: 'gridsome-plugin-rss',
       options: {
         contentTypeName: 'Post',
