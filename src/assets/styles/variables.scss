@@ -13,12 +13,14 @@ body {
 	--link-color: #25232D;
 	--link-accent-color: #f77e9a;
 	--text-color: #594a4e;
+	--white-text: #fff;
  	--border-color:  rgba(0,0,0,.1);;
   --space: 3.5rem;
   --content-width: 860px;
   --header-height: 80px;
 	--radius: 5px;
 	--pink-color: #f7c9c9;
+	--dark-pink: #e2216a;
 	--secondary-color: #fffffe;
 	--bg-transparent: rgba(255, 255, 255, .9);
   --bg-teritary: #f3f5f4;
@@ -53,7 +55,7 @@ body {
 
 // Override variables for Dark theme
 body[data-theme="dark"] {
- 	--bg-color: #000;
+ 	--bg-color: #030200;
  	--bg-content-color: #111;
  	--bg-code: rgba(0,0,0,.3);
  	--border-color:  rgba(255,255,255,.1);;
@@ -62,6 +64,8 @@ body[data-theme="dark"] {
 	--link-color: #fffffe;
 	--link-accent-color: #ff8ba7;
 	--pink-color: #ff8ba7;
+	--white-text: #fff;
+	--dark-pink: #e2216a;
 	--text-color: #fffffe;
 	--secondary-color: #111;
 	--bg-transparent: rgba(255, 255, 255, .9);

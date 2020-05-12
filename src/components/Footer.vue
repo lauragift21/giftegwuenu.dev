@@ -37,11 +37,12 @@ footer {
   border-color: var(--content-color);
 }
 .mail {
-  background: var(--pink-color);
-  color: var(--text-color);
+  background: var(--dark-pink);
+  color: var(--white-text);
 }
 
 .footnote {
-  background: var(--pink-color);
+  background: var(--dark-pink);
+  color: var(--white-text);
 }
 </style>
