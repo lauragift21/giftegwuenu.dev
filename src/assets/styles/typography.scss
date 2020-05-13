@@ -57,12 +57,13 @@
   font-size: 1rem;
 }
 
-.markdown pre[class*=language-]>code {
-  width: 100%;
-  max-width: 41rem;
+.markdown pre[class*=language-] > code {
+  width: 720px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  display: block
+  display: block;
+  font-size: 16px;
 }
 
 
@@ -101,7 +102,7 @@
 
 .markdown img,.markdown video {
   display: block;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   margin: 0 auto 2rem;
   color: var(--color-text-offset);
@@ -110,7 +111,7 @@
 }
 
 .markdown figure {
-  max-width: none;
+  max-width: 80%;
   margin: 2rem auto;
   text-align: center
 }
