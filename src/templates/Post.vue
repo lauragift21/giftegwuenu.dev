@@ -81,7 +81,7 @@ export default {
         title: this.$page.post.title,
         tagline: 'giftegwuenu.com',
         cloudName: 'lauragift',
-        imagePublicID: 'social_card_sp9khr',
+        imagePublicID: 'social_cards_x3icte',
         titleFont: 'futura',
         taglineFont: 'futura',
         titleFontSize: 72,
