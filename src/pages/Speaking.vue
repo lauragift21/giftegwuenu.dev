@@ -1,8 +1,8 @@
 <template>
   <Layout class="w-full">
-    <h1 class="text-4xl mx-10 sm:mx-1 my-5 font-bold uppercase" id="main" data-aos="fade-right">Speaking</h1>
-    <h2 class="text-3xl mx-10 sm:text-left my-5 text-center font-bold" data-aos="slide-up">Upcoming Talks</h2>
-    <div class="past sm:mx-1 sm:text-base mx-64">
+    <h1 class="text-4xl mx-10 sm:mx-1 my-5 font-bold uppercase" id="main">Speaking</h1>
+    <h2 class="text-3xl mx-10 sm:text-left md:text-left my-5 text-center font-bold" data-aos="slide-up">Upcoming Talks</h2>
+    <div class="past sm:mx-4 md:mx-4 sm:text-base mx-64">
       <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
       <g-link :to="upcoming.link">
         <div class="card rounded px-8 py-6">
@@ -13,11 +13,11 @@
       </g-link>
       </div>
     </div>
-    <h3 class="text-3xl mx-10 my-5 sm:text-left text-center font-bold" data-aos="slide-up">Past Talks</h3>
-    <div class="past mx-64 sm:mx-1">
+    <h3 class="text-3xl mx-10 my-5 sm:text-left md:text-left text-center font-bold" data-aos="slide-up">Past Talks</h3>
+    <div class="past mx-64 sm:mx-4 md:mx-4">
       <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="past in speaking.past" :key="past.id">
       <g-link :to="past.link">
-        <div class="card rounded  px-8 py-6">
+        <div class="card rounded px-8 py-6">
           <span class="font-bold">{{past.date}}</span>
           <h2 class="text-2xl my-3 font-semibold">{{past.title}}</h2>
           <span class="font-bold">{{past.event}}</span>
@@ -25,8 +25,8 @@
       </g-link>
       </div>
     </div>
-    <h2 class="text-3xl mx-10 my-5 sm:text-left  text-center font-bold" data-aos="slide-up">Interviews</h2>
-    <div class="past sm:mx-1  mx-64">
+    <h2 class="text-3xl mx-10 my-5 sm:text-left md:text-left text-center font-bold" data-aos="slide-up">Interviews</h2>
+    <div class="past sm:mx-4 md:mx-4  mx-64">
       <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="interviews in speaking.interviews" :key="interviews.id">
       <g-link :to="interviews.link">
         <div class="card rounded  px-8 py-6">
@@ -62,13 +62,13 @@ h1, h2 {
 }
 
   /* Smaller text for mobile */
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 200px) {
   .card {
-    width: 26rem;
+    width: 30rem;
   }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1200px) {
   .card {
     width: 40rem;
   }

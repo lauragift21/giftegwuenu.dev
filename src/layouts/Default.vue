@@ -1,5 +1,5 @@
 <template>
-  <div class="layout sm:px-3 md:px-16 lg:px-16 xl:px-16">
+  <div class="layout lg:px-16 xl:px-16">
     <a class="skip" href="#main" >Skip to Content</a>
     <Nav />
     <slot />
@@ -40,7 +40,6 @@ export default {
   position: relative;
   font-weight: 700;
   cursor: pointer;
-  /* margin: 10px 20px; */
   color: var(--link-color);
 }
 
@@ -55,7 +54,7 @@ export default {
   transform: scaleX(0);
   background: var(--pink-color);
   transform-origin: center right;
-  transition: transform .3s ease-in-out;
+  transition: transform .2s ease-in;
 }
 
 .link:hover::before {
@@ -65,7 +64,7 @@ export default {
 
 @media screen and (max-width: 800px) {
   .layout {
-    padding-top: 0;
+    padding-top: 20px;
   } 
 }
 </style>
