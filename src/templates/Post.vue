@@ -9,9 +9,13 @@
       <p class="lead" v-html="$page.post.excerpt"/>
       <div class="markdown" v-html="$page.post.content"/>
     </div>
-    <hr class="line w-1/2 mx-auto my-5">
+    <hr class="line w-1/2 mx-auto my-10">
+    <!-- newsletter component -->
+    <newsletter></newsletter>
+    <hr class="line w-1/2 mx-auto my-10">
+    <author></author>
     <!-- comment goes here -->
-    <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus>
+    <!-- <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus> -->
 </Layout>
 </template>
 
@@ -36,12 +40,14 @@ query Post ($path: String!) {
 import getShareImage from '@jlengstorf/get-share-image';
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-// import CarbonAds from "~/components/CarbonAds.vue";
+import Newsletter from "~/components/Newsletter.vue";
+import Author from "~/components/Author.vue";
 export default {
   components: {
     PostMeta,
     PostTags,
-    // CarbonAds
+    Newsletter,
+    Author
   },
   metaInfo() {
     return {
@@ -93,6 +99,6 @@ export default {
 }
 
 .line {
-  border-color: var(--title-color);
+  border: 1px dashed var(--title-color);
 }
 </style>
