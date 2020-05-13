@@ -10,7 +10,6 @@
       <div class="markdown" v-html="$page.post.content"/>
     </div>
     <hr class="line w-1/2 mx-auto my-10">
-    <!-- newsletter component -->
     <newsletter></newsletter>
     <hr class="line w-1/2 mx-auto my-10">
     <author></author>
