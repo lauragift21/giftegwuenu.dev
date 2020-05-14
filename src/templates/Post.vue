@@ -2,7 +2,8 @@
   <Layout>
     <div class="text-center mx-auto" id="main"> 
       <h1 class="text-5xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
-      <span class="text-lg font-normal">{{ $page.post.date }}</span>
+      <!-- TODO: quick pass of implementing digital garden -->
+      <!-- <span class="text-lg font-normal">{{ $page.post.date }}</span> -->
       <PostTags :post="$page.post"/>
     </div>
     <div class="mx-48 sm:mx-10 md:mx-30 xs:mx-auto">
