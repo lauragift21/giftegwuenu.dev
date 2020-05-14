@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="text-center" id="main"> 
+    <div class="text-center mx-auto" id="main"> 
       <h1 class="text-5xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
       <span class="text-lg font-normal">{{ $page.post.date }}</span>
       <PostTags :post="$page.post"/>
@@ -8,13 +8,13 @@
     <div class="mx-48 sm:mx-10 md:mx-30 xs:mx-auto">
       <p class="lead" v-html="$page.post.excerpt"/>
       <div class="markdown" v-html="$page.post.content"/>
-    </div>
     <hr class="line w-1/2 mx-auto my-10">
     <newsletter></newsletter>
     <hr class="line w-1/2 mx-auto my-10">
     <author></author>
     <!-- comment goes here -->
     <!-- <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus> -->
+    </div>
 </Layout>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
    <div class="post-tags">
-   		<span class="post-tags text-lg" v-for="tag in post.tags" :key="tag.id" :to="tag.path">
-   			{{ tag.title }}
+   		<span class="post-tags text-lg font-bold px-3" v-for="tag in post.tags" :key="tag.id" :to="tag.path">
+   			#{{ tag.title }}
    		</span>
     </div>
 </template>
