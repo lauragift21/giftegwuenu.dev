@@ -15,11 +15,11 @@
     "@jlengstorf/get-share-image": "^0.7.0",
     "gridsome": "^0.7.0",
     "gridsome-plugin-rss": "^1.2.0",
-    "vue-disqus": "^3.0.5"
+    "vue-disqus": "^3.0.5",
+    "gridsome-plugin-tailwindcss": "^2.2.43",
+    "@noxify/gridsome-plugin-remark-embed": "^1.1.4"
   },
   "devDependencies": {
-    "@noxify/gridsome-plugin-remark-embed": "^1.1.4",
-    "gridsome-plugin-tailwindcss": "^2.2.43",
     "node-sass": "^4.14.0",
     "sass-loader": "^8.0.2"
   }
