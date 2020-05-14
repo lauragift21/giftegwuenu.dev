@@ -166,20 +166,20 @@
   }
 }
 
-.markdown ol,.markdown ul {
+ ol, ul {
   list-style-position: outside;
   padding-left: 1em
 }
 
-.markdown ol li:not(:last-child),.markdown ul li:not(:last-child) {
+ ol li:not(:last-child),ul li:not(:last-child) {
   margin-bottom: .25em
 }
 
-.markdown ul {
-  list-style-type: disc;
+ul {
+  list-style-type: square;
 }
 
-.markdown ol {
+ol {
   list-style-type: decimal
 }
 
