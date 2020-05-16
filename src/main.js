@@ -54,19 +54,19 @@ export default function(Vue, { router, head, isClient }) {
       content: "social.png",
     },
     {
-      name: "twitter:card",
+      property: "twitter:card",
       content: "summary_large_image",
     },
     {
-      name: "twitter:image",
+      property: "twitter:image",
       content: "social.png",
     },
     {
-      name: "twitter:title",
+      property: "twitter:title",
       content: "Gift Egwuenu | Frontend Engineer",
     },
     {
-      name: "twitter:description",
+      property: "twitter:description",
       content:
         "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
     }
