@@ -70,9 +70,29 @@
 
 .markdown blockquote {
   font-style: italic;
-  color: gray;
-  padding: 32px;
+  color: var(--title-color);
+  padding: 22px;
   margin: 0 30px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-left: 10px solid var(--text-color);
+}
+
+.markdown table {
+  border: 2px solid var(--title-color);
+  thead {
+    border-bottom: 2px solid var(--title-color);
+  }
+  th {
+    border-right: 2px solid var(--title-color);
+  }
+  tr {
+    padding: 20px;
+  }
+  td {
+    border-right: 2px solid var(--title-color);
+    padding: 10px;
+  }
 }
 
 .markdown a {

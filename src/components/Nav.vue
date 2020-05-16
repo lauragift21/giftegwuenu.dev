@@ -7,6 +7,7 @@
       <g-link class="mr-12 sm:-pr-3 font-black text-xl sm:text-base link" to="/#about">About</g-link>
       <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/speaking/">Speaking</g-link>
       <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/writing/">Writing</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/uses/">Uses</g-link>
       <g-link class="mr-6 sm:-pr-3  font-black text-xl sm:text-base link" to="/#contact">Contact</g-link>
       <toggle-theme />
     </nav>
