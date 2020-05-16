@@ -1,48 +1,57 @@
 <template>
-  <Layout>
-    <div class="post-title">
-      <h1 class="post-title__text">{{ $page.post.title }}</h1>
-      <PostMeta :post="$page.post"/>
-    </div>
-    <div class="post__flex">
-      <carbon-ads></carbon-ads>
-      <div class="post content-boxs">
-        <div class="post__header">
-          <g-image alt="Cover image" v-if="$page.post.coverImage" :src="$page.post.coverImage"/>
-        </div>
-
-        <div class="post__content" v-html="$page.post.content"/>
-
-        <div class="post__footer">
-          <PostTags :post="$page.post"/>
-        </div>
-        <div class="post-comments">
-          <!-- Add comment widgets here -->
-        </div>
+  <Layout class="w-full">
+    <div class="mx-auto">
+      <div class="text-center mx-auto" id="main"> 
+        <h1 class="text-4xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
+        <!-- TODO: quick pass of implementing digital garden -->
+        <!-- <span class="text-lg font-normal">{{ $page.post.date }}</span> -->
+        <PostTags :post="$page.post"/>
       </div>
-      <br>
+      <div class="mx-auto w-2/3 sm:mx-auto sm:w-10/12 md:mx-auto md:w-11/12 xs:mx-auto">
+        <p class="lead" v-html="$page.post.excerpt"/>
+        <div class="markdown" v-html="$page.post.content"/>
+        <br>
+      <g-link to="/writing" class="inline rounded px-3 py-2 text-lg"> View All Posts 🔖 </g-link>
+      <hr class="line w-3/4 mx-auto my-8">
+      <newsletter></newsletter>
+      <hr class="line w-3/4 mx-auto my-8">
+      <author></author>
+      <!-- comment goes here -->
+      <!-- <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus> -->
+      </div>
     </div>
-    <!-- Add newsletter form -->
-    <Newsletter class="post-newsletter"/>
-    <Author class="post-author"/>
-  </Layout>
+</Layout>
 </template>
+
+<page-query>
+query Post ($path: String!) {
+  post: post (path: $path) {
+    title
+    path
+    date (format: "D MMMM YYYY")
+    timeToRead
+    tags {
+      id
+      title
+    }
+    description
+    content
+  }
+}
+</page-query>
 
 <script>
 import getShareImage from '@jlengstorf/get-share-image';
 import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
-import Author from "~/components/Author.vue";
 import Newsletter from "~/components/Newsletter.vue";
-import CarbonAds from "~/components/CarbonAds.vue";
-
+import Author from "~/components/Author.vue";
 export default {
   components: {
-    Author,
     PostMeta,
     PostTags,
     Newsletter,
-    CarbonAds
+    Author
   },
   metaInfo() {
     return {
@@ -57,8 +66,8 @@ export default {
         { name: "twitter:image", content: this.getImage() },
         { name: "twitter:description", content: this.$page.post.description },
         { name: "twitter:title", content: this.$page.post.title },
-        { name: "twitter:site", content: "@lauragift21" },
-        { name: "twitter:creator", content: "@lauragift21" },
+        { name: "twitter:site", content: "@lauragift_" },
+        { name: "twitter:creator", content: "@lauragift_" },
         // open graph
         { property: "og:title", content: this.$page.post.title },
         { property: "og:description", content: this.$page.post.description },
@@ -76,7 +85,7 @@ export default {
         title: this.$page.post.title,
         tagline: 'giftegwuenu.com',
         cloudName: 'lauragift',
-        imagePublicID: 'social_card_sp9khr',
+        imagePublicID: 'social_cards_x3icte',
         titleFont: 'futura',
         taglineFont: 'futura',
         titleFontSize: 72,
@@ -88,103 +97,21 @@ export default {
 };
 </script>
 
-<page-query>
-query Post ($path: String!) {
-  post: post (path: $path) {
-    path
-    id
-    title
-    description
-    timeToRead
-    tags {
-      id
-      title
-    }
-    date (format: "D. MMMM YYYY")
-    content
-  }
-}
-</page-query>
-
-<style lang="scss">
-.post-title {
-  padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
-  text-align: center;
+<style lang="scss" scoped>
+#disqus_thread {
+  color: var(--title-color);
 }
 
-.post {
-  &__header {
-    width: calc(100% + var(--space) * 2);
-    margin-left: calc(var(--space) * -1);
-    margin-top: calc(var(--space) * -1);
-    margin-bottom: calc(var(--space) / 2);
-    overflow: hidden;
-    border-radius: var(--radius) var(--radius) 0 0;
-
-    img {
-      width: 100%;
-    }
-
-    &:empty {
-      display: none;
-    }
-  }
-
-  &__content {
-    h2:first-child {
-      margin-top: 0;
-    }
-
-    p:first-of-type {
-      font-size: 1.2em;
-      color: var(--title-color);
-    }
-
-    img {
-      width: calc(100% + var(--space) * 2);
-      margin-left: calc(var(--space) * -1);
-      display: block;
-      max-width: none;
-    }
-  }
-
-  &__flex {
-    display: grid;
-    grid-template-columns: 22% 60%;
-  }
+.line {
+  border: 1px dashed var(--title-color);
 }
 
-.post-comments {
-  padding: calc(var(--space) / 2);
-
-  &:empty {
-    display: none;
-  }
-}
-
-.post-author {
-  margin-top: calc(var(--space) / 2);
-}
-
-.post-newsletter {
-  padding: 0;
-}
-
-@media only screen and (min-width: 320px) and (max-width: 800px) {
-  .post {
-    &__flex {
-      display: flex;
-      flex-direction: column-reverse;
-    }
-  }
-  .content-boxs {
-    margin: 0 !important;
-  }
-}
-
-@media only screen and (min-width: 1650px) {
-  .content-boxs {
-    margin-left: 6em;
-  }
+ a {
+  color: var(--link-color);
+  background:
+     linear-gradient(
+       to bottom, var(--link-accent-color) 0%,
+       var(--link-accent-color) 100%
+     );
 }
 </style>

@@ -1,0 +1,85 @@
+// Default variables
+html {
+	--base-font-size: 20px;
+}
+
+// Light default theme
+body {
+ 	--bg-color: #faeee7;
+ 	--bg-content-color: #33272a;
+ 	--bg-code: #fffbf3;
+ 	--body-color: #33272a;
+ 	--title-color: #33272a;
+	--link-color: #25232D;
+	--link-accent-color: #f77e9a;
+	--text-color: #594a4e;
+	--white-text: #fff;
+ 	--border-color:  rgba(0,0,0,.1);;
+  --space: 3.5rem;
+  --content-width: 860px;
+  --header-height: 80px;
+	--radius: 5px;
+	--pink-color: #f7c9c9;
+	--dark-pink: #e2216a;
+	--secondary-color: #fffffe;
+	--bg-transparent: rgba(255, 255, 255, .9);
+  --bg-teritary: #f3f5f4;
+  --dark-bg: #222222;
+  --code-bg: #222222;
+  --select-color: rgba(212, 53, 159, .2);
+  --inline-code-text:#33272a;
+  --inline-code-bg: #ff8ba7;
+  --inline-code-offset: #f3e1d8;
+  --border-color: #e2ecec;
+  --border-color-darker: #cfe6e6;
+  --mark-color: #fff8ec;
+  --border-radius: 5px;
+  --space: 25px;
+  --space-x2: 50px;
+	--code-color: #fdf9f3;
+	--font-weight: 700;
+	--logo: url(../../assets/img/logo.png) no-repeat;
+}
+
+// Make  things smaller for mobile
+@media screen and (max-width: 650px) {
+	html {
+		--base-font-size: 17px;
+	}
+	body {
+		--space: 1.5rem;
+		--header-height: 60px;
+	}
+}
+
+
+// Override variables for Dark theme
+body[data-theme="dark"] {
+ 	--bg-color: #030200;
+ 	--bg-content-color: #111;
+ 	--bg-code: rgba(0,0,0,.3);
+ 	--border-color:  rgba(255,255,255,.1);;
+ 	--body-color: #fffffe;
+ 	--title-color: #fffffe;
+	--link-color: #fffffe;
+	--link-accent-color: #ff8ba7;
+	--pink-color: #ff8ba7;
+	--white-text: #fff;
+	--dark-pink: #e2216a;
+	--text-color: #fffffe;
+	--secondary-color: #111;
+	--bg-transparent: rgba(255, 255, 255, .9);
+  --bg-teritary: #f3f5f4;
+  --dark-bg: #222222;
+  --code-bg: #222222;
+  --select-color: rgba(212, 53, 159, .2);
+  --inline-code-text:#ff8ba7;
+  --inline-code-bg: #c3f0ca;
+  --inline-code-offset: #f3e1d8;
+  --border-color: #e2ecec;
+  --border-color-darker: #cfe6e6;
+  --mark-color: #fff8ec;
+  --border-radius: 5px;
+	--code-color: #fdf9f3;
+	--logo: url(../../assets/img/logo-light.png) no-repeat;
+}

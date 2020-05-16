@@ -1,58 +1,41 @@
 <template>
-  <div class="header__right">
-    <nav>
-      <ul class="nav">
-        <li>
-          <g-link class="header__link" to="/about">About</g-link>
-        </li>
-        <!-- <li>
-          <g-link class="header__link" to="/talks">Talks</g-link>
-        </li> -->
-        <!-- <li>
-          <g-link class="header__link" to="/uses">Uses</g-link>
-        </li> -->
-      </ul>
+  <header class="flex justify-between sm:pt-5">
+    <g-link to="/">
+      <g-image class="logo" src="../assets/img/logo.png" alt="logo" />
+    </g-link>
+    <nav class="sm:flex sm:flex-col sm:-mx-10 md:flex md:flex-col md:-mx-10">
+      <g-link class="mr-12 sm:-pr-3 font-black text-xl sm:text-base link" to="/#about">About</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/speaking/">Speaking</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/writing/">Writing</g-link>
+      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/uses/">Uses</g-link>
+      <g-link class="mr-6 sm:-pr-3  font-black text-xl sm:text-base link" to="/#contact">Contact</g-link>
+      <toggle-theme />
     </nav>
-    <ToggleTheme/>
-  </div>
+  </header>
 </template>
 
 <script>
-import ToggleTheme from "~/components/ToggleTheme.vue";
-
+import ToggleTheme from './ToogleTheme';
 export default {
   components: {
     ToggleTheme
   }
-};
+}
 </script>
 
-<style lang="scss">
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  min-height: var(--header-height);
-  padding: 0 calc(var(--space) / 2);
-  top: 0;
-  z-index: 10;
+<style scoped>
 
-  &__left,
-  &__right {
-    display: flex;
-    align-items: center;
-  }
-  &__link {
-    text-decoration: none;
-    font-size: 21px;
-  }
-  .nav {
-  display: flex;
-  list-style: none;
-  li {
-    padding: 20px;
-    margin-top: 30px;
-  }
+header {
+  margin: 0 auto;
 }
+
+.logo {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: var(--logo);
+  background-size: 60px;
+  height: 80px; 
+  padding-left: 100px;
 }
 </style>

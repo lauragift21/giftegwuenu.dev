@@ -1,28 +1,18 @@
 <!DOCTYPE html>
 <html ${htmlAttrs}>
   <head>
-    <!-- HTML Meta Tags -->
-    <title>Home - Gift Egwuenu</title>
-    <meta name="description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <!-- Google / Search Engine Tags -->
-    <meta itemprop="name" content="Gift Egwuenu">
-    <meta itemprop="description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <meta itemprop="image" content="">
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://giftegwuenu.netlify.com">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Gift Egwuenu">
-    <meta property="og:description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <meta property="og:image" content="">
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gift Egwuenu">
-    <meta name="twitter:description" content="Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <meta name="robots" content="max-snippet:20">
+    <link rel="manifest" href="../manifest.json">
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="../service-worker.js"></script>
     ${head}
   </head>
   <body ${bodyAttrs}>
     <script>
+      AOS.init({
+        duration: 600,
+        delay: 40
+      });
       // Add dark / light detection that runs before Vue.js load. Borrowed from overreacted.io
       (function() {
         window.__onThemeChange = function() {};
@@ -53,7 +43,6 @@
         setTheme(preferredTheme || (darkQuery.matches ? 'dark' : 'light'));
       })();
     </script>
-    <script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
     ${app}
     ${scripts}
   </body>

@@ -1,27 +1,33 @@
 // This is where project configuration and plugin options are located. 
 // Learn more: https://gridsome.org/docs/config
 
-// Changes here requires a server restart.
+// Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gift Egwuenu',
+  siteName: 'Gift Egwuenu | Frontend Engineer',
   siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
+  icon: {
+    favicon: './src/favicon.png'
+  },
   templates: {
     Post: '/:title',
   },
   plugins: [
     {
-      // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Post',
         path: 'content/posts/*.md',
-        route: '/:slug',
         remark: {
           plugins: [
-            '@gridsome/remark-prismjs',
+            ['gridsome-plugin-remark-prismjs-all', {
+              showLineNumber: true,
+              highlightClassName: "gridsome-highlight",
+              codeTitleClassName: "gridsome-code-title",
+              classPrefix: 'language-',
+            }],
             ['@noxify/gridsome-plugin-remark-embed', {
               'enabledProviders' : [
                 'Youtube',
@@ -42,6 +48,9 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-tailwindcss'
     },
     {
       use: '@gridsome/plugin-google-analytics',
@@ -77,11 +86,11 @@ module.exports = {
         cacheTime: 600000, // default
         exclude: ['/exclude-me'],
         config: {
-          '/articles/*': {
+          '/writing/*': {
             changefreq: 'weekly',
             priority: 0.5
           },
-          '/about': {
+          '/speaking': {
             changefreq: 'monthly',
             priority: 0.7
           }
@@ -89,7 +98,6 @@ module.exports = {
       }
     }
   ],
-
   transformers: {
     //Add markdown support to all file-system sources
     remark: {

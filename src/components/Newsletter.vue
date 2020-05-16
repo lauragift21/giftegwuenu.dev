@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h4>Subscribe to my Newsletter</h4>
+    <h2 class="text-2xl text-center">Subscribe to my Newsletter</h2>
     <p
-      class="text"
+      class="w-3/4 mx-auto text-center pb-3 text-xl sm:text-lg"
     >Don't miss out on new articles from me. Get notified when a new article is published.</p>
     <form
       class="form"
@@ -30,13 +30,6 @@
 h4 {
   text-align: center;
 }
-
-.text {
-  font-style: italic;
-  font-size: 16px;
-  text-align: center;
-}
-
 .form {
   text-align: center;
   &__email {
@@ -49,19 +42,18 @@ h4 {
     border: 1px solid;
     padding: 10px;
     outline: none;
-    border-radius: 2px;
-    background: #fff;
+    border-radius: 5px;
+    background: var(--dark-pink);
+    color: #fff;
     cursor: pointer;
   }
 }
-
 @media only screen and (max-width: 650px) {
   .form {
     &__submit {
-      background: #fff;
+      background: #111;
       margin-top: 10px;
     }
   }
 }
 </style>
-

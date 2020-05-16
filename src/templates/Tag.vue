@@ -19,6 +19,7 @@ query Tag ($id: String!) {
         node {
           ...on Post {
             title
+            path
             date (format: "D. MMMM YYYY")
             timeToRead
             description
@@ -32,21 +33,13 @@ query Tag ($id: String!) {
 </page-query>
 
 <script>
-import Author from '~/components/Author.vue'
 import PostCard from '~/components/PostCard.vue'
-
 export default {
   components: {
-    Author,
     PostCard
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Tags'
   }
 }
 </script>
-
-<style lang="scss">
-
-</style>
-

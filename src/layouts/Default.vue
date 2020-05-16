@@ -1,120 +1,81 @@
 <template>
-  <div id="app">
-    <a class="skip" href="#main">Skip to main content</a>
-    <header class="header">
-      <div class="header__left">
-        <Logo v-if="showLogo"/>
-      </div>
-      <Nav/>
-    </header>
-
-    <transition name="fade" appear>
-      <main class="main">
-        <slot/>
-      </main>
-    </transition>
-
-    <footer class="footer">
-      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}.</span>
-      <span>
-        Made with 💚 by
-        <a href="//twitter.com/lauragift21">@lauragift21</a>
-      </span>
-      <span class="footer__links">
-        Powered by
-        <a href="//gridsome.org">Gridsome</a>
-      </span>
-    </footer>
+  <div class="layout lg:px-16 xl:px-16">
+    <a class="skip" href="#main" >Skip to Content</a>
+    <Nav />
+    <slot />
   </div>
 </template>
 
 <script>
-import Logo from "~/components/Logo.vue";
-import Nav from "~/components/Nav.vue";
-import ToggleTheme from "~/components/ToggleTheme.vue";
+import Nav from '~/components/Nav.vue'
 
 export default {
-  props: {
-    showLogo: { default: true }
-  },
   components: {
-    Logo,
-    Nav,
-    ToggleTheme
+    Nav
   },
   mounted() {
     let twitterScript = document.createElement('script')
     twitterScript.async = true;
     twitterScript.setAttribute('src', 'https://platform.twitter.com/widgets.js')
     document.head.appendChild(twitterScript)
-
+    
     let codepenScript = document.createElement('script')
     codepenScript.async = true;
     codepenScript.setAttribute('src', 'https://static.codepen.io/assets/embed/ei.js')
     document.head.appendChild(codepenScript)
   }
-};
+}
 </script>
 
-<style lang="scss">
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  min-height: var(--header-height);
-  padding: 0 calc(var(--space) / 2);
-  top: 0;
-  z-index: 10;
-
-  &__left,
-  &__right {
-    display: flex;
-    align-items: center;
-  }
-
-  @media screen and (min-width: 1300px) {
-    //Make header sticky for large screens
-    // position: sticky;
-    width: 100%;
-  }
+<style>
+.layout {
+  padding-top: 40px;
+  padding-bottom: 50px;
 }
 
 .skip {
   position: absolute;
   left: -999em;
+  top: -999em;
 }
 
-.skip:active,
-.skip:focus {
-  left: -0em;
+.skip:active, 
+.skip:focus, 
+.skip:hover {
+  left: 1em;
+  top: 1em;
 }
 
-.main {
-  margin: 0 auto;
-  padding: 1.5vw 15px 0;
+.link {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  cursor: pointer;
+  color: var(--link-color);
 }
 
-.footer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: calc(var(--space) / 2);
-  text-align: center;
-  font-size: 0.8em;
-
-  > span {
-    margin: 0 0.35em;
-  }
-
-  a {
-    color: currentColor;
-  }
-}
-.fade-enter-active {
-  transition: opacity 0.5s;
+.link::before {
+  content: '';
+  position: absolute;
+  top: 1.15rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  transform: scaleX(0);
+  background: var(--pink-color);
+  transform-origin: center right;
+  transition: transform .2s ease-in;
 }
 
-.fade-enter {
-  opacity: 0;
+.link:hover::before {
+  transform: scaleX(1);
+  transform-origin: center left;
+}
+
+@media screen and (max-width: 800px) {
+  .layout {
+    padding-top: 20px;
+  } 
 }
 </style>
