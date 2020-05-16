@@ -7,7 +7,7 @@
         <!-- <span class="text-lg font-normal">{{ $page.post.date }}</span> -->
         <PostTags :post="$page.post"/>
       </div>
-      <div class="mx-auto w-2/3 sm:mx-10 md:mx-30 xs:mx-auto">
+      <div class="mx-auto w-2/3 sm:mx-auto md:mx-auto xs:mx-auto">
         <p class="lead" v-html="$page.post.excerpt"/>
         <div class="markdown" v-html="$page.post.content"/>
       <hr class="line w-3/4 mx-auto my-8">
