@@ -51,15 +51,15 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       property: "og:image",
-      content: "",
+      content: "/social.png",
     },
     {
       name: "twitter:card",
       content: "summary_large_image",
     },
     {
-      name: "twitter:card",
-      content: "summary_large_image",
+      name: "twitter:image",
+      content: "/social.png",
     },
     {
       name: "twitter:title",
