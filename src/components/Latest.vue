@@ -2,7 +2,7 @@
  <section class="w-full py-16">
   <h2 class="text-4xl font-semibold mb-5 sm:text-4xl sm:px-6">Latest Articles</h2>
   <g-link to="/writing" class="more text-2xl mr-10 flex flex-row-reverse xs:text-xl">
-   All articles >
+   All articles 📝
   </g-link>
   <div class="pr-8 sm:ml-3 sm:mx-auto">
     <div class="card rounded-lg border border-l-8 shadow-md my-4 pb-3" data-aos="slide-up" v-for="edge in $static.allPost.edges" :key="edge.node.id">

@@ -10,6 +10,7 @@
       <div class="mx-auto w-2/3 sm:mx-auto md:mx-auto xs:mx-auto">
         <p class="lead" v-html="$page.post.excerpt"/>
         <div class="markdown" v-html="$page.post.content"/>
+      <g-link to="/writing" class="inline p-2 text-lg"> View All Posts 🔖 </g-link>
       <hr class="line w-3/4 mx-auto my-8">
       <newsletter></newsletter>
       <hr class="line w-3/4 mx-auto my-8">
@@ -102,5 +103,14 @@ export default {
 
 .line {
   border: 1px dashed var(--title-color);
+}
+
+ a {
+  color: var(--link-color);
+  background:
+     linear-gradient(
+       to bottom, var(--link-accent-color) 0%,
+       var(--link-accent-color) 100%
+     );
 }
 </style>
