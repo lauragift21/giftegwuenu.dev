@@ -5,6 +5,7 @@ import VueDisqus from 'vue-disqus'
 
 // Import main css
 import '~/assets/styles/index.scss'
+import 'prismjs/themes/prism-twilight.css'
 
 import DefaultLayout from '~/layouts/Default.vue'
 
