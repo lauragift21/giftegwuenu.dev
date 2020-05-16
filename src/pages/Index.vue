@@ -19,8 +19,5 @@ export default {
     Latest,
     Footer
   },
-  metaInfo: {
-    title: 'Gift Egwuenu'
-  }
 }
 </script>

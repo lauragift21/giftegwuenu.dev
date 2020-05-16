@@ -7,9 +7,10 @@
         <!-- <span class="text-lg font-normal">{{ $page.post.date }}</span> -->
         <PostTags :post="$page.post"/>
       </div>
-      <div class="mx-auto w-2/3 sm:mx-auto md:mx-auto xs:mx-auto">
+      <div class="mx-auto w-2/3 sm:mx-auto sm:w-6/12 md:mx-auto md:w-6/12 xs:mx-auto">
         <p class="lead" v-html="$page.post.excerpt"/>
         <div class="markdown" v-html="$page.post.content"/>
+        <br>
       <g-link to="/writing" class="inline rounded px-3 py-2 text-lg"> View All Posts 🔖 </g-link>
       <hr class="line w-3/4 mx-auto my-8">
       <newsletter></newsletter>
@@ -65,8 +66,8 @@ export default {
         { name: "twitter:image", content: this.getImage() },
         { name: "twitter:description", content: this.$page.post.description },
         { name: "twitter:title", content: this.$page.post.title },
-        { name: "twitter:site", content: "@lauragift21" },
-        { name: "twitter:creator", content: "@lauragift21" },
+        { name: "twitter:site", content: "@lauragift_" },
+        { name: "twitter:creator", content: "@lauragift_" },
         // open graph
         { property: "og:title", content: this.$page.post.title },
         { property: "og:description", content: this.$page.post.description },

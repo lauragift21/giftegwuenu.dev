@@ -6,12 +6,11 @@ class Pwa {
       "/",
       "/404.html",
       "/offline/",
-      "/css/additional.css",
-      "/css/custom.css",
       "/manifest.json",
       "/images/logo.png",
       "/writing/",
       "/speaking/",
+      "/uses/",
     ];
     this.host = `${self.location.protocol}//${self.location.host}`;
     console.info(`Host: ${this.host}`);

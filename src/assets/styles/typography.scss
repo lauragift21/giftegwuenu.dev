@@ -64,26 +64,6 @@
   font-size: 1rem;
 }
 
-.markdown pre[class*=language-] > code {
-  width: 100%;
-  font-family: 'Fira Code', monospace;
-  max-width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  font-size: 16px;
-}
-
-// Inline code
-:not(pre) > code {
-  color: var(--inline-code-text);
-  padding: 0.2rem 0.33rem;
-  vertical-align: 1%;
-  font-size: .78em;
-  border-radius: var(--border-radius);
-  background-color: var(--inline-code-offset);
-}
-
 .markdown blockquote {
   font-style: italic;
   color: var(--title-color);

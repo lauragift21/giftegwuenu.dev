@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gift Egwuenu',
+  siteName: 'Gift Egwuenu | Frontend Engineer',
   siteUrl: 'https://giftegwuenu.com',
   siteDescription: 'Personal Blog by Gift Egwuenu. She\'s a Frontend Developer & Hobbyist Photographer and she\'s passionate about making the web accessible to everyone.',
   icon: {
@@ -22,7 +22,12 @@ module.exports = {
         path: 'content/posts/*.md',
         remark: {
           plugins: [
-            '@gridsome/remark-prismjs',
+            ['gridsome-plugin-remark-prismjs-all', {
+              showLineNumber: true,
+              highlightClassName: "gridsome-highlight",
+              codeTitleClassName: "gridsome-code-title",
+              classPrefix: 'language-',
+            }],
             ['@noxify/gridsome-plugin-remark-embed', {
               'enabledProviders' : [
                 'Youtube',
