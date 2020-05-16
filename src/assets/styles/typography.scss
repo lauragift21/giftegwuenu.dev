@@ -22,6 +22,11 @@
   max-width: 100%;
 }
 
+.twitter-embed {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
 .markdown > *  {
   margin-bottom: 1.4rem;
 }
@@ -115,18 +120,16 @@
   background-size: 4px 50px;
 }
 
-.markdown img,.markdown video {
+.markdown img, .markdown video {
   display: block;
-  max-width: 80%;
+  max-width: 100%;
+  width: 100%;
   height: auto;
-  margin: 0 auto 2rem;
-  color: var(--color-text-offset);
-  font-style: italic;
-  text-align: center
+  margin: 0 auto;
 }
 
 .markdown figure {
-  max-width: 80%;
+  max-width: 100%;
   margin: 2rem auto;
   text-align: center
 }
@@ -137,13 +140,6 @@
 
 .markdown figcaption {
   padding-top: .75rem;
-  font-style: italic;
-  font-size: 1rem
-}
-
-.markdown video {
-  max-width: 100%;
-  height: auto
 }
 
 .markdown hr {

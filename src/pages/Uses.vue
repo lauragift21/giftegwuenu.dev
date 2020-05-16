@@ -41,7 +41,7 @@
         <ul class="text-xl">
           <li>Screenflow - use for screen Recording and making my videos</li>
           <li>Final Cut Pro - great for editing video tool</li>
-          <li>Canon G7X Markii - used for making vlogs and videos</li>
+          <li>Canon G7X Markii - use this for making vlogs and videos</li>
           <li>Logitech C922 Pro Stream HD - mostly for my meetings and streams</li>
           <li>Shure BETA® 87A Vocal Microphone - love this mic!</li>
         </ul>

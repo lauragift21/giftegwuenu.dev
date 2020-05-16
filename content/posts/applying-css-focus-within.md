@@ -1,5 +1,5 @@
 ---
-title: ' Applying CSS :focus-within '
+title: Applying CSS :focus-within 
 date: 2020-02-13T12:26:34.510Z
 published: true
 tags:
@@ -22,6 +22,7 @@ I like how [Chris Coyier](https://css-tricks.com/almanac/selectors/f/focus-withi
 The `:focus` pseudo-element works differently, an element receives focus when the `:focus` element is applied to it, but, in a case when you have a collection of child elements it is not common to use `:focus` pseudo-class to select the parent element. The `:focus` pseudo-class applies only to the focused element itself.
 
 https://codepen.io/lauragift21/pen/VwLLggX?tabs=result,css
+
 
 This is what `:focus-within` is able to solve. We can use `:focus-within `pseudo-class if we want to select an element that contains a focused element or elements that has descendants matched by `:focus`. Let's see how to achieve that.
 
