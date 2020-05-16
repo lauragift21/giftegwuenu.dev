@@ -45,6 +45,12 @@ import PostCard from "~/components/PostCard.vue";
 export default {
   components: {
     PostCard
+  },
+  metaInfo: {
+    title: 'Writing',
+    meta: [
+      { name: 'title', content: 'Writing' }
+    ],
   }
 };
 </script>

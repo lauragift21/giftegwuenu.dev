@@ -19,5 +19,11 @@ export default {
     Latest,
     Footer
   },
+  metaInfo: {
+    title: 'Home',
+    meta: [
+      { name: 'title', content: 'Home' }
+    ],
+  }
 }
 </script>

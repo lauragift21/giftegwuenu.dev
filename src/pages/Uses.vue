@@ -56,6 +56,16 @@
   </Layout>
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    title: 'Uses',
+    meta: [
+      { name: 'title', content: 'Uses' }
+    ],
+  }
+}
+</script>
 
 <style lang="scss" scoped>
  a {

@@ -47,6 +47,12 @@ export default {
     return {
       speaking
     }
+  },
+  metaInfo: {
+    title: 'Speaking',
+    meta: [
+      { name: 'title', content: 'Speaking' }
+    ],
   }
 }
 </script>
