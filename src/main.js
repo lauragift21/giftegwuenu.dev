@@ -51,7 +51,7 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       property: "og:image",
-      content: "/social.png",
+      content: "social.png",
     },
     {
       name: "twitter:card",
@@ -59,7 +59,7 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       name: "twitter:image",
-      content: "/social.png",
+      content: "social.png",
     },
     {
       name: "twitter:title",
