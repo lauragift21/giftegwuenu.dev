@@ -73,6 +73,10 @@ export default function(Vue, { router, head, isClient }) {
   );
   head.link.push(
     {
+      rel: 'me',
+      href: 'https://twitter.com/lauragift_',
+    },
+    {
       rel: "stylesheet",
       href:
         "https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap",
