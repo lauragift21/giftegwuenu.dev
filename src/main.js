@@ -3,7 +3,7 @@
 // Import main css
 import "~/assets/styles/index.scss";
 
-import "prismjs/themes/prism-twilight.css"
+// import "prismjs/themes/prism-twilight.css"
 import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 
 import DefaultLayout from "~/layouts/Default.vue";

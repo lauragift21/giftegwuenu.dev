@@ -64,6 +64,16 @@
   font-size: 1rem;
 }
 
+.markdown blockquote {
+  font-style: italic;
+  color: var(--title-color);
+  padding: 22px;
+  margin: 0 30px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-left: 10px solid var(--text-color);
+}
+
 .markdown table {
   border: 2px solid var(--title-color);
   thead {
