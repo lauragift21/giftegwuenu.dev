@@ -77,6 +77,14 @@ export default function(Vue, { router, head, isClient }) {
       href: 'https://twitter.com/lauragift_',
     },
     {
+      rel: 'webmention',
+      href: 'https://webmention.io/www.giftegwuenu.com/webmention',
+    },
+    {
+      rel: 'pingback',
+      href: 'https://webmention.io/www.giftegwuenu.com/xmlrpc',
+    },
+    {
       rel: "stylesheet",
       href:
         "https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap",
