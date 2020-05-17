@@ -51,7 +51,7 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       property: "og:image",
-      content: "social.png",
+      content: "https://res.cloudinary.com/lauragift/image/upload/v1589704673/Group_180_i6t7mq.png",
     },
     {
       property: "twitter:card",
@@ -59,7 +59,7 @@ export default function(Vue, { router, head, isClient }) {
     },
     {
       property: "twitter:image",
-      content: "social.png",
+      content: "https://res.cloudinary.com/lauragift/image/upload/v1589704673/Group_180_i6t7mq.png",
     },
     {
       property: "twitter:title",
