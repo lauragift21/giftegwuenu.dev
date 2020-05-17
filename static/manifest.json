@@ -1,39 +1,47 @@
 {
   "name": "Gift Egwuenu | Frontend Engineer",
-  "short_name": "lauragift",
-  "description": "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
-  "icons": [{
-    "src": "/favicon.png",
-    "sizes": "100x99",
-    "type": "image/png"
-  }, 
-  {
-    "src": "/appicons/android-chrome-96x96.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  },
-  {
-    "src": "/appicons/apple-touch-icon.png",
-    "sizes": "76x76",
-    "type": "image/png"
-  }, 
-  {
-    "src": "/appicons/favico-140.png",
-    "sizes": "214x214",
-    "type": "image/png"
-  }, 
-  {
-    "src": "/appicons/favicon-16x16.png",
-    "sizes": "16x16",
-    "type": "image/png"
-  }, {
-    "src": "/appicons/favicon-32x32.png",
-    "sizes": "32x32",
-    "type": "image/png"
-  }],
-  "start_url": "/",
+  "short_name": "Gift Egwuenu",
+  "theme_color": "#f6c1c1",
+  "background_color": "#ffffff",
   "display": "standalone",
-  "orientation" : "any",
-  "background_color": "#FFFFFF",
-  "theme_color": "#FFFFFF"
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "./app-images/images/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./app-images/images/icons/icon-384x384.png",
+      "sizes": "368x369",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
 }
