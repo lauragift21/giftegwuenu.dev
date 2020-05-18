@@ -74,6 +74,9 @@ export default {
         { property: "og:image", content: this.getImage() },
         { property: "og:updated_time", content: this.$page.post.date },
       ],
+      link: [
+        { rel: 'canonical', href: `https://giftegwuenu.com${this.$page.post.path}`}
+      ]
     };
   },
   mounted() {
