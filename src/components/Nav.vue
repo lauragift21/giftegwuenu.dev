@@ -4,11 +4,11 @@
       <g-image class="logo" src="../assets/img/logo.png" alt="logo" />
     </g-link>
     <nav class="sm:flex sm:flex-col sm:-mx-10 md:flex md:flex-col md:-mx-10">
-      <g-link class="mr-12 sm:-pr-3 font-black text-xl sm:text-base link" to="/#about">About</g-link>
-      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/speaking/">Speaking</g-link>
-      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/writing/">Writing</g-link>
-      <g-link class="mr-12 sm:-pr-3  font-black text-xl sm:text-base link" to="/uses/">Uses</g-link>
-      <g-link class="mr-6 sm:-pr-3  font-black text-xl sm:text-base link" to="/#contact">Contact</g-link>
+      <g-link class="mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link" to="/#about">About</g-link>
+      <g-link class="mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link" to="/speaking/">Speaking</g-link>
+      <g-link class="mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link" to="/writing/">Writing</g-link>
+      <g-link class="mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link" to="/uses/">Uses</g-link>
+      <g-link class="mr-6 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link" to="/#contact">Contact</g-link>
       <toggle-theme />
     </nav>
   </header>
