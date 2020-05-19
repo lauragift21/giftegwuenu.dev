@@ -46,7 +46,7 @@
             >Contact</g-link>
           </li>
           <li>
-            <toggle-theme />
+        <toggle-theme />
           </li>
         </ul>
       </div>
@@ -140,7 +140,7 @@ ul {
 
   .toggle-btn {
     display: block;
-    position: fixed;
+    position: absolute;
     z-index: 10;
     right: 40px;
     top: 50px;
