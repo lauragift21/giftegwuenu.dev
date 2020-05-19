@@ -97,7 +97,7 @@ ul {
       position: fixed;
       top: 0;
       left: 0;
-      width: 130vw;
+      width: 110vw;
       height: 100%;
       opacity: 0;
       visibility: hidden;
