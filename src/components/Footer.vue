@@ -5,7 +5,7 @@
       <p class="font-bold text-2xl pb-16 sm:pb-8">Want to work together or have any questions?</p>
       <a
         class="mail hover:shadow font-bold py-3 px-8 text-xl rounded text-center"
-        href="mailto:laurandidi21@gmailcom"
+        href="mailto:laurandidi21@gmail.com"
       >Say Hello 👋</a>
     </div>
 
