@@ -73,9 +73,14 @@ export default {
   transform-origin: center left;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .layout {
     padding-top: 20px;
   } 
+
+  .link:hover {
+    color: #fffffe !important;
+    box-shadow: none;
+  }
 }
 </style>

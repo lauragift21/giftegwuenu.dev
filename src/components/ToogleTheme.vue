@@ -34,7 +34,7 @@ export default {
   color: currentColor;
   cursor: pointer;
    &:hover {
-    opacity: .8
+     opacity: .8
   }
   &:focus {
     outline: none;
@@ -44,5 +44,12 @@ export default {
 svg {
   width: 20px;
   padding-top: 5px;
+}
+
+@media screen and (max-width: 900px) {
+  .toggle-theme {
+    margin: 0 50px;
+    color: #fff;
+  }
 }
 </style>
