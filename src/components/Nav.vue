@@ -143,7 +143,7 @@ ul {
     position: absolute;
     z-index: 10;
     right: 40px;
-    top: 50px;
+    top: 45px;
     cursor: pointer;
 
     .bar {
