@@ -1,8 +1,9 @@
 <template>
   <Layout class="w-full">
     <h1 class="text-4xl mx-10 sm:mx-1 my-5 font-bold uppercase" id="main">Speaking</h1>
-    <h2 class="text-3xl mx-10 sm:text-left md:text-left my-5 text-center font-bold" data-aos="slide-up">Upcoming Talks</h2>
     <div class="past sm:mx-4 md:mx-4 sm:text-base mx-64">
+    <h2 class="text-3xl mx-10 sm:text-left md:text-left my-5 text-center font-bold" data-aos="slide-up" v-if="speaking">Upcoming Talks</h2>
+      <p class="text-center">Want me to speak at your event? Reach out to me via email or twitter.</p>
       <div class="mx-6 py-4 flex" data-aos="slide-up" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
       <g-link :to="upcoming.link">
         <div class="card rounded px-8 py-6">
