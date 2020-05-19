@@ -45,7 +45,7 @@
               to="/#contact"
             >Contact</g-link>
           </li>
-          <li>
+          <li tabindex="0">
         <toggle-theme />
           </li>
         </ul>
