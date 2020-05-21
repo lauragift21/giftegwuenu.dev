@@ -5,9 +5,8 @@
    All articles 📝
   </g-link>
   <div class="pr-8 sm:ml-3 sm:mx-auto">
-    <div class="card rounded-lg border border-l-8 shadow-md my-4 pb-3" data-aos="slide-up" v-for="edge in $static.allPost.edges" :key="edge.node.id">
+    <div class="card rounded-lg border border-l-8 shadow-md my-6 py-4" data-aos="slide-up" v-for="edge in $static.allPost.edges" :key="edge.node.id">
       <g-link :to="edge.node.path">
-        <h3 class="text-md px-5 py-2 font-semibold">{{edge.node.date}}</h3>
         <h3 class="text-2xl px-5 py-2 font-semibold">{{edge.node.title}}</h3>
         <h3 class="description text-lg mb-3 px-5 py-2">{{edge.node.description}}</h3>
       </g-link>
