@@ -27,8 +27,8 @@
         </ul>
         <h2 class="text-3xl my-4">Desktop Apps 🖥️</h2>
         <ul class="text-xl">
-          <li>Spectacle - Helps me manage my windows arrangement.</li>
-          <li>Adobe XD - I use this for my designs</li>
+          <li>Spectacle - Helps me manage my window arrangement.</li>
+          <li>Adobe XD - I use this for my creating my designs</li>
           <li>Slack - for communicating and what not</li>
           <li>Discord - doing the same as above</li>
           <li>Rocket - a fun slack-like emoji app for Mac 🚀</li>
@@ -39,9 +39,9 @@
         </ul>
         <h2 class="text-3xl my-4">Recording 🎤📸</h2>
         <ul class="text-xl">
-          <li>Screenflow - use for screen Recording and making my videos</li>
-          <li>Final Cut Pro - great for editing video tool</li>
-          <li>Canon G7X Markii - use this for making vlogs and videos</li>
+          <li>Screenflow - use this screen recording and editing</li>
+          <li>Final Cut Pro - great for editing my videos</li>
+          <li>Canon G7X Markii - for making my vlogs and videos that are not screen recorded</li>
           <li>Logitech C922 Pro Stream HD - mostly for my meetings and streams</li>
           <li>Shure BETA® 87A Vocal Microphone - love this mic!</li>
         </ul>
