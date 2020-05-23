@@ -11,9 +11,9 @@
 
     <div class="px-4 pb-4 sm:block">
       <div class="my-4 font-bold">
-        <a href="https://patreon.com/lauragift21" class="px-3 text-xl">Patreon</a>
-        <a href="resume.pdf" class="px-3 text-xl">Resume</a>
-        <a href="https://github.com/lauragift21" class="px-3 text-xl">GitHub</a>
+        <a href="https://patreon.com/lauragift21" target="_blank" rel="noopener" class="px-3 text-xl">Patreon</a>
+        <a href="resume.pdf" target="_blank" rel="noopener" class="px-3 text-xl">Resume</a>
+        <a href="https://github.com/lauragift21" target="_blank" rel="noopener" class="px-3 text-xl">GitHub</a>
       </div>
       <p class="font-bold text-lg col-end-3">Designed and Developed by <span class="footnote py-1 px-2 rounded-sm">Gift Egwuenu</span></p>
     </div>
