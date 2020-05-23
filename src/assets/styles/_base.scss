@@ -32,24 +32,4 @@ h1, h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', sans-serif;
 }
 
-/**
- * Add back the container background-color, border-radius, padding, margin
- * and overflow that we removed from <pre>.
- */
- .gridsome-highlight { 
-  border-radius: 0.3em;
-  margin: 0.5em 0;
-  padding: 1em;
-  color: var(--text-color);
-  overflow: auto;
-}
-.gridsome-highlight-code-line {
-  background-color: var(--pink-color);
-  display: block;
-  margin-right: -1em;
-  margin-left: -1em;
-  padding-right: 1em;
-  padding-left: 0.75em;
-  border-left: 0.25em solid #FA709A;
-}
 
