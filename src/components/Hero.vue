@@ -25,7 +25,7 @@
         </abbr>
       </div>
     </div>
-    <div class="profile mt-32 sm:mt-6 sm:px-12 xs:px-6 xs:mx-auto -mx-10">
+    <div class="profile mt-32 sm:mt-6 sm:px-12 md:mx-auto xs:px-6 xs:mx-auto -mx-10">
       <g-image src="../assets/img/giftegwuenu.svg" class="rounded-full bio" alt="Gift's headshot" />
     </div>
   </section>
