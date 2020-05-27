@@ -1,0 +1,33 @@
+{
+  "name": "giftegwuenu",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Gift Egwuenu <laurandidi21@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "test": "sanity check"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^1.149.15",
+    "@sanity/components": "^1.149.15",
+    "@sanity/core": "^1.149.13",
+    "@sanity/default-layout": "^1.149.15",
+    "@sanity/default-login": "^1.149.11",
+    "@sanity/desk-tool": "^1.149.15",
+    "@sanity/vision": "^1.149.0",
+    "prop-types": "^15.6",
+    "react": "^16.2",
+    "react-dom": "^16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lauragift21/giftegwuenu.dev.git"
+  }
+}
