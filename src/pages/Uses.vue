@@ -22,26 +22,26 @@
             <b>Coding Font:</b><a href="https://dank.sh/">  Dank Mono</a> by Phil Plückthun
           </li>
           <li>
-            <b>Terminal:</b> I always switch between ITerm and Hyper. I love them equally I guess?
+            <b>Terminal:</b> I switch between ITerm and Hyper. I love them equally I guess?
           </li>
         </ul>
         <h2 class="text-3xl my-4">Desktop Apps 🖥️</h2>
         <ul class="text-xl">
           <li>Spectacle - Helps me manage my window arrangement.</li>
-          <li>Adobe XD - I use this for my creating my designs</li>
-          <li>Slack - for communicating and what not</li>
-          <li>Discord - doing the same as above</li>
+          <li>Adobe XD - use this for creating UI designs</li>
+          <li>Slack - for communication and what not</li>
+          <li>Discord - engaging with the dev community on Discord is fun!</li>
           <li>Rocket - a fun slack-like emoji app for Mac 🚀</li>
-          <li>Hyper - A useful terminal app for Mac</li>
+          <li>Hyper - useful terminal app for Mac</li>
           <li>ITerm - my default terminal before Hyper stole my heart</li>
-          <li>Alfred - Automate my workflow</li>
-          <li>Notion - My diary for everything</li>
+          <li>Alfred - automate my workflow</li>
+          <li>Notion - my diary for everything</li>
         </ul>
         <h2 class="text-3xl my-4">Recording 🎤📸</h2>
         <ul class="text-xl">
-          <li>Screenflow - use this screen recording and editing</li>
-          <li>Final Cut Pro - great for editing my videos</li>
-          <li>Canon G7X Markii - for making my vlogs and videos that are not screen recorded</li>
+          <li>Screenflow - use this for screen recording and editing</li>
+          <li>Final Cut Pro - edit my videos with this</li>
+          <li>Canon G7X Markii - for making vlogs and videos that are not screen recorded</li>
           <li>Logitech C922 Pro Stream HD - mostly for my meetings and streams</li>
           <li>Shure BETA® 87A Vocal Microphone - love this mic!</li>
         </ul>
@@ -80,7 +80,6 @@ export default {
   background-size: 4px 4px;
   transition: background-size .5s;
 }
-
 
  a:hover {
   background: var(--link-accent-color);
