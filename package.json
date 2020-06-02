@@ -13,6 +13,7 @@
     "@gridsome/transformer-remark": "^0.5.0",
     "@jlengstorf/get-share-image": "^0.7.0",
     "@noxify/gridsome-plugin-remark-embed": "^1.1.4",
+    "@zefman/gridsome-source-webmention": "^0.1.4",
     "gridsome": "^0.7.0",
     "gridsome-plugin-remark-prismjs-all": "^0.3.5",
     "gridsome-plugin-rss": "^1.2.0",

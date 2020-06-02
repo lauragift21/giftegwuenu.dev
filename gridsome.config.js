@@ -62,6 +62,13 @@ module.exports = {
       }
     },
     {
+      use: '@zefman/gridsome-source-webmention',
+      options: {
+        domain: 'www.giftegwuenu.com', // Your webmention domain
+        token: 'JatlOwyMuVdif4D5YzVxyA', // Your secret webmention token
+      },
+    },
+    {
       use: 'gridsome-plugin-rss',
       options: {
         contentTypeName: 'Post',
