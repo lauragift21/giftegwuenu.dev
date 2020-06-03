@@ -17,7 +17,7 @@ body {
  	color: var(--body-color);
  	transition: color .6s, background-color .6s;
   font-family: 'Merriweather', serif;
-  margin:0 auto;
+  margin: 0 auto;
   padding:0;
   width: 100%;
   max-width: 1140px;
@@ -32,4 +32,20 @@ h1, h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', sans-serif;
 }
 
+ol, ul {
+  list-style-position: outside;
+  padding-left: 1em
+}
+
+ ol li:not(:last-child),ul li:not(:last-child) {
+  margin-bottom: .25em
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: decimal
+}
 

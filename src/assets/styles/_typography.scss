@@ -173,20 +173,4 @@
   }
 }
 
- ol, ul {
-  list-style-position: outside;
-  padding-left: 1em
-}
-
- ol li:not(:last-child),ul li:not(:last-child) {
-  margin-bottom: .25em
-}
-
-ul {
-  list-style-type: square;
-}
-
-ol {
-  list-style-type: decimal
-}
 

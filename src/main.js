@@ -1,6 +1,6 @@
-// This is the main.js file. Import global CSS and scripts here.
-// The Client API can be used here. Learn more: gridsome.org/docs/client-api
+
 // Import main css
+require('~/main.css')
 import "~/assets/styles/index.scss";
 
 // import "prismjs/themes/prism-twilight.css"
