@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto layout lg:px-16 xl:px-16">
+  <div class="layout lg:px-16 xl:px-16">
     <a class="skip" href="#main" >Skip to Content</a>
     <Nav />
     <slot />
