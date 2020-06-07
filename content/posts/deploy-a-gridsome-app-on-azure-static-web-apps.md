@@ -6,7 +6,7 @@ tags:
   - "#gridsome"
   - "#jamstack"
 canonical_url: true
-description: In this tutorial, We'll go over how to deploy the static web app to
+description: In this tutorial, We'll go over how to deploy a static website to
   Azure using the Static Web Apps service.
 ---
 ## Introduction
@@ -29,7 +29,7 @@ These are some of the features it ships with out of the box:
 
 Here's a more detailed guide on how [Azure Static Web Apps Works](https://docs.microsoft.com/en-us/azure/static-web-apps/overview).
 
-In this tutorial, We'll go over how to deploy the static web app to Azure using the Static Web Apps service. For this example, I have a Gridsome app I'll like to deploy to this service, and I'll walk through how to set up and deploy my app.
+In this tutorial, We'll go over how to deploy a static website to Azure using the Static Web Apps service. For this example, I have a Gridsome app I'll like to deploy to this service, and I'll walk through how to set up and deploy my app.
 
 ## Prerequisites
 
