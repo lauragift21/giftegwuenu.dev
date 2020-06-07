@@ -55,15 +55,19 @@ Now run your app locally with the command.
 
 We have our [Gridsome](http://www.gridsome.org) application up and running, Let's push the app to GitHub we'll do so using the following commands:
 
-`git add.`
+```bash
+git add.
 
-`git commit -m 'my new gridsome blog'`
+git commit -m 'my new gridsome blog'
+```
 
 Next, create a repository on [GitHub](https://github.com/new) called my-fancy-blog or use any fancy name you want and run the following commands:
 
-`git remote add origin git@github.com:<YOUR-USER-NAME>/my-fancy-blog.git`
+```bash
+git remote add origin git@github.com:<YOUR-USER-NAME>/my-fancy-blog.git`
 
-`git push -u origin master`
+git push -u origin master
+```
 
 We've now added our application to GitHub successfully. Let's move on to the last step.
 
