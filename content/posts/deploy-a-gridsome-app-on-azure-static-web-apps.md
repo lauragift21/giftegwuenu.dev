@@ -3,8 +3,8 @@ title: Deploy a Gridsome App on Azure Static Web Apps
 date: 2020-06-08T09:57:41.008Z
 published: false
 tags:
-  - "#gridsome"
-  - "#jamstack"
+  - gridsome
+  - jamstack
 canonical_url: true
 description: In this tutorial, We'll go over how to deploy a static website to
   Azure using the Static Web Apps service.
