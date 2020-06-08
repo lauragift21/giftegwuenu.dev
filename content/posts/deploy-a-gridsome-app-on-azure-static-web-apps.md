@@ -9,7 +9,7 @@ canonical_url: true
 description: In this tutorial, We'll go over how to deploy a static website
   using Azure Static Web Apps.
 ---
-Microsoft Build happened a few weeks back, among the various exciting news, one of my favorite ones was the newly unveiled [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/). I'm excited to give it a try and show you how to deploy a Gridsome web application. There's already enough tutorials about this why write more? Well, because I couldn't find one with a Gridsome example and I decided to take on the opportunity, there's never enough written tutorials on a subject.
+[Microsoft Build](https://mybuild.microsoft.com/home) happened a few weeks back, among the various exciting news, one of my favorite ones was the newly unveiled [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/). I'm excited to give it a try and show you how to deploy a Gridsome web application. There's already enough tutorials about this why write more? Well, because I couldn't find one with a Gridsome example and I decided to take on the opportunity, there's never enough written tutorials on a subject.
 
 ## What is Azure Static Web Apps?
 
