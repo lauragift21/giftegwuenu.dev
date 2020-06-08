@@ -120,7 +120,7 @@ That's it! You'll get redirected to a page showing your app deployment is ongoin
 
 ![setting up azure static web apps](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590607496804_Screenshot+2020-05-27+at+8.23.33+PM.png)
 
-You should see the actions running, and when that ends, your app should be live. Check back on the Azure portal you should see a browse button by clicking on it it'll take you to your deployed app🎉
+You should see the actions running, and when that ends, your app should be live. Check back on the Azure portal you should see a browse button by clicking on it will take you to your deployed app🎉
 
 ![Deployed version of the blog](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590607535650_Screenshot+2020-05-27+at+8.25.26+PM.png)
 
