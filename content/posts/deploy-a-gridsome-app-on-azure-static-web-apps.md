@@ -45,7 +45,9 @@ npm install --global @gridsome/cli
 
 I’m using a starter project I created to get things moving fast here. Go ahead and run the command to create a new Gridsome project.
 
-`gridsome create my-blog https://github.com/lauragift21/gridsome-minimal-blog`
+```
+gridsome create my-blog https://github.com/lauragift21/gridsome-minimal-blog
+```
 
 Now run your app locally with the command.
 
