@@ -15,6 +15,8 @@ Microsoft Build happened a few days ago, among the various exciting news, one of
 
 Azure Static Web Apps is a service that automatically builds and deploys full-stack web apps to Azure from a GitHub repository.
 
+![](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1591628792500_static-apps-overview.png)
+
 These are some of the features it ships with out of the box:
 
 * Free web hosting
