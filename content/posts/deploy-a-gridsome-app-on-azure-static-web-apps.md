@@ -15,8 +15,6 @@ Microsoft Build happened a few days ago, among the various exciting news, one of
 
 Azure Static Web Apps is a service that automatically builds and deploys full-stack web apps to Azure from a GitHub repository.
 
-## Diagram Here….
-
 These are some of the features it ships with out of the box:
 
 * Free web hosting
@@ -37,7 +35,9 @@ To follow this guide, you need to have basic knowledge of Vue.js, have an Azure 
 
 Install Gridsome CLI tool:
 
-`npm install --global @gridsome/cli`
+```bash
+npm install --global @gridsome/cli
+```
 
 ## Step 2:
 
@@ -47,7 +47,9 @@ I’m using a starter project I created to get things moving fast here. Go ahead
 
 Now run your app locally with the command.
 
-`npm run develop`
+```bash
+npm run develop
+```
 
 ![screenshot of gridsome blog](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590433661331_Screenshot+2020-05-25+at+8.07.25+PM.png)
 
