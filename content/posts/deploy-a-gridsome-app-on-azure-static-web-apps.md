@@ -1,6 +1,6 @@
 ---
 title: Deploy a Gridsome App on Azure Static Web Apps
-date: 2020-06-08T09:57:41.008Z
+date: 2020-06-08T15:10:12.691Z
 published: false
 tags:
   - gridsome
