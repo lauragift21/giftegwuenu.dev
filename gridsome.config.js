@@ -79,7 +79,7 @@ module.exports = {
         feedItemOptions: (node) => ({
           title: node.title,
           date: node.date,
-          url: "https://giftegwuenu.com/" + node.path,
+          url: "https://giftegwuenu.com" + node.path,
           description: node.description,
         }),
         output: {
