@@ -1,5 +1,5 @@
 ---
-title: How to change an SVG Logo in Dark Mode
+title: How to Change Logo in Dark Mode
 date: 2020-06-10T15:25:07.945Z
 published: false
 tags:
