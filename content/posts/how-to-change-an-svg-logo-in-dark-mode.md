@@ -14,8 +14,6 @@ I designed my website with two version of the logo - one for light mode and anot
 
 When it came to implementing this design I was a bit comfuse on how I will switch between these two versions when either dark/light mode is selected.
 
-![]()
-
 I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this on your own.
 
 Let's dive into it.
