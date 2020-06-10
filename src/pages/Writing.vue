@@ -6,6 +6,7 @@
     <div class="grid grid-cols-2 sm:grid-cols-1">
       <PostCard data-aos="slide-up" v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node" />
     </div>
+    <CarbonAds />
   </Layout>
 </template>
 
@@ -42,9 +43,11 @@ query Post ($page: Int) {
 
 <script>
 import PostCard from "~/components/PostCard.vue";
+import CarbonAds from "~/components/CarbonAds.vue";
 export default {
   components: {
-    PostCard
+    PostCard,
+    CarbonAds
   },
   metaInfo: {
     title: 'Writing',
