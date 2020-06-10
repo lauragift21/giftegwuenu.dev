@@ -15,6 +15,7 @@
       <hr class="line w-3/4 mx-auto my-8">
       <newsletter></newsletter>
       <hr class="line w-3/4 mx-auto my-8">
+      <carbon-ads></carbon-ads>
       <author></author>
       <!-- comment goes here -->
       <!-- <vue-disqus class="mx-auto w-2/3" shortname="giftegwuenu" :identifier="$page.post.title"></vue-disqus> -->
@@ -46,12 +47,14 @@ import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Newsletter from "~/components/Newsletter.vue";
 import Author from "~/components/Author.vue";
+import CarbonAds from "~/components/CarbonAds.vue";
 export default {
   components: {
     PostMeta,
     PostTags,
     Newsletter,
-    Author
+    Author,
+    CarbonAds
   },
   metaInfo() {
     return {
