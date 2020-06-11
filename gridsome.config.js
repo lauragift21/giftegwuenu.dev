@@ -105,6 +105,13 @@ module.exports = {
         },
       },
     },
+    {
+      use: "gridsome-plugin-monetization",
+      options: {
+        paymentPointer: process.env.GRIDSOME_PAYMENT_POINTER, // your payment pointer
+        global: true, // add monetization to every page; default: true
+      },
+    },
   ],
   transformers: {
     //Add markdown support to all file-system sources
