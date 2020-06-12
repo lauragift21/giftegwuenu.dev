@@ -102,11 +102,15 @@ You need to have an active Azure account to follow these next steps.
 
 ![setting up azure static web apps](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590607195497_Screenshot+2020-05-27+at+8.11.08+PM.png)
 
-* Specify a folder location to store static output in my case I’m using thedistdirectory.
+* Specify a folder location to store static output in my case I’m using the `dist` directory.
 
 ![setting up azure static web apps](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590607248709_Screenshot+2020-05-27+at+8.11.27+PM.png)
 
+Azure sets up a default `npm run build` in my GitHub actions workflow which can be customized to a different command. In my case, I didn't need to set that up since it's the default command.
+
 In the last step, we can review our configuration to make sure we have everything set up correctly and click create to get the app deployed.
+
+
 
 ![setting up azure static web apps](https://paper-attachments.dropbox.com/s_A01F5AB394E159A5771101449A83AC90C3F879B2DA59BD15747F4E3DA92C5900_1590607481589_Screenshot+2020-05-27+at+8.21.58+PM.png)
 
