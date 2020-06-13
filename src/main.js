@@ -31,10 +31,6 @@ export default function(Vue, { router, head, isClient }) {
         "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
     },
     {
-      name: "google-site-verification",
-      content: "qZnaBdlR1bKVUMOuJLT3tir_qXRuJGEFidnw0cGmKNM",
-    },
-    {
       property: "og:url",
       content: "https://giftegwuenu.com",
     },
