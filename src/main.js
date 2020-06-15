@@ -11,64 +11,6 @@ import DefaultLayout from "~/layouts/Default.vue";
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component("Layout", DefaultLayout);
-  head.meta.push(
-    {
-      name: "keywords",
-      content: "HTML,CSS,JavaScript,Vue,React,Accessibility",
-    },
-    {
-      name: "description",
-      content:
-        "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
-    },
-    {
-      itemprop: "name",
-      content: "Gift Egwuenu | Frontend Engineer",
-    },
-    {
-      itemprop: "description",
-      content:
-        "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
-    },
-    {
-      property: "og:url",
-      content: "https://giftegwuenu.com",
-    },
-    {
-      property: "og:type",
-      content: "website",
-    },
-    {
-      property: "og:title",
-      content: "Gift Egwuenu | Frontend Engineer",
-    },
-    {
-      property: "og:description",
-      content:
-        "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
-    },
-    {
-      property: "og:image",
-      content: "https://res.cloudinary.com/lauragift/image/upload/v1589704673/Group_180_i6t7mq.png",
-    },
-    {
-      property: "twitter:card",
-      content: "summary_large_image",
-    },
-    {
-      property: "twitter:image",
-      content: "https://res.cloudinary.com/lauragift/image/upload/v1589704673/Group_180_i6t7mq.png",
-    },
-    {
-      property: "twitter:title",
-      content: "Gift Egwuenu | Frontend Engineer",
-    },
-    {
-      property: "twitter:description",
-      content:
-        "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
-    }
-  );
   head.link.push(
     {
       rel: 'me',
