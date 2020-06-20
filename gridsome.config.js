@@ -4,7 +4,7 @@ module.exports = {
   siteName: "Gift Egwuenu | Frontend Engineer",
   siteUrl: "https://giftegwuenu.com",
   siteDescription:
-    "Personal Blog by Gift Egwuenu. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
+    "Gift Egwuenu's Personal Website. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
   icon: {
     favicon: "./src/favicon.png",
   },
@@ -94,14 +94,10 @@ module.exports = {
         cacheTime: 600000, // default
         exclude: ["/exclude-me"],
         config: {
-          "/writing/*": {
+          "/*": {
             changefreq: "weekly",
-            priority: 0.5,
-          },
-          "/speaking": {
-            changefreq: "monthly",
-            priority: 0.7,
-          },
+            priority: 0.8,
+          }
         },
       },
     },
