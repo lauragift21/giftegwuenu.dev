@@ -61,7 +61,11 @@ export default {
       title: this.$page.post.title,
       meta: [
         {
-          name: this.$page.post.title,
+          name: "title",
+          content: this.$page.post.title
+        },
+        {
+          name: "description",
           content: this.$page.post.description
         },
         //twitter card: https://cards-dev.twitter.com/validator

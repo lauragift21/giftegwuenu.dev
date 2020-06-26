@@ -20,8 +20,11 @@
         <abbr title="LinkedIn" class="pr-5 text-2xl font-semibold hover:text-pink-300">
           <a href="https://www.linkedin.com/in/egwuenugift" target="_blank" rel="noopener">LI</a>
         </abbr>
-        <abbr title="Dev" class="text-2xl font-semibold hover:text-pink-300">
+        <abbr title="Dev" class="text-2xl pr-5 font-semibold hover:text-pink-300">
           <a href="https://dev.to/lauragift21" target="_blank" rel="noopener">DV</a>
+        </abbr>
+        <abbr title="YouTube" class="text-2xl font-semibold hover:text-pink-300">
+          <a href="https://www.youtube.com/channel/UCgUgg53iJX1pdabUxpkgozA" target="_blank" rel="noopener">YT</a>
         </abbr>
       </div>
     </div>
