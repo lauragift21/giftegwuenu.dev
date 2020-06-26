@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+#Sitemap Reference
+Sitemap:https://www.giftegwuenu.com/sitemap.xml
