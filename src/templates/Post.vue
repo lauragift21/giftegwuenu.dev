@@ -4,7 +4,7 @@
       <div class="text-center mx-auto" id="main"> 
         <h1 class="text-4xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
         <!-- TODO: quick pass of implementing digital garden -->
-        <!-- <span class="text-lg font-normal">{{ $page.post.date }}</span> -->
+        <span class="text-lg font-bold">{{ $page.post.date }}</span>
         <PostTags :post="$page.post"/>
       </div>
       <div class="mx-auto w-2/3 sm:mx-auto sm:w-10/12 md:mx-auto md:w-11/12 xs:mx-auto">

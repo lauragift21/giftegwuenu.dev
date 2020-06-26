@@ -12,7 +12,7 @@ description: "In this post, I'll outline the benefits of blogging and why it's i
 As developers, We always tend to look up solutions to a bug or an error on Google and half the time we do this we are redirected to a blog written by another developer or even yourself in some cases. This is one of the ultimate reasons for owning a personal blog - teaching other developers.
 In this post, I'll outline the benefits of blogging and why it's important to start a blog as a developer and also share several ways you can get your blog up and running.
 
-I became aware of the benefit of personal blogging in February 2018. This was when I started [my own blog](www.giftegwuenu.dev). I initially took a course on [Pluralsight about personal branding]( https://www.pluralsight.com/courses/developing-killer-personal-brand) and it was a goal to complete at least one of the steps outlined in the course. I went ahead to start with blogging by purchasing my domain name even though I had no clue what content I will write about.
+I became aware of the benefit of personal blogging in February 2018. This was when I started [my own blog](https://www.giftegwuenu.com). I initially took a course on [Pluralsight about personal branding](https://www.pluralsight.com/courses/developing-killer-personal-brand) and it was a goal to complete at least one of the steps outlined in the course. I went ahead to start with blogging by purchasing my domain name even though I had no clue what content I will write about.
 
 Let's start with the good stuff I'll share the benefits of starting a personal blog and further explain how to get a blog up and running. Because I think it's important I share, I'll also write about my process and share resources needed to move forward.
 
@@ -25,7 +25,7 @@ These are some of the reasons I feel it's really important to start your blog.
 
 - **Learning New Tech:** Blogging is a good way to learn about new technologies and concepts. As developers, learning never stops for us it's a continuous journey so how do you keep up and still stay sane? I've discovered one way to make the best out of this is to learn a new concept and teach it that way you end up teaching other people and also solidifying those concepts. 
 
-- **Introduce yourself to the Community:** When you consistently create helpful content and share it with the community. You become known as a teacher in your field. An example is if you create content on web development you become known in the web development community and that's a great way to make friends and connect with people in the community. Some platforms that will enable this happen are [Twitter](www.twwiter.com) and [Dev.to](www.dev.to).
+- **Introduce yourself to the Community:** When you consistently create helpful content and share it with the community. You become known as a teacher in your field. An example is if you create content on web development you become known in the web development community and that's a great way to make friends and connect with people in the community. Some platforms that will enable this happen are [Twitter](https://www.twwiter.com) and [Dev.to](https://www.dev.to).
 
 
 ## How do you start?
@@ -39,7 +39,7 @@ But feel free to disregard my recommendation and do what fits your needs.
   - [Medium](https://medium.com): You can create an account and post directly to medium the downside to this is [you don't own your content](https://ownyourcontent.wordpress.com/2019/05/14/khoi-vinh-on-how-his-blog-amplified-his-work-and-career/).
   - [Dev.to](https://dev.to):  This platform allows you to post your content and has a huge developer community and also allows you to cross-post your content more on that later.
   - [Hashnode](https://hashnode.com): Hashnode is also a great platform for blogging with a huge number of developer centered content.
-- **Syndicate your content:** I recently learned a concept called [POSSE - Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE). This means you get to keep your content on your site and share on other platforms like [Medium](www.medium.com), [Dev.to](www.dev.to), and [Hashnode](www.hashnode.com) and you keep ownership of your content.
+- **Syndicate your content:** I recently learned a concept called [POSSE - Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE). This means you get to keep your content on your site and share on other platforms like [Medium](https://www.medium.com), [Dev.to](https://www.dev.to), and [Hashnode](https://www.hashnode.com) and you keep ownership of your content.
 - **Post on Social Media:** Social media is a tool you can use to gain more readership. When you publish a new post remember to share across all your social media platforms to gain more audience.
 - **Stay Consistent:** Remember to stay consistent when you start your blog. That way you can always learn, teach and connect with the community and you can measure your success over time.
 
@@ -47,13 +47,13 @@ But feel free to disregard my recommendation and do what fits your needs.
 
 I follow the same process I've outlined above but I'll go ahead and share in detail how I create my content.
 
-- [My blog](https://giftegwuenu.com) is built using [Gridsome](www.gridsome.org) static site generator hosted on [Netlify](www.netlify.com) and I write my content in [Markdown](https://www.markdownguide.org/basic-syntax/).
+- [My blog](https://giftegwuenu.com) is built using [Gridsome](https://www.gridsome.org) static site generator hosted on [Netlify](https://www.netlify.com) and I write my content in [Markdown](https://www.markdownguide.org/basic-syntax/).
 - I have a Notion Page dedicated to collecting blog post ideas when I think of an idea I add it on there.
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/2022roez4pnw8dhuyyki.png)
-- I start an article by researching on the topic if it's new to me and coming up with an outline. After I complete the article I syndicate to [Dev.to](www.dev.to) and share it on social media(Twitter, Instagram, Linkedin).
+- I start an article by researching on the topic if it's new to me and coming up with an outline. After I complete the article I syndicate to [Dev.to](https://www.dev.to) and share it on social media(Twitter, Instagram, Linkedin).
 - I also do this thing where I share after about 3 weeks on social media to gain more audience.
 
-Thanks for reading! I hope you find this post helpful and if after reading this you decide to start blogging please share with me here or on [Twitter](www.twitter.com/lauragift21).
+Thanks for reading! I hope you find this post helpful and if after reading this you decide to start blogging please share with me here or on [Twitter](https://www.twitter.com/lauragift_).
 
 
 ## More Resources
