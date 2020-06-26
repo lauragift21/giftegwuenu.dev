@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 #Sitemap Reference
-Sitemap:https://www.giftegwuenu.com/sitemap.xml
+Sitemap: https://www.giftegwuenu.com/sitemap.xml
