@@ -1,5 +1,13 @@
 {
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "1",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "August, 13 -14 2020",
+      "event": "Vuejs Global",
+      "link": "https://www.vuejs.amsterdam/"
+    }
+  ],
   "past":  [
     {
       "id": "1",
