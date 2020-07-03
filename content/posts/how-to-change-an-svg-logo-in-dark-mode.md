@@ -1,6 +1,6 @@
 ---
 title: How to Change Logo in Dark Mode
-date: 2020-06-10T15:25:07.945Z
+date: 2020-07-03T10:52:03.096Z
 published: false
 tags:
   - CSS
@@ -8,17 +8,15 @@ canonical_url: true
 description: I share how I was able to switch the color of my logo in dark mode
   using CSS custom properties
 ---
-In this article, I share how I switched the color of logo in light/dark mode.
+I designed my website with two versions of the logo - one for light mode and another for dark mode. In this article, I'll share how I switched the color of the logo in light/dark mode.
 
-I designed my website with two version of the logo - one for light mode and another for dark mode.
+When it came to implementing this design I was a bit confused about how I will switch between these two versions when either dark/light mode is selected.
 
-When it came to implementing this design I was a bit comfuse on how I will switch between these two versions when either dark/light mode is selected.
+I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it on your own website.
 
-I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this on your own.
+Let's dive in!!
 
-Let's dive into it.
-
-So I've got my image tag with the light colored logo.
+So I've got an image tag with the light-colored logo.
 
 ```html
 <img class="logo" src="../assets/img/logo.png" alt="logo" />
