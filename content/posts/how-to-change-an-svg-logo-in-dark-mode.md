@@ -24,7 +24,7 @@ Let's dive in!! So I've got an image tag with the light-colored logo.
 <img class="logo" src="../assets/img/logo.png" alt="logo" />
 ```
 
-## Solution: CSS Variables
+## Solution: Using CSS Variables
 
 We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable called logo for both dark and light mode and set it as the background image which you'll see in a moment.
 
@@ -55,4 +55,4 @@ Then I applied the following style to the `.logo` class. It sets the background 
 }
 ```
 
-That's it! I now have two different versions of my logo for dark and light mode.  If you're interested in seeing the implementation in more detail, the code for my website is open-source and you can check it out.
+That's it! I now have two different versions of my logo for dark and light mode.  If you're interested in seeing the implementation in more detail, the code for my website is open-source and [you can check it out](https://github.com/lauragift21/giftegwuenu.dev/blob/master/src/components/Nav.vue).
