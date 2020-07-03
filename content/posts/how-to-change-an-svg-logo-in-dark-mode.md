@@ -12,11 +12,11 @@ I designed my website with two versions of the logo - one for light mode and ano
 
 ![Light and Dark Logo Grid](/images/uploads/logos.png)
 
-When it came to implementing this design I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
+When it came to implementing this design, I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
 
-I found a way to do this and I'll share how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
+I found a way to do this, and I'll share how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
 
-Let's dive in!! So I've got an image tag with the dark-outline logo. This will serve as the default logo that you see when you're on light mode.
+Let's dive into it!! So I've got an image tag with the dark-outline logo. It'll serve as the default logo that you see when you're on light mode.
 
 ```html
 <img class="logo" src="../assets/img/logo.png" alt="original logo" />
@@ -24,7 +24,7 @@ Let's dive in!! So I've got an image tag with the dark-outline logo. This will s
 
 ## Solution: Using CSS Variables
 
-We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable in the `variables.scss` called logo for both dark and light mode and set it as the background image which you'll see in a moment.
+We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable in the `variables.scss` called logo for both dark and light mode and set it as the background image, which you'll see in a moment.
 
 ```css
 body {
@@ -37,7 +37,7 @@ body[data-theme="dark"] {
 }
 ```
 
-Then I applied the following style to the `.logo` class on the image. It sets the background image to both versions of the logo depending on which one is selected and the background-size and height properties help position the image directly on top of the original image.
+Then I applied the following style to the `.logo` class on the image. It sets the background image to both versions of the logo depending on which one is selected. The background-size and height properties help position the image directly on top of the original image.
 
 ```css
 .logo {
@@ -53,4 +53,4 @@ Then I applied the following style to the `.logo` class on the image. It sets th
 
 ![switching between dark and light mode](/images/uploads/4vw3ldyk9v.gif)
 
-That's it! I now have two different versions of my logo for dark and light mode.  If you're interested in seeing the implementation in more detail, the code for my website is open-source and [you can check it out](https://github.com/lauragift21/giftegwuenu.dev/blob/master/src/components/Nav.vue).
+That's it! I now have two different versions of my logo for dark and light mode. If you're interested in seeing the implementation in more detail, the code for my website is open-source, and [you can check it out](https://github.com/lauragift21/giftegwuenu.dev/blob/master/src/components/Nav.vue).
