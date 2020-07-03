@@ -39,7 +39,7 @@ body[data-theme="dark"] {
 }
 ```
 
-Then I applied the following style to the `.logo` class. It sets the background image to both versions of the logo depending on which one is selected and the background-size and height properties help position the image directly on top of the original image.
+Then I applied the following style to the `.logo` class on the image. It sets the background image to both versions of the logo depending on which one is selected and the background-size and height properties help position the image directly on top of the original image.
 
 ```css
 .logo {
