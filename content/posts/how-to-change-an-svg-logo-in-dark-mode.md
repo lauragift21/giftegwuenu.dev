@@ -18,7 +18,7 @@ When it came to implementing this design I was a bit confused about how to go ab
 
 I found a way to do this and I'll share how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
 
-Let's dive in!! So I've got an image tag with the light-colored logo.
+Let's dive in!! So I've got an image tag with the dark-outline logo. This will serve as the default logo that you see when you're on light mode.
 
 ```html
 <img class="logo" src="../assets/img/logo.png" alt="original logo" />
