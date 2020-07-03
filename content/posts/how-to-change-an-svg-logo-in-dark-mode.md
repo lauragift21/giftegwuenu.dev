@@ -21,7 +21,7 @@ I found a way to do this and I'll share how I was able to achieve it. Btw I'm op
 Let's dive in!! So I've got an image tag with the light-colored logo.
 
 ```html
-<img class="logo" src="../assets/img/logo.png" alt="logo" />
+<img class="logo" src="../assets/img/logo.png" alt="original logo" />
 ```
 
 ## Solution: Using CSS Variables
