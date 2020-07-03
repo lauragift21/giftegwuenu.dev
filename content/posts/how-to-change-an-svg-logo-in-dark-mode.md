@@ -26,10 +26,9 @@ Let's dive in!! So I've got an image tag with the dark-outline logo. This will s
 
 ## Solution: Using CSS Variables
 
-We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable called logo for both dark and light mode and set it as the background image which you'll see in a moment.
+We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable in the `variables.scss` file called logo for both dark and light mode and set it as the background image which you'll see in a moment.
 
 ```css
-// variables.scss
 body {
   --logo: url(logo.png) no-repeat;
 
