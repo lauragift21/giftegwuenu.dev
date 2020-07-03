@@ -10,7 +10,7 @@ description: I share how I was able to switch the color of my logo in dark mode
 ---
 I designed my website with two versions of the logo - one for light mode and another for dark mode. In this article, I'll share how I switched the color of the logo in light/dark mode.
 
-![](/images/uploads/logos.png)
+![Light and Dark Logo Grid](/images/uploads/logos.png)
 
 When it came to implementing this design I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
 
