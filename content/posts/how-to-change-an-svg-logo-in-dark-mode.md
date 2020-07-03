@@ -35,7 +35,6 @@ body {
 
 }
 
-
 body[data-theme="dark"] {
   --logo: url(logo-light.png) no-repeat;
 }
