@@ -14,8 +14,6 @@ I designed my website with two versions of the logo - one for light mode and ano
 
 When it came to implementing this design I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
 
-### NB - Add Gif showing how it switches
-
 I found a way to do this and I'll share how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
 
 Let's dive in!! So I've got an image tag with the dark-outline logo. This will serve as the default logo that you see when you're on light mode.
@@ -52,5 +50,7 @@ Then I applied the following style to the `.logo` class on the image. It sets th
   padding-left: 100px;
 }
 ```
+
+![switching between dark and light mode](/images/uploads/4vw3ldyk9v.gif)
 
 That's it! I now have two different versions of my logo for dark and light mode.  If you're interested in seeing the implementation in more detail, the code for my website is open-source and [you can check it out](https://github.com/lauragift21/giftegwuenu.dev/blob/master/src/components/Nav.vue).
