@@ -1,5 +1,5 @@
 ---
-title: How to Change Logo in Dark Mode
+title: How to Switch Logo in Dark Mode
 date: 2020-07-03T10:52:03.096Z
 published: false
 tags:
@@ -10,13 +10,15 @@ description: I share how I was able to switch the color of my logo in dark mode
 ---
 I designed my website with two versions of the logo - one for light mode and another for dark mode. In this article, I'll share how I switched the color of the logo in light/dark mode.
 
+### NB - Add Images of two logos side by side
+
 When it came to implementing this design I was a bit confused about how I will switch between these two versions when either dark/light mode is selected.
 
-I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it on your own website.
+### NB - Add Gif showing how it switches
 
-Let's dive in!!
+I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
 
-So I've got an image tag with the light-colored logo.
+Let's dive in!! So I've got an image tag with the light-colored logo.
 
 ```html
 <img class="logo" src="../assets/img/logo.png" alt="logo" />
@@ -24,7 +26,7 @@ So I've got an image tag with the light-colored logo.
 
 ## Solution 1: CSS Variables
 
-We can use CSS custom properties(CSS Variables) to solve this problem. Here's what you'll typically want to do. We need to define a variable called logo for both dark and light mode and set these as background image
+We can use CSS custom properties(CSS Variables) to solve this problem. Here's what you'll typically want to do. We need to define a variable called logo for both dark and light mode and set these as the background image.
 
 ```css
 // varibles.scss
@@ -39,7 +41,7 @@ body[data-theme="dark"] {
 }
 ```
 
-Apply the following style to the logo class this sets the background image to both version of the logo depending on which is selected.
+Apply the following style to the logo class this sets the background image to both versions of the logo depending on which one is selected.
 
 ```css
 .logo {
