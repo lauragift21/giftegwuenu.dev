@@ -24,24 +24,24 @@ Let's dive in!! So I've got an image tag with the light-colored logo.
 <img class="logo" src="../assets/img/logo.png" alt="logo" />
 ```
 
-## Solution 1: CSS Variables
+## Solution: CSS Variables
 
-We can use CSS custom properties(CSS Variables) to solve this problem. Here's what you'll typically want to do. We need to define a variable called logo for both dark and light mode and set these as the background image.
+We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable called logo for both dark and light mode and set it as the background image which you'll see in a moment.
 
 ```css
-// varibles.scss
+// variables.scss
 body {
-  --logo: url(../../assets/img/logo.png) no-repeat;
+  --logo: url(logo.png) no-repeat;
 
 }
 
 
 body[data-theme="dark"] {
-  --logo: url(../../assets/img/logo-light.png) no-repeat;
+  --logo: url(logo-light.png) no-repeat;
 }
 ```
 
-Then I applied the following style to the `.logo` class this sets the background image to both versions of the logo depending on which one is selected and the background-size and height property helps position the image directly on top of the original image.
+Then I applied the following style to the `.logo` class. It sets the background image to both versions of the logo depending on which one is selected and the background-size and height properties help position the image directly on top of the original image.
 
 ```css
 .logo {
@@ -55,6 +55,4 @@ Then I applied the following style to the `.logo` class this sets the background
 }
 ```
 
-## Solution 2: Prefers Color Scheme Media Queries
-
-This is another way to achieve the same result.
+That's it! I now have two different versions of my logo for dark and light mode.  If you're interested in seeing the implementation in more detail, the code for my website is open-source and you can check it out.
