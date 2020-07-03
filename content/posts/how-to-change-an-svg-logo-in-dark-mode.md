@@ -12,11 +12,11 @@ I designed my website with two versions of the logo - one for light mode and ano
 
 ### NB - Add Images of two logos side by side
 
-When it came to implementing this design I was a bit confused about how I will switch between these two versions when either dark/light mode is selected.
+When it came to implementing this design I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
 
 ### NB - Add Gif showing how it switches
 
-I found a way to do this and I'll be sharing how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
+I found a way to do this and I'll share how I was able to achieve it. Btw I'm open to hearing how you'll typically implement this if you were trying to implement it.
 
 Let's dive in!! So I've got an image tag with the light-colored logo.
 
@@ -41,7 +41,7 @@ body[data-theme="dark"] {
 }
 ```
 
-Apply the following style to the logo class this sets the background image to both versions of the logo depending on which one is selected.
+Then I applied the following style to the `.logo` class this sets the background image to both versions of the logo depending on which one is selected and the background-size and height property helps position the image directly on top of the original image.
 
 ```css
 .logo {
