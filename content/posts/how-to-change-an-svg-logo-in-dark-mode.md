@@ -10,7 +10,7 @@ description: I share how I was able to switch the color of my logo in dark mode
 ---
 I designed my website with two versions of the logo - one for light mode and another for dark mode. In this article, I'll share how I switched the color of the logo in light/dark mode.
 
-### NB - Add Images of two logos side by side
+![](/images/uploads/logos.png)
 
 When it came to implementing this design I was a bit confused about how to go about switching between these two versions when either dark/light mode is selected.
 
@@ -26,7 +26,7 @@ Let's dive in!! So I've got an image tag with the dark-outline logo. This will s
 
 ## Solution: Using CSS Variables
 
-We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable in the `variables.scss` file called logo for both dark and light mode and set it as the background image which you'll see in a moment.
+We can use CSS custom properties(CSS Variables) to solve this problem. Here's what I did, I defined a variable in the `variables.scss` called logo for both dark and light mode and set it as the background image which you'll see in a moment.
 
 ```css
 body {
