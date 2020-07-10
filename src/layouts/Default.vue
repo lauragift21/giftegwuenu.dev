@@ -77,10 +77,13 @@ export default {
   .layout {
     padding-top: 20px;
   } 
-
   .link:hover {
-    color: #fffffe !important;
+    color: var(--pink-color) !important;
     box-shadow: none;
+  }
+
+  .link:hover::before {
+    transform: scaleX(0);
   }
 }
 </style>
