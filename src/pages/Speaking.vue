@@ -65,13 +65,12 @@ h1, h2 {
 
 .card {
   background: var(--secondary-color);
-  width: 40rem;
 }
 
   /* Smaller text for mobile */
 @media screen and (min-width: 200px) {
   .card {
-    width: 30rem;
+    width: 24rem;
   }
 }
 
