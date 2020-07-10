@@ -90,7 +90,6 @@ ul {
 @media screen and (max-width: 900px) {
   $th_pink: #e84a5f;
   $th_dark: #2a363b;
-
   header {
     nav {
       background-color: rgba(0, 0, 0, 0.8);
@@ -141,21 +140,19 @@ ul {
   .toggle-btn {
     display: block;
     position: absolute;
-    z-index: 10;
+    z-index: 20;
     right: 40px;
-    top: 45px;
+    top: 50px;
     cursor: pointer;
 
     .bar {
       width: 30px;
       height: 2px;
       margin: 7px auto;
-      background-color: #fff;
+      background-color: var(--title-color);
       transition: all 0.3s ease-in-out;
-      box-shadow: 0 0 1px 1px rgba(134, 132, 132, 0.3);
-
       &:nth-child(2) {
-        width: 20px;
+        width: 40px;
       }
     }
   }
@@ -167,7 +164,7 @@ ul {
       z-index: 1;
 
       ul {
-        top: 100px;
+        top: 150px;
 
         li {
           transform: translateY(0px);
@@ -185,7 +182,7 @@ ul {
 
     & + label.toggle-btn {
       .bar {
-        background-color: var(--pink-color);
+        background-color: #fff;
 
         &:nth-child(2) {
           transform: translateX(50px);
