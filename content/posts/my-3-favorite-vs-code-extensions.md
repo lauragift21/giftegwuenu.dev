@@ -3,7 +3,7 @@ title: My 3 Favorite VS Code Extensions
 date: 2020-07-21T09:53:43.585Z
 published: true
 tags:
-  - vsocde
+  - vscode
 canonical_url: true
 description: Hi everyone! I made a video where I shared my top 3 favorite VS
   Code Extensions and I think you should check them out.
