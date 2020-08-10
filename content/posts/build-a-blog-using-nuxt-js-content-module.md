@@ -7,7 +7,7 @@ tags:
   - vue
 canonical_url: true
 description: In this video, I'll share what you need to know about the Nuxt
-  Content Module and how to use it in your nuxt applications.
+  Content Module and how to use it in your Nuxt applications.
 ---
 [Nuxt.js](https://nuxtjs.org) is one of the technologies I'm really interested in and I made this video showing you how to use the Nuxt Content. [Nuxt.js Content](https://content.nuxtjs.org) is one of the newest additions to Nuxtjs. In this tutorial, we'll create a blog using Nuxt.js content as a Headless CMS. 
 
