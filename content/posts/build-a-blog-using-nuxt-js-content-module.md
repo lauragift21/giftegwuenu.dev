@@ -26,7 +26,7 @@ Timestamps ✨
 [15:42](https://www.youtube.com/watch?v=zDCacgvw0A0&t=942s) - Live Editing in Dev Mode  
 [16:16](https://www.youtube.com/watch?v=zDCacgvw0A0&t=976s) - API Endpoints Preview  
 [16:54](https://www.youtube.com/watch?v=zDCacgvw0A0&t=1014s) - Static Deployment  
-[18:04](https://www.youtube.com/watch?v=zDCacgvw0A0&t=1084s) -  Outro and Subscribe :)
+[18:04](https://www.youtube.com/watch?v=zDCacgvw0A0&t=1084s) -  Outro and Subscribe
 
 Hope you enjoy the video :)
 
