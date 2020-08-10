@@ -1,16 +1,9 @@
 {
   "upcoming": [
     {
-      "id": "1",
-      "title": "A11Y for Everyone: Building Inclusive and Accessible Web Applications",
-      "date": "July, 29 2020",
-      "event": "Microsoft's CREATE:Frontend",
-      "link": "https://createfrontenddevelopers.splashthat.com/"
-    },
-    {
       "id": "2",
       "title": "Jamstack FTW: Static Site Generation With Gridsome",
-      "date": "August, 13 -14 2020",
+      "date": "September, 17 - 18 2020",
       "event": "Vuejs Global",
       "link": "https://www.vuejs.amsterdam/"
     }
