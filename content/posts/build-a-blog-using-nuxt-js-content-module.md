@@ -11,8 +11,6 @@ description: In this video, I'll share what you need to know about the Nuxt
 ---
 [Nuxt.js](https://nuxtjs.org) is one of the technologies I'm really interested in and I made this video showing you how to use the Nuxt Content. [Nuxt.js Content](https://content.nuxtjs.org) is one of the newest additions to Nuxtjs. In this tutorial, we'll create a blog using Nuxt.js content as a Headless CMS. 
 
-https://content.nuxtjs.org/
-
 GitHub Repo: https://github.com/lauragift21/nuxt-content-video
 
 https://www.youtube.com/embed/zDCacgvw0A0
