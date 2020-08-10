@@ -22,8 +22,8 @@ Timestamps ✨
 [0:55](https://www.youtube.com/watch?v=zDCacgvw0A0&t=55s) -  What is Nuxt.js?  
 [1:47](https://www.youtube.com/watch?v=zDCacgvw0A0&t=107s) -  Setup a Nuxt app  
 [2:13](https://www.youtube.com/watch?v=zDCacgvw0A0&t=133s) -  What is Nuxt Content?  
-[4:45](https://www.youtube.com/watch?v=zDCacgvw0A0&t=285s) -  Install Nuxt Content  
-[5:18](https://www.youtube.com/watch?v=zDCacgvw0A0&t=318s) -  Creating Content  
+[4:45](https://www.youtube.com/watch?v=zDCacgvw0A0&t=285s) -  Install Nuxt Content   
+[5:18](https://www.youtube.com/watch?v=zDCacgvw0A0&t=318s) -  Creating Content    
 [7:31](https://www.youtube.com/watch?v=zDCacgvw0A0&t=451s) -  Fetching and Displaying Content  
 [15:42](https://www.youtube.com/watch?v=zDCacgvw0A0&t=942s) - Live Editing in Dev Mode  
 [16:16](https://www.youtube.com/watch?v=zDCacgvw0A0&t=976s) - API Endpoints Preview  
