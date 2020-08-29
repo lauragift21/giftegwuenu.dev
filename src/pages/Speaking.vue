@@ -3,7 +3,7 @@
     <h1 class="text-4xl mx-10 sm:mx-1 my-5 font-bold uppercase" id="main">Speaking</h1>
     <h3 class="text-3xl my-5 sm:text-left md:text-left text-center font-bold" data-aos="slide-up" v-if="speaking.upcoming">Upcoming Talks</h3>
     <div class="past sm:mx-2 sm:text-base mx-64">
-    <p>Want me to speak at your event? Reach out to me via <a href="mailto:laurandidi21@gmail.com">email</a> or <a href="https://twitter.com/lauragift_">twitter.</a></p>
+    <p class="text-center">Want me to speak at your event? Reach out to me via <a href="mailto:laurandidi21@gmail.com">email</a> or <a href="https://twitter.com/lauragift_">twitter.</a></p>
       <div class="py-4 flex" data-aos="slide-up" v-for="upcoming in speaking.upcoming" :key="upcoming.id">
         <g-link :to="upcoming.link">
           <div class="card rounded px-8 py-6">

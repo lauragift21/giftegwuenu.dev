@@ -1,6 +1,13 @@
 {
   "upcoming": [
     {
+      "id": "1",
+      "title": "Scaling your eCommerce with Vue Storefront",
+      "date": "September, 3 2020",
+      "event": "Headless Commerce Summit",
+      "link": "https://headlesscommercesummit2020.sched.com/event/dqkU/scaling-your-ecommerce-with-vue-storefront"
+    },
+    {
       "id": "2",
       "title": "Jamstack FTW: Static Site Generation With Gridsome",
       "date": "September, 17 - 18 2020",
