@@ -16,7 +16,7 @@
     </div>
     <h3 class="text-3xl my-5 sm:text-left md:text-left text-center font-bold" data-aos="slide-up">Past Talks</h3>
     <div class="past mx-64 sm:mx-4 md:mx-4">
-      <div class="py-4 flex" data-aos="slide-up" v-for="past in speaking.past" :key="past.id">
+      <div class="py-4 flex" data-aos="slide-up" v-for="past in speaking.past.slice().reverse()" :key="past.id">
         <g-link :to="past.link">
           <div class="card rounded px-8 py-6">
             <span class="font-bold">{{past.date}}</span>
