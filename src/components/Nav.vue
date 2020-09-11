@@ -65,7 +65,9 @@ export default {
         document.getElementById('toggle').checked = false
         this.$router.push(link)
       }
-      
+      else{
+        this.$router.push(link)
+      }
     }
   }
 };
