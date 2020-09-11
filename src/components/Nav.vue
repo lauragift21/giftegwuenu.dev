@@ -16,10 +16,9 @@
       <div class="nav-content">
         <ul>
           <li>
-            <g-link
+            <a @click="link('/#about')"
               class="nav-item mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link"
-              to="/#about"
-            >About</g-link>
+            >About</a>
           </li>
           <li>
             <g-link
@@ -40,13 +39,12 @@
             >Uses</g-link>
           </li>
           <li>
-            <g-link
+            <a @click="link('/#contact')"
               class="nav-item mr-6 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link"
-              to="/#contact"
-            >Contact</g-link>
+            >Contact</a>
           </li>
           <li tabindex="0">
-        <toggle-theme />
+            <toggle-theme />
           </li>
         </ul>
       </div>
@@ -59,6 +57,16 @@ import ToggleTheme from "./ToogleTheme";
 export default {
   components: {
     ToggleTheme
+  },
+  methods:{
+    link(link){
+      let deviceWidth = window.innerWidth;
+      if(deviceWidth<900){
+        document.getElementById('toggle').checked = false
+        this.$router.push(link)
+      }
+      
+    }
   }
 };
 </script>
