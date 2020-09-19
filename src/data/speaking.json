@@ -2,10 +2,10 @@
   "upcoming": [
     {
       "id": "1",
-      "title": "Jamstack FTW: Static Site Generation With Gridsome",
-      "date": "September, 17 - 18 2020",
-      "event": "Vuejs Global",
-      "link": "https://www.vuejs.amsterdam/"
+      "title": "Building from Scratch with Nuxt.js",
+      "date": "October, 7 2020",
+      "event": "Jamstack Conf Virtual",
+      "link": "https://jamstackconf.com/virtual/"
     }
   ],
   "past":  [
@@ -122,6 +122,13 @@
       "date": "July, 23, 2019",
       "event": "Views on Vue",
       "link": "https://podtail.com/en/podcast/views-on-vue/vov-071-gridsome-with-gift-egwuenu/"
+    },
+    {
+      "id": "9",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "September, 17 - 18 2020",
+      "event": "Vuejs Global",
+      "link": "https://www.vuejs.amsterdam/"
     }
   ]
 }
