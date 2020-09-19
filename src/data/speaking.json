@@ -64,6 +64,13 @@
       "date": "September, 3 2020",
       "event": "Headless Commerce Summit",
       "link": "https://www.youtube.com/watch?v=seNgpGrwNBY&t=54s"
+    },
+    {
+      "id": "9",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "September, 17 - 18 2020",
+      "event": "Vuejs Global",
+      "link": "https://www.vuejs.amsterdam/"
     }
   ],
   "interviews": [
@@ -122,13 +129,6 @@
       "date": "July, 23, 2019",
       "event": "Views on Vue",
       "link": "https://podtail.com/en/podcast/views-on-vue/vov-071-gridsome-with-gift-egwuenu/"
-    },
-    {
-      "id": "9",
-      "title": "Jamstack FTW: Static Site Generation With Gridsome",
-      "date": "September, 17 - 18 2020",
-      "event": "Vuejs Global",
-      "link": "https://www.vuejs.amsterdam/"
     }
   ]
 }
