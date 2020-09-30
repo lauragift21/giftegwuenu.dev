@@ -17,11 +17,9 @@ Overall, I'll say I had such a good time at the conference, even though it was o
 
 I had the chance to be a part of the Speaker's Dinner a day before the conference and it was so much fun. You can tell my face is missing from the zoom call but I was present 😉. We had so much fun playing a Pub Quiz hosted by [Israel Roldan](https://twitter.com/isro_me)(P.S: My manager I'm so proud to be working with him!)  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0ec0569-9f5d-4866-82f2-6792f7f329a0/Screen_Shot_2020-09-16_at_5.12.12_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0ec0569-9f5d-4866-82f2-6792f7f329a0/Screen_Shot_2020-09-16_at_5.12.12_PM.png)
+![Speaker Dinner Celebration via Zoom](https://res.cloudinary.com/lauragift/image/upload/v1601465163/Screen_Shot_2020-09-16_at_5.12.12_PM_jlm4rf.png)
 
-Speaker Dinner Celebration via Zoom
-
-**TL:DR;**  The conference was so much fun and so many things I took away and looking forward to exploring them and soon using them at work. 
+**TL: DR;**  The conference was so much fun and so many things I took away and looking forward to exploring them and soon using them at work. 
 
 The conference was a [two-day conference](https://www.vuejs.amsterdam/program) packed with so much goodness and some exciting news everyone was looking forward to... I'm sure you already know what that is but more on that later.
 
@@ -41,23 +39,23 @@ Our hosts for the conference were [Maria Lamardo](https://twitter.com/MariaLamar
 
 [https://www.youtube.com/watch?v=ajGglyQQD0k](https://www.youtube.com/watch?v=ajGglyQQD0k)
 
-[Kia King](https://twitter.com/KiaKing85) is a member of the Vue Core Team and his talk was focused on the current state of VueX and what's coming in the future of VueX. VueX 3 support will work for Vue 2 likewise VueX 4 will work with Vue3. The focus of Vuex 4 is for compactiablity. He also share the new installation process and some of the new features coming in Vuex 4 such as new bundles aligned with Vue 3 and slightly better TypeScript support. He also shares the direction for the future **"Vuex5"** which is still in RFC stage and he shared features that this new version will ship with.
+[Kia King](https://twitter.com/KiaKing85) is a member of the Vue Core Team and his talk was focused on the current state of VueX and what's coming in the future of VueX. VueX 3 support will work for Vue 2 likewise VueX 4 will work with Vue3. The focus of Vuex 4 is for compatibility. He also shares the new installation process and some of the new features coming in Vuex 4 such as new bundles aligned with Vue 3 and slightly better TypeScript support. He also shares the direction for the future **"Vuex5"** which is still in the RFC stage and he shared features that this new version will ship with.
 
 ### Migrating a big old codebase to Vue 3: what I'm excited about! by Natalia Tepluhina
 
 [https://www.youtube.com/watch?v=K1JoWmXh4qA&t=58s](https://www.youtube.com/watch?v=K1JoWmXh4qA&t=58s)
 
-[Natalia Tepluhina](https://twitter.com/N_Tepluhina) is a member of the Vue Core team and Staff Frontend Engineer at GitLab. In her talk, she shared how she plans to migrate a big old codebase(Gitlab Codebase) to Vue 3 and some of the things she's excited about. In general, she pointed out things to watch out for like mixins and she recommends as a go to use Stateful components as Functional components can grow  performance gains by 2.x. 
+[Natalia Tepluhina](https://twitter.com/N_Tepluhina) is a member of the Vue Core team and Staff Frontend Engineer at GitLab. In her talk, she shared how she plans to migrate a big old codebase(Gitlab Codebase) to Vue 3 and some of the things she's excited about. In general, she pointed out things to watch out for like mixins and she recommends as a go-to use Stateful components as Functional components can grow performance gains by 2.x. 
 
 ### Experience of the new Vue by Rahul Kadyan
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2b66ed-c66f-4d40-89b6-b5f79be69d5e/Screen_Shot_2020-09-17_at_2.26.07_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea2b66ed-c66f-4d40-89b6-b5f79be69d5e/Screen_Shot_2020-09-17_at_2.26.07_PM.png)
+![New Vue Experience](https://res.cloudinary.com/lauragift/image/upload/v1601465192/Screen_Shot_2020-09-17_at_2.26.07_PM_fmbrgt.png)
 
-[Rahul Kaydan](https://twitter.com/znck0) is also a Vue.js core team member and works as software engineer at Grammally. His talk is about his experience with Vue 3 and its ecosystem. He share his experience working with Composition API, Compiler, and Vite. 
+[Rahul Kaydan](https://twitter.com/znck0) is also a Vue.js core team member and works as a software engineer at Grammarly. His talk is about his experience with Vue 3 and its ecosystem. He shares his experience working with Composition API, Compiler, and Vite. 
 
 ### Vue 3 Reactivity Under The Hood by Marc Backes
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3ca4eae-1d3f-48b1-87a2-df3de4f5193b/Screen_Shot_2020-09-17_at_2.47.16_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3ca4eae-1d3f-48b1-87a2-df3de4f5193b/Screen_Shot_2020-09-17_at_2.47.16_PM.png)
+![Vue Reactivity](https://res.cloudinary.com/lauragift/image/upload/v1601465297/Screen_Shot_2020-09-17_at_2.47.16_PM_qr8yxv.png)
 
 [Marc Backes](https://twitter.com/themarcba) is a freelance developer and host of Whiskey Wednesdays. In his talk, he shared in a demo how Vue 3 Reactivity works under the hood by building a simplified version from scratch. He took us through how Reactivity works in Vue 2 and showed how Vue 3 reactivity works differently. 
 
@@ -69,9 +67,9 @@ Tim's talk was one of the best in terms of delivery...he went all out on this on
 
 ### The Exciting New Features for Routing in Vue3; Vue Router 4 by Eduardo San Martin Morote
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a946b5f0-d502-40e2-bcaa-faeb6cc7dfb4/Screen_Shot_2020-09-17_at_3.45.40_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a946b5f0-d502-40e2-bcaa-faeb6cc7dfb4/Screen_Shot_2020-09-17_at_3.45.40_PM.png)
+![Vue Router 4 Talk](https://res.cloudinary.com/lauragift/image/upload/v1601465206/Screen_Shot_2020-09-17_at_3.45.40_PM_xjjtm1.png)
 
-[Eduardo](https://twitter.com/posva) is the creator of Vue Router shared in his talk what exciting new features is coming in Vue Router 4. His talk showed features no longer supported and some useful features that's coming in the new version.
+[Eduardo](https://twitter.com/posva) is the creator of Vue Router shared in his talk about what exciting new features are coming in Vue Router 4. His talk showed features no longer supported and some useful features that's coming in the new version.
 
 ### JAMstack FTW- Static Site Generation With Gridsome by Gift Egwuenu
 
@@ -79,15 +77,15 @@ I was also a speaker at the conference and my talk covered an introduction to Gr
 
 ### Creating a JAM Stack product from scratch by Alex Jover
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df02f112-cc76-4bba-ad51-a0a14bdfc5cb/Screen_Shot_2020-09-30_at_3.46.57_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df02f112-cc76-4bba-ad51-a0a14bdfc5cb/Screen_Shot_2020-09-30_at_3.46.57_AM.png)
+![Alex Jover Talk](https://res.cloudinary.com/lauragift/image/upload/v1601465058/Screen_Shot_2020-09-30_at_3.46.57_AM_juuxsy.png)
 
 [Alex Jover](https://twitter.com/alexjoverm) is the creator of [Vue Dose](https://vuedose.tips/) and Organizer of Vue.js Spain. In his talk, he shared the process of rebuilding Vue Dose from the ground up with Nuxt and Storyblok. He also showed the problems with the first version and what needed to be improved and the **7 steps** he went through to recreate a new version of Vue Dose.
 
 ### Dynamic from static with the right (JAM)stack by Maya Shavin
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8c209f2-8a66-414b-8c98-7afd24868413/Screen_Shot_2020-09-30_at_3.52.57_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8c209f2-8a66-414b-8c98-7afd24868413/Screen_Shot_2020-09-30_at_3.52.57_AM.png)
+![Maya Shavin Talk](https://res.cloudinary.com/lauragift/image/upload/v1601465107/Screen_Shot_2020-09-30_at_3.52.57_AM_r4b56o.png)
 
-[Maya Shavin](https://twitter.com/MayaShavin) is a Senior Frontend Developer at Cloudinary. In her talk, she starts by sharing what the Jamstack is and went on to explore some tools in the Jamstack ecosystem and she mentioned something I think I needed to pay attention to, because we have so many options of tools to choose from doesn't mean you have to use every tool in your application but instead think from the performance perspective. So asking the question does adding all of these services make my app more performant?
+[Maya Shavin](https://twitter.com/MayaShavin) is a Senior Frontend Developer at Cloudinary. In her talk, she starts by sharing what the Jamstack is and went on to explore some tools in the Jamstack ecosystem and she mentioned something I think I needed to pay attention to because we have so many options of tools to choose from doesn't mean you have to use every tool in your application but instead think from the performance perspective. So asking the question does adding all of these services make my app more performant?
 
 ## Conference Day 2 (September 18th)
 
@@ -133,7 +131,7 @@ This is one of the sessions we've been waiting for and anticipating to hear what
 
 Following the announcement, there was a live QnA session where some members of the community and Panel got to ask Evan some questions. It was so good and nicely put together.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc7154ec-5dee-4faa-a624-5bc3e0f548f9/Screen_Shot_2020-09-18_at_5.31.57_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc7154ec-5dee-4faa-a624-5bc3e0f548f9/Screen_Shot_2020-09-18_at_5.31.57_PM.png)
+![QnA Session with Evan You](https://res.cloudinary.com/lauragift/image/upload/v1601465296/Screen_Shot_2020-09-18_at_5.31.57_PM_mqgrto.png)
 
 ### After Party and Community Connections
 
@@ -145,9 +143,9 @@ Jos Gerards played some nice music we even had a conference Spotify Playlist whe
 
 The conference was very well put together and I had a lot of fun participating in it. Kudos and great job to the team for putting on such a great event. 
 
-[Vue.js Amsterdam 2021](https://vuejs.amsterdam) is freeeeee! Meaning you get the same experience from this year with even more vibes  but for free isn't that just great! [You can sign up for a ticket now](https://www.vuejs.amsterdam/account/register?event=vue-js-amsterdam-2021). I've already got my ticket! 😅
+[Vue.js Amsterdam 2021](https://vuejs.amsterdam) is freeeeee! Meaning you get the same experience from this year with even more vibes but for free isn't that just great! [You can sign up for a ticket now](https://www.vuejs.amsterdam/account/register?event=vue-js-amsterdam-2021). I've already got my ticket! 😅
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af750e68-0ac6-458d-a5a9-a0ae8ce203e5/Screen_Shot_2020-09-29_at_1.29.05_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af750e68-0ac6-458d-a5a9-a0ae8ce203e5/Screen_Shot_2020-09-29_at_1.29.05_PM.png)
+![Vuejs amsterdam 2021 ticket](https://res.cloudinary.com/lauragift/image/upload/v1601465000/Screen_Shot_2020-09-29_at_1.29.05_PM_qayo2k.png)
 
 I'm looking forward to the awesomeness we create next year. Vue Global conference is brought to the community by [Passionate People](https://passionatepeople.io/) - a developer consultancy in Amsterdam which is also where I work(shameless plug 😜).
 
