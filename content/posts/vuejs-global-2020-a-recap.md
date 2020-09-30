@@ -107,7 +107,7 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 ### The state of Nuxt by Sebastien Chopin
 
-The creator of Nuxt [Sebastien Chopin.](https://twitter.com/Atinux) 
+[Sebastien Chopin](https://twitter.com/Atinux) is the co-author of Nuxt.js. His talk was focused on the state of Nuxt and recent features that were introduced in the recent release Nuxt v2.14 including Full Static Mode, Smart Generate that skips webpack build when there are no code changes. He also shared some stats from this year and a project from the Nuxt team called [Vue Telemtry](https://vuetelemetry.com/) and talked about some changes coming in Nuxt.js v3.0.
 
 ### Nuxt.js Architecture by Pooya Parsa
 
