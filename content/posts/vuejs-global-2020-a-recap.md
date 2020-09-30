@@ -120,6 +120,7 @@ She started with an explanation of what a headless CMS is and how Nuxt content w
 
 ### SEO in a Vue.js world by Alexander Lichter
 
+[Alexander](https://twitter.com/TheAlexLichter) is a Nuxt.js core maintainer and web developer consultant. In his talk, he walks through what SEO is and the importance of optimizing SEO and detailing the three pillars of SEO - on-page, off-page, and technical and shared some tips for improving SEO on Vue.js applications. 
 
 ### What you'll love in Vue 3 by Alex Kyriakidis
 
