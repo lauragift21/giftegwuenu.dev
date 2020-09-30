@@ -17,7 +17,7 @@ Overall, I'll say I had such a good time at the conference, even though it was o
 
 I had the chance to be a part of the Speaker's Dinner a day before the conference and it was so much fun. You can tell my face is missing from the zoom call but I was present 😉. We had so much fun playing a Pub Quiz hosted by [Israel Roldan](https://twitter.com/isro_me)(P.S: My manager I'm so proud to be working with him!)  
 
-![Speaker Dinner Celebration via Zoom](https://res.cloudinary.com/lauragift/image/upload/v1601465163/Screen_Shot_2020-09-16_at_5.12.12_PM_jlm4rf.png)
+![Speaker Dinner Celebration via Zoom](https://res.cloudinary.com/lauragift/image/upload/v1601465163/Screen_Shot_2020-09-16_at_5.12.12_PM_jlm4rf.png "Speaker Dinner Celebration via Zoom")
 
 > **TL: DR;**  The conference was so much fun and I took away so many things and looking forward to exploring and using them. 
 
@@ -37,13 +37,13 @@ Our hosts for the conference were [Maria Lamardo](https://twitter.com/MariaLamar
 
 ### The Future of VueX by Kai King
 
-[https://www.youtube.com/watch?v=ajGglyQQD0k](https://www.youtube.com/watch?v=ajGglyQQD0k)
+<https://www.youtube.com/watch?v=ajGglyQQD0k>
 
 [Kia King](https://twitter.com/KiaKing85) is a member of the Vue Core Team and his talk was focused on the current state of VueX and what's coming in the future of VueX. VueX 3 support will work for Vue 2 likewise VueX 4 will work with Vue3. The focus of Vuex 4 is for compatibility. He also shares the new installation process and some of the new features coming in Vuex 4 such as new bundles aligned with Vue 3 and slightly better TypeScript support. He also shares the direction for the future **"Vuex5"** which is still in the RFC stage and he shared features that this new version will ship with.
 
 ### Migrating a big old codebase to Vue 3: what I'm excited about! by Natalia Tepluhina
 
-[https://www.youtube.com/watch?v=K1JoWmXh4qA&t=58s](https://www.youtube.com/watch?v=K1JoWmXh4qA&t=58s)
+<https://www.youtube.com/watch?v=K1JoWmXh4qA&t=58s>
 
 [Natalia Tepluhina](https://twitter.com/N_Tepluhina) is a member of the Vue Core team and Staff Frontend Engineer at GitLab. In her talk, she shared how she plans to migrate a big old codebase(Gitlab Codebase) to Vue 3 and some of the things she's excited about. In general, she pointed out things to watch out for like mixins and she recommends as a go-to use Stateful components as Functional components can grow performance gains by 2.x. 
 
@@ -63,7 +63,7 @@ Our hosts for the conference were [Maria Lamardo](https://twitter.com/MariaLamar
 
 Tim's talk was one of the best in terms of delivery...he went all out on this one and made us all look like amateurs! His talk covered Vite and Vitepress and it was a good introduction to Vite for me personally I've never used it in a project. I only remember when it was released and it was nice to see how 
 
-[https://www.youtube.com/watch?v=gojCkw5Ih7E](https://www.youtube.com/watch?v=gojCkw5Ih7E)
+<https://www.youtube.com/watch?v=gojCkw5Ih7E>
 
 ### The Exciting New Features for Routing in Vue3; Vue Router 4 by Eduardo San Martin Morote
 
@@ -95,7 +95,7 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 ### Optimizing for Super Sonic Speed in Vue.js & Gridsome by Shopido Ayomide
 
-[https://www.youtube.com/watch?v=U3oYroX1LCQ](https://www.youtube.com/watch?v=U3oYroX1LCQ)
+<https://www.youtube.com/watch?v=U3oYroX1LCQ>
 
 [Shopido Ayomide](https://twitter.com/developerayo) was the first speaker for the day. He's a developer Advocate at Fleek and also Community Organizer. His talk was focused on optimizing speed in Vue & Gridsome. Some takeaways from his talk -
 
@@ -119,7 +119,7 @@ Debbie O'Brien is the head of learning at Nuxt and she shared a new feature in N
 
 ### What you'll love in Vue 3 by Alex Kyriakidis
 
-[https://www.youtube.com/watch?v=vykQhui3tfE](https://www.youtube.com/watch?v=vykQhui3tfE)
+<https://www.youtube.com/watch?v=vykQhui3tfE>
 
 ### The State of Vue 3 featuring Evan You's Announcement
 
@@ -127,7 +127,7 @@ This is one of the sessions we've been waiting for and anticipating to hear what
 
 [Vue 3](https://v3.vuejs.org/guide/introduction.html) **"One Piece"** was released on the 18th day of September at 4:45 pm(WAT) I even got the time right that's to show you how excited I was! You can watch the recording directly. I just want to say I really appreciate the work that went into the release of Vue 3 when Evan shared the journey to Vue 3 and it took 2 years of active development to get this out the door so thank you to every member of the Core Team and Community at large doing the good work of contributing to make Vue the awesome framework that it is. 
 
-[https://www.youtube.com/watch?v=Vp5ANvd88x0&feature=youtu.be](https://www.youtube.com/watch?v=Vp5ANvd88x0&feature=youtu.be)
+<https://www.youtube.com/watch?v=Vp5ANvd88x0&feature=youtu.be>
 
 Following the announcement, there was a live QnA session where some members of the community and Panel got to ask Evan some questions. It was so good and nicely put together.
 
@@ -149,4 +149,4 @@ The conference was very well put together and I had a lot of fun participating i
 
 I'm looking forward to the awesomeness we create next year. Vue Global conference is brought to the community by [Passionate People](https://passionatepeople.io/) - a developer consultancy in Amsterdam which is also where I work(shameless plug 😜).
 
-The videos from the conference will be available on Youtube with some already uploaded and also on the Conference Video Portal so keep an eye on there to catch the talks you missed.
+The videos from the conference will be available on [Youtube](https://www.youtube.com/vuejsamsterdam?sub_confirmation=1) with some already uploaded and also on the Conference Video Portal so keep an eye on there to catch the talks you missed.
