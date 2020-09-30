@@ -107,11 +107,11 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 ### The state of Nuxt by Sebastien Chopin
 
-[Sebastien Chopin](https://twitter.com/Atinux) is the co-author of Nuxt.js. His talk was focused on the state of Nuxt and recent features that were introduced in the recent release Nuxt v2.14 including Full Static Mode, Smart Generate that skips webpack build when there are no code changes. He also shared some stats from this year and a project from the Nuxt team called [Vue Telemtry](https://vuetelemetry.com/) and talked about some changes coming in Nuxt.js v3.0.
+[Sebastien Chopin](https://twitter.com/Atinux) is the co-author of Nuxt.js. His talk was focused on the state of Nuxt and recent features that were introduced in the recent release Nuxt v2.14 including Full Static Mode, Smart Generate that skips webpack build when there are no code changes. He also shared some stats from this year and a project from the Nuxt team called [Vue Telemetry](https://vuetelemetry.com/) and talked about some changes coming in Nuxt.js v3.0.
 
 ### Nuxt.js Architecture by Pooya Parsa
 
-[Pooya Parsa](https://twitter.com/_pi0_) is 
+[Pooya Parsa](https://twitter.com/_pi0_) is the head of framework at Nuxt.js. In his talk, he goes through a deep dive of Nuxt architecture updates and an in-depth look at some of the features coming in Nuxt v3.0 - Typescript Support, updates to Builder 3, multi-app support. He also shared there's ongoing work in creating a guide for migrating from Nuxt 2 to Nuxt 3.
 
 ### Nuxt.js as a headless CMS by Debbie O'Brien
 
