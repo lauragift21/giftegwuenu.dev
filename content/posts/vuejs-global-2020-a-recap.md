@@ -100,7 +100,8 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 <https://www.youtube.com/watch?v=U3oYroX1LCQ>
 
-[Shopido Ayomide](https://twitter.com/developerayo)  was the first speaker for the day. He's a developer Advocate at Fleek and also Community Organizer. His talk focused on optimizing speed in Vue & Gridsome.
+[Shopido Ayomide](https://twitter.com/developerayo)  was the first speaker for the day. He's a developer Advocate at Fleek and also Community Organizer. His talk focused on optimizing speed in Vue & Gridsome. He shared why speed should be treated as a feature and the importance of performance optimization in 
+Vue.js applications.
 
 ### Chakra UI Vue by Jonathan Bakebwa
 
