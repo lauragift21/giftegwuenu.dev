@@ -75,6 +75,8 @@ Tim's talk was one of the best in terms of delivery...he went all out on this on
 
 I was also a speaker at the conference and my talk covered an introduction to Gridsome and the possibilities of what you can achieve with the Jamstack. I showed how you can also extend the functionalities of a Gridsome Application by leveraging the API's it ships with. It was at this point technical difficulties set in and I wasn't able to complete my talk(it was prerecorded and the video was skipping). No worries though, I have a link to [my slides](https://speakerdeck.com/lauragift21/jamstack-ftw-static-site-generation-with-gridsome) and the recording in case you missed it or want to see the full version of the [talk on my channel](https://youtu.be/E3kyCodVVOM).
 
+https://www.youtube.com/watch?v=E3kyCodVVOM
+
 ### Creating a JAM Stack product from scratch by Alex Jover
 
 ![Alex Jover Talk](https://res.cloudinary.com/lauragift/image/upload/v1601465058/Screen_Shot_2020-09-30_at_3.46.57_AM_juuxsy.png)
