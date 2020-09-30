@@ -132,7 +132,7 @@ This was one of the sessions we've been waiting for and anticipating to hear wha
 
 [Vue 3](https://v3.vuejs.org/guide/introduction.html) **"One Piece"** was released on September 18th at 4:45 pm(WAT). I even got the time right; that's to show you how excited I was! You can watch the recording directly. I want to say I appreciate the work that went into the release of Vue 3 when Evan shared the journey to Vue 3. It took two years of active development to get this out the door so thank you to every member of the Core Team and Community doing the excellent work of contributing to make Vue the fantastic framework that it is.
 
-<https://www.youtube.com/watch?v=Vp5ANvd88x0&feature=youtu.be>
+<https://www.youtube.com/watch?v=Vp5ANvd88x0>
 
 Following the announcement, there was a live QnA session where some members of the community and Panel got to ask Evan some questions. It was so good and nicely put together.
 
