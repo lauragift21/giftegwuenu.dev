@@ -101,9 +101,9 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 [Shopido Ayomide](https://twitter.com/developerayo) was the first speaker for the day. He's a developer Advocate at Fleek and also Community Organizer. His talk was focused on optimizing speed in Vue & Gridsome. Some takeaways from his talk -
 
-### Chakra UI by Jonathan Bakebwa
+### Chakra UI Vue by Jonathan Bakebwa
 
-[Jonathan](https://twitter.com/codebender828) is the creator of Chakra UI Vue and his talk he shows us the capabilities of Chakra UI and demoed some popular website he recreated with Chakra UI. I'm a big fan of Chakra UI and love that it's one of my goto UI libraries to use in a project.
+[Jonathan](https://twitter.com/codebender828) is the creator of Chakra UI Vue and UI Engineer at Akkadu. In his talk, he shows us some capabilities of Chakra UI Vue with demos of some popular websites he recreated with Chakra UI Vue. The component library is built from the ground up with accessibility in mind and I'm a big fan of Chakra UI and love that it's a fast-growing component library and one of my goto libraries to use in a project. 
 
 ### The state of Nuxt by Sebastien Chopin
 
