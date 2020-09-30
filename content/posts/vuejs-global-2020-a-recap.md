@@ -115,7 +115,7 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 ### Nuxt.js as a headless CMS by Debbie O'Brien
 
-Debbie O'Brien is the head of learning at Nuxt. She shared one of the new features in Nuxt that I'm excited about [Nuxt Content Module](https://content.nuxtjs.org). 
+[Debbie O'Brien](https://twitter.com/debs_obrien) is the head of learning at Nuxt. She shared one of the new features in Nuxt that I'm excited about [Nuxt Content Module](https://content.nuxtjs.org). 
 She started with an explanation of what a headless CMS is and how Nuxt content works and with a demo showing how to get the Content module up and running.
 
 ### SEO in a Vue.js world by Alexander Lichter
@@ -123,6 +123,7 @@ She started with an explanation of what a headless CMS is and how Nuxt content w
 [Alexander](https://twitter.com/TheAlexLichter) is a Nuxt.js core maintainer and web developer consultant. In his talk, he walks through what SEO is and the importance of optimizing SEO and detailing the three pillars of SEO - on-page, off-page, and technical and shared some tips for improving SEO on Vue.js applications. 
 
 ### What you'll love in Vue 3 by Alex Kyriakidis
+[Alex](https://twitter.com/hootlex) is the founder of Vue School. In his talk, he shares some exciting features we'll love in Vue 3. I enjoyed learning about some features of Vue 3 from Alex as he talked through them with examples - No more Reactivity Caveats in Vue 3, introduced teleports with some use cases, and how composition API will help with logic reuse and flexibility for code organization.  
 
 <https://www.youtube.com/watch?v=vykQhui3tfE>
 
