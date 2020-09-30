@@ -115,9 +115,11 @@ The second day of the conference kicked off with the organizer Jos Gerards welco
 
 ### Nuxt.js as a headless CMS by Debbie O'Brien
 
-Debbie O'Brien is the head of learning at Nuxt and she shared a new feature in Nuxt that I'm excited about Nuxt Content Module
+Debbie O'Brien is the head of learning at Nuxt. She shared one of the new features in Nuxt that I'm excited about [Nuxt Content Module](https://content.nuxtjs.org). 
+She started with an explanation of what a headless CMS is and how Nuxt content works and with a demo showing how to get the Content module up and running.
 
 ### SEO in a Vue.js world by Alexander Lichter
+
 
 ### What you'll love in Vue 3 by Alex Kyriakidis
 
