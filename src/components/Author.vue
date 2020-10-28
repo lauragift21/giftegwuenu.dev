@@ -1,7 +1,7 @@
 <template>
   <p class="author text-xl border-black border-4 rounded p-6 pb-3">
     Hello! 👋
-    I’m Gift, a Frontend Engineer based in Lagos, Nigeria and I'm passionate about making the web accessible to everyone and building communities.
+    I’m Gift, a Frontend Engineer passionate about making the web accessible to everyone and building communities.
     I write content on HTML, CSS, Jamstack, Accessibility, and Career related topics.
     <br>
     <br>

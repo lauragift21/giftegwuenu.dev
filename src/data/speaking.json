@@ -1,13 +1,5 @@
 {
-  "upcoming": [
-    {
-      "id": "1",
-      "title": "Building from Scratch with Nuxt.js",
-      "date": "October, 7 2020",
-      "event": "Jamstack Conf Virtual",
-      "link": "https://jamstackconf.com/virtual/"
-    }
-  ],
+  "upcoming": [],
   "past":  [
     {
       "id": "1",
@@ -71,6 +63,13 @@
       "date": "September, 17 - 18 2020",
       "event": "Vuejs Global",
       "link": "https://www.vuejs.amsterdam/"
+    },
+    {
+      "id": "10",
+      "title": "Building from Scratch with Nuxt.js",
+      "date": "October, 7 2020",
+      "event": "Jamstack Conf Virtual",
+      "link": "https://jamstackconf.com/virtual/"
     }
   ],
   "interviews": [
