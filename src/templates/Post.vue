@@ -93,7 +93,7 @@ export default {
     getImage() {
       const socialImage = getShareImage({
         title: this.$page.post.title,
-        tagline: 'giftegwuenu.com',
+        tagline: 'giftegwuenu.dev',
         cloudName: 'lauragift',
         imagePublicID: 'social_cards_x3icte',
         titleFont: 'futura',
