@@ -1,5 +1,13 @@
 {
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "1",
+      "title": "Jamstack FTW: Static Site Generation with Gridsome",
+      "date": "November, 23 2020",
+      "event": "3 Hours of Jamstack Conference",
+      "link": "https://nimbella.com/webinars/3-hours-of-jamstack-conference/"
+    }
+  ],
   "past":  [
     {
       "id": "1",
