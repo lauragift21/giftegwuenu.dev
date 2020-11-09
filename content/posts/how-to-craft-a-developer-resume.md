@@ -18,7 +18,7 @@ https://www.youtube.com/embed/akNtVGUUBAw
 
 [0:00](https://www.youtube.com/watch?v=akNtVGUUBAw&t=0s) Intro 
 
-[1:28](https://www.youtube.com/watch?v=akNtVGUUBAw&t=88s) Why you need a great resume 
+[1:28](https://www.youtube.com/watch?v=akNtVGUUBAw&t=88s) Why you need a great resume?
 
 [2:11](https://www.youtube.com/watch?v=akNtVGUUBAw&t=131s) Tools for creating a Resume [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s)
 
