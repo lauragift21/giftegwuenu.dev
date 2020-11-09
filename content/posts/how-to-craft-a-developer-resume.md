@@ -22,7 +22,7 @@ https://www.youtube.com/embed/akNtVGUUBAw
 
 [2:11](https://www.youtube.com/watch?v=akNtVGUUBAw&t=131s) Tools for creating a Resume [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s)
 
-[4:50](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s) Key sections to include in your Resume 
+[4:50](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s) Key sections to include in your resume 
 
 [14:17](https://www.youtube.com/watch?v=akNtVGUUBAw&t=857s) Tips for creating a resume that stands out 
 
