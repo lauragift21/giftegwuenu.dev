@@ -20,7 +20,7 @@ https://www.youtube.com/embed/akNtVGUUBAw
 
 [1:28](https://www.youtube.com/watch?v=akNtVGUUBAw&t=88s) Why you need a great resume?
 
-[2:11](https://www.youtube.com/watch?v=akNtVGUUBAw&t=131s) Tools for creating a Resume [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s)
+[2:11](https://www.youtube.com/watch?v=akNtVGUUBAw&t=131s) Tools for creating a Resume)
 
 [4:50](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s) Key sections to include in your resume 
 
