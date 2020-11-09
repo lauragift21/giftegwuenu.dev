@@ -13,3 +13,21 @@ description: Do you want to stand out in your job applications, show the
 Do you want to stand out in your job applications, show the recruiter at one glance your abilities and strength? This video will give you tips and ideas for creating a great tech resume that you can be sure will make you stand out in the pool of job applications.
 
 https://www.youtube.com/embed/akNtVGUUBAw
+
+🌱 Timestamps [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=0s)
+
+[0:00](https://www.youtube.com/watch?v=akNtVGUUBAw&t=0s) Intro 
+
+[1:28](https://www.youtube.com/watch?v=akNtVGUUBAw&t=88s) Why you need a great resume 
+
+[2:11](https://www.youtube.com/watch?v=akNtVGUUBAw&t=131s) Tools for creating a Resume [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s)
+
+[4:50](https://www.youtube.com/watch?v=akNtVGUUBAw&t=290s) Key sections to include in your Resume 
+
+[14:17](https://www.youtube.com/watch?v=akNtVGUUBAw&t=857s) Tips for creating a resume that stands out 
+
+[20:18](https://www.youtube.com/watch?v=akNtVGUUBAw&t=1218s) Outro & Subscribe ❤️ 
+
+[Canva Resume Demo]([](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAEMua0hkjY%2FRIdjaLf20fj3FiPKApSVHg%2Fview%3Futm_content%3DDAEMua0hkjY%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dpublishsharelink&v=akNtVGUUBAw&event=video_description&redir_token=QUFFLUhqazBrdGNQWUFQeGMtMlFiZ2I4WTVMYnhJNFZhQXxBQ3Jtc0trdWx6MmZ1RWhqNng0aHRXUDlueFRIQWRvbmxrRmYySWktUDlBcUwzNkpRWExXbVBhUTVWSEt6dlJtVlBYWG1PUjFmeGRsM08yUmtLeEc2YlVxdlYxcEhmdWNzSFFXbUhmVzROVHZtT25xc3FsUTNxVQ%3D%3D)https://www.canva.com/design/DAEMua0hkjY/RIdjaLf20fj3FiPKApSVHg/view?utm_content=DAEMua0hkjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+Hope you enjoy the video :)
