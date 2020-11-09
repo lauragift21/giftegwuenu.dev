@@ -14,7 +14,7 @@ Do you want to stand out in your job applications, show the recruiter at one gla
 
 https://www.youtube.com/embed/akNtVGUUBAw
 
-🌱 Timestamps [](https://www.youtube.com/watch?v=akNtVGUUBAw&t=0s)
+🌱 Timestamps
 
 [0:00](https://www.youtube.com/watch?v=akNtVGUUBAw&t=0s) Intro 
 
@@ -28,6 +28,6 @@ https://www.youtube.com/embed/akNtVGUUBAw
 
 [20:18](https://www.youtube.com/watch?v=akNtVGUUBAw&t=1218s) Outro & Subscribe ❤️ 
 
-[Canva Resume Demo]([](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAEMua0hkjY%2FRIdjaLf20fj3FiPKApSVHg%2Fview%3Futm_content%3DDAEMua0hkjY%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dpublishsharelink&v=akNtVGUUBAw&event=video_description&redir_token=QUFFLUhqazBrdGNQWUFQeGMtMlFiZ2I4WTVMYnhJNFZhQXxBQ3Jtc0trdWx6MmZ1RWhqNng0aHRXUDlueFRIQWRvbmxrRmYySWktUDlBcUwzNkpRWExXbVBhUTVWSEt6dlJtVlBYWG1PUjFmeGRsM08yUmtLeEc2YlVxdlYxcEhmdWNzSFFXbUhmVzROVHZtT25xc3FsUTNxVQ%3D%3D)https://www.canva.com/design/DAEMua0hkjY/RIdjaLf20fj3FiPKApSVHg/view?utm_content=DAEMua0hkjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Canva Resume Demo](https://www.canva.com/design/DAEMua0hkjY/RIdjaLf20fj3FiPKApSVHg/view?utm_content=DAEMua0hkjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Hope you enjoy the video :)
