@@ -38,6 +38,7 @@
         <a href="https://www.buymeacoffee.com/lauragift"
           ><img
             src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lauragift&button_colour=e2216a&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"
+            alt="Buy me a Coffee Button"
         /></a>
       </div>
       <p class="font-bold text-lg col-end-3">
