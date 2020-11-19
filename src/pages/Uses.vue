@@ -47,9 +47,11 @@
         </ul>
         <h2 class="text-3xl my-4">Desk Setup 👩‍💻💻</h2>
         <ul class="text-xl">
-          <li>MacBook Pro 13" 2019 with macOS Mojave</li>
+          <li>MacBook Pro 16" 2019 16GB RAM 516GB Storage</li>
           <li>Samsung 27" LED Monitor with Eye saver mode</li>
           <li>Bose Soundlink Micro Speaker</li>
+          <li>Logitech MX Keys Advanced Wireless Illuminated Keyboard</li>
+          <li>Apple Magic Trackpad 2</li>
         </ul>
       </div>
     </div>
