@@ -1,0 +1,11 @@
+[[redirects]]
+from = "https://giftegwuenu.dev"
+to = "https://www.giftegwuenu.dev"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://giftegwuenu.com"
+to = "https://www.giftegwuenu.dev"
+status = 301
+force = true
