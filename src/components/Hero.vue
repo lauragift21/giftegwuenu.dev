@@ -28,8 +28,8 @@
         </abbr>
       </div>
     </div>
-    <div class="profile mt-32 sm:mt-6 sm:px-12 md:mx-auto xs:px-6 xs:mx-auto -mx-10">
-      <g-image src="../assets/img/giftegwuenu.svg" class="rounded-full bio" alt="Gift's headshot" />
+    <div class="profile mt-24 sm:mt-6 sm:px-12 md:mx-auto xs:px-6 xs:mx-auto">
+      <g-image src="../assets/img/gift_transparent.svg" class="rounded-full bio" alt="Gift's headshot" />
     </div>
   </section>
 </template>
@@ -52,6 +52,6 @@ h1 {
 }
 
 .bio {
-  border: 4px dotted #fa709a;
+  border: 8px dotted #fa709a;
 }
 </style>
