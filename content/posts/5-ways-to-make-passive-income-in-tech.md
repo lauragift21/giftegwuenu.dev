@@ -5,19 +5,15 @@ published: true
 tags:
   - career
 canonical_url: true
-description: "Many developers work a 9-5 and that's great! I do too :) But are
-  you aware you can consistently make passive income by investing some time
-  outside of your 9-5 and in a long run this will help you in many different
-  ways and not just making you extra income. You ask how?  don't worry I'll
-  spill all the tea in the video. "
+description: Many developers work a 9-5 and that's great! But are you aware you
+  can consistently make passive income by investing some time outside of your
+  full-time job?
 ---
-Many developers work a 9-5 and that's great! I do too :) But are you aware you can consistently make passive income by investing some time outside of your full-time job. In this video, I'll share proven ways of making a side income as a developer and tips on how to go about it.
+Many developers work a 9-5 and that's great! I do too :) But are you aware you can consistently make passive income by investing some time outside of your full-time job? In this video, I'll share proven ways of making a side income as a developer and tips on how to go about it.
 
 https://www.youtube.com/embed/tQBh53KmxRU
 
-
-
-### ⏰⌛️ Video Timestamps 
+### ⏰⌛️ Video Timestamps
 
 [0:00](https://www.youtube.com/watch?v=tQBh53KmxRU&t=0s) Intro [](https://www.youtube.com/watch?v=tQBh53KmxRU&t=13s)
 
@@ -35,9 +31,7 @@ https://www.youtube.com/embed/tQBh53KmxRU
 
 [12:20](https://www.youtube.com/watch?v=tQBh53KmxRU&t=740s) Outro & Subscribe 
 
-
-
-### 🔗 Links Mentioned 
+### 🔗 Links Mentioned
 
 [Web Monetization with Coil](https://coil.com) [](https://www.youtube.com/redirect?q=https%3A%2F%2Fcoil.com&v=tQBh53KmxRU&redir_token=QUFFLUhqbnhfd3BPZC01a25wWTdRU1BvVWVrYVVLellrZ3xBQ3Jtc0tua2RhRGV3T3FZU2lPZEJ2MG1kY0ttMDlWUG1wV0k3dVEyYkZZLWltcnhuYUd2N3lTZ2hNLWw5Qi1kM2lGR0JmYXpLLWppRVZFZ0ZiS1o4b0hhZXVieXBwRk5SRVRpXzBjdnlkQ2dCU2h3V0dxYXJITQ%3D%3D&event=video_description)
 
