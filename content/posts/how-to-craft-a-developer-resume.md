@@ -28,6 +28,8 @@ https://www.youtube.com/embed/akNtVGUUBAw
 
 [20:18](https://www.youtube.com/watch?v=akNtVGUUBAw&t=1218s) Outro & Subscribe ❤️ 
 
-[Canva Resume Demo](https://www.canva.com/design/DAEMua0hkjY/RIdjaLf20fj3FiPKApSVHg/view?utm_content=DAEMua0hkjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[Canva Resume Demo](https://www.canva.com/design/DAEMua0hkjY/RIdjaLf20fj3FiPKApSVHg/view?utm_content=DAEMua0hkjY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)\
+\
+[Want to create a Resume now? Here's how to](https://www.canva.com/tools/resume-maker-v1/?irgwc=1&utm_medium=affiliate&utm_source=Gift%20Egwuenu&clickId=2ckw13zt9xyLTq6wUx0Mo3EHUkE1iUTaly9Iyo0)
 
-Hope you enjoy the video :)
+[](https://www.canva.com/tools/resume-maker-v1/?irgwc=1&utm_medium=affiliate&utm_source=Gift%20Egwuenu&clickId=2ckw13zt9xyLTq6wUx0Mo3EHUkE1iUTaly9Iyo0)Hope you enjoy the video :)
