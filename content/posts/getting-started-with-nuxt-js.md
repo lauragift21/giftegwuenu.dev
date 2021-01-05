@@ -49,7 +49,7 @@ There are other commands available to either build the app, lint the entire proj
 
 ![Scripts in Package.json](https://paper-attachments.dropbox.com/s_BDD8AA2B53B55AB1F1B87CE74B7807DCCD281A9D9FD24A74BA7C2D19CE99E369_1558346591401_Screen+Shot+2019-05-20+at+11.01.15+AM.png)
 
-After running the command to start the app, If we navigate to  [http://localhost:3000](http://localhost:3000/), you should now be able to see our application running on the screen like the one below.
+After running the command to start the app, If we navigate to  [http://localhost:3000](localhost:3000), you should now be able to see our application running on the screen like the one below.
 
 ![](https://paper-attachments.dropbox.com/s_BDD8AA2B53B55AB1F1B87CE74B7807DCCD281A9D9FD24A74BA7C2D19CE99E369_1558367809325_Screen+Shot+2019-05-20+at+4.56.09+PM.png)
 
