@@ -6,10 +6,14 @@
     <p
       class="text-2xl font-medium pt-0 w-11/12 mt-6 sm:mt-1 sm:text-center leading-loose sm:pt-5 sm:mx-auto"
     >
-      Gift Egwuenu is a front-end developer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
-      She loves sharing her knowledge with others, and she does that through content creation on her blog and YouTube channel. 
-      She's a Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. 
-      When she's not coding, you can find me geeking about photography and exploring different ways of creating content that can help people pivot their tech careers.
+      Gift Egwuenu is a front-end developer passionate about making the web
+      accessible to everyone and advocating building open and inclusive
+      developer communities. She loves sharing her knowledge and does that
+      through content creation on her blog and YouTube channel. She's a Media
+      Developer Expert at Cloudinary, an Auth0 Ambassador, and a Nuxt.js
+      Ambassador. When she's not coding, you can find me geeking about
+      photography, trying new food recipes, and exploring different ways of
+      creating content that can help people pivot their tech careers.
     </p>
   </section>
 </template>

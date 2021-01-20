@@ -1,5 +1,20 @@
 {
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "1",
+      "title": "Going Beyond Static Sites (Panel)",
+      "date": "January, 28 2021",
+      "event": "The Jam.dev Conference",
+      "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
+    },
+    {
+      "id": "2",
+      "title": "Tech Snacks: JSWorld Edition",
+      "date": "Febuary, 22 - 27 2021",
+      "event": "JSWorld Conference",
+      "link": "https://frontenddeveloperlove.com/program#d-1-s-9"
+    }
+  ],
   "past":  [
     {
       "id": "1",
