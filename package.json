@@ -15,6 +15,7 @@
     "@noxify/gridsome-plugin-remark-embed": "^1.1.4",
     "gridsome": "^0.7.0",
     "gridsome-plugin-monetization": "^1.0.1",
+    "gridsome-plugin-plausible-analytics": "^1.0.0",
     "gridsome-plugin-remark-prismjs-all": "^0.3.5",
     "gridsome-plugin-rss": "^1.2.0",
     "tailwindcss": "^1.4.6",

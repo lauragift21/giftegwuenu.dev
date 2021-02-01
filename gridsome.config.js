@@ -59,11 +59,18 @@ module.exports = {
         },
       },
     },
+    // {
+    //   use: "@gridsome/plugin-google-analytics",
+    //   options: {
+    //     id: "UA-102896008-2",
+    //   },
+    // },
     {
-      use: "@gridsome/plugin-google-analytics",
+      use: 'gridsome-plugin-plausible-analytics',
       options: {
-        id: "UA-102896008-2",
-      },
+        dataDomain: 'giftegwuenu.dev',
+        outboundLinkTracking: false
+      }
     },
     {
       use: "gridsome-plugin-rss",
