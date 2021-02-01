@@ -2,13 +2,6 @@
   "upcoming": [
     {
       "id": "1",
-      "title": "Going Beyond Static Sites (Panel)",
-      "date": "January, 28 2021",
-      "event": "The Jam.dev Conference",
-      "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
-    },
-    {
-      "id": "2",
       "title": "Tech Snacks: JSWorld Edition",
       "date": "Febuary, 22 - 27 2021",
       "event": "JSWorld Conference",
@@ -92,6 +85,13 @@
       "date": "November, 23 2020",
       "event": "3 Hours of Jamstack Conference",
       "link": "https://nimbella.com/webinars/3-hours-of-jamstack-conference/"
+    },
+    {
+      "id": "12",
+      "title": "Going Beyond Static Sites (Panel)",
+      "date": "January, 28 2021",
+      "event": "The Jam.dev Conference",
+      "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
     }
   ],
   "interviews": [
