@@ -10,7 +10,7 @@
       accessible to everyone and advocating building open and inclusive
       developer communities. She loves sharing her knowledge and does that
       through content creation on her blog and YouTube channel. She's a Media
-      Developer Expert at Cloudinary, an Auth0 Ambassador, and a Nuxt.js
+      Developer Expert at Cloudinary, Microsoft MVP, an Auth0 Ambassador, and a Nuxt.js
       Ambassador. When she's not coding, you can find me geeking about
       photography, trying new food recipes, and exploring different ways of
       creating content that can help people pivot their tech careers.
