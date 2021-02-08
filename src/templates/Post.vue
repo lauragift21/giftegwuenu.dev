@@ -82,7 +82,7 @@ export default {
         { property: "og:updated_time", content: this.$page.post.date },
       ],
       link: [
-        { rel: 'canonical', href: `https://giftegwuenu.com${this.$page.post.path}`}
+        { rel: 'canonical', href: `https://giftegwuenu.dev/${this.$page.post.path}`}
       ]
     };
   },
