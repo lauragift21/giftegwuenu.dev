@@ -31,6 +31,8 @@ Buddy offers the following benefits:
 * Integration with GitHub, GitLab, and BitBucket out of the box.
 * Builds are run in isolated containers with cached dependencies.
 * 5-minute setup of the complete environment.
+
+
   ![Demo of Buddy Workflow](https://paper-attachments.dropbox.com/s_E2A5020A16692F11AD6D6D1650A197ED486465DEE7728C5E82E095B4FBB8B03E_1566143344179_3w9Yy6a00q.gif)
 
 ## What is Travis CI?
@@ -48,7 +50,6 @@ Travis CI has support for container builds, and also supports Linux Ubuntu and M
 * Bundled with support for 20 different languages out of the box, including Javascript and Node.js, Ruby, PHP, Python, Mac/iOS, as well as Docker.
 * Different Platform support- Pre-installed database services and can simply be enabled in your build configuration, MySQL, PostgreSQL, ElasticSearch, Redis, Memcached, etc.
 * Supports automatic deployment for passing builds.
-
 
   ![Demo of Travis CI Workflow](https://paper-attachments.dropbox.com/s_E2A5020A16692F11AD6D6D1650A197ED486465DEE7728C5E82E095B4FBB8B03E_1566143106882_J0bzM1uvQ8.gif)
 
