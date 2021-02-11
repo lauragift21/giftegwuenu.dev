@@ -3,7 +3,7 @@ title: "Buddy vs. Travis CI: A Detailed Comparison"
 date: 2021-02-11T11:57:52.397Z
 published: true
 tags:
-  - guest-post
+  - guestpost
   - CI-CD
 canonical_url: true
 description: I wrote an article for The Devops Corner comparing features of
