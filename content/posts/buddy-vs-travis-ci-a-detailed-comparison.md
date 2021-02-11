@@ -11,7 +11,6 @@ description: I wrote an article for The Devops Corner comparing features of
 ---
 > [Continuous Integration(CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Deployment(CD](https://en.wikipedia.org/wiki/Continuous_deployment)) are both software development techniques mainly used in modern development practices. The concept of CI is a process that involves the practice of merging all developers' working branches on a shared repository several times a day. Each branch goes through an automated build check which in turn runs tests to ensure no errors are found before merging. The main goal of CI is to prevent integration problems, referred to as "integration hell" in its early adoption. On the other hand,  Continuous Deployment is closely related to Continuous Integration and refers to a software engineering approach in which software functionalities are delivered frequently through automated deployments.
 
-
 In this post, we’ll take a look at two of the most popular CI/CD tools and outline the features of both, and also get to know each of them better. Let’s get right into it, shall we?
 
 ## What is Buddy?
@@ -34,7 +33,6 @@ Buddy offers the following benefits:
 * Builds are run in isolated containers with cached dependencies.
 * 5-minute setup of the complete environment.
 
-
   ![Demo of Buddy Workflow](https://paper-attachments.dropbox.com/s_E2A5020A16692F11AD6D6D1650A197ED486465DEE7728C5E82E095B4FBB8B03E_1566143344179_3w9Yy6a00q.gif)
 
 ## What is Travis CI?
@@ -52,6 +50,8 @@ Travis CI has support for container builds, and also supports Linux Ubuntu and M
 * Bundled with support for 20 different languages out of the box, including Javascript and Node.js, Ruby, PHP, Python, Mac/iOS, as well as Docker.
 * Different Platform support- Pre-installed database services and can simply be enabled in your build configuration, MySQL, PostgreSQL, ElasticSearch, Redis, Memcached, etc.
 * Supports automatic deployment for passing builds.
+
+
 
   ![Demo of Travis CI Workflow](https://paper-attachments.dropbox.com/s_E2A5020A16692F11AD6D6D1650A197ED486465DEE7728C5E82E095B4FBB8B03E_1566143106882_J0bzM1uvQ8.gif)
 
