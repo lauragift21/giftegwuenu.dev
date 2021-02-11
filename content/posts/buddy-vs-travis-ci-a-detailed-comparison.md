@@ -41,7 +41,7 @@ Travis CI is a hosted continuous integration service that is free for open-sourc
 
 ![](https://paper-attachments.dropbox.com/s_E2A5020A16692F11AD6D6D1650A197ED486465DEE7728C5E82E095B4FBB8B03E_1565680945160_Screen+Shot+2019-08-13+at+8.22.09+AM.png)
 
-Travis CI has support for container builds, and also supports Linux Ubuntu and Mac OS platforms as well as have support for other different programming languages, such as JavaScript, Ruby, PHP, Java, C# and a lot more.
+Travis CI has support for container builds, and also supports Linux Ubuntu and Mac OS platforms as well as have support for other different programming languages, such as JavaScript, Ruby, PHP, Java, C#, and a lot more.
 
 ## Key Features
 
