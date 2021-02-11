@@ -10,7 +10,9 @@ description: I wrote an article for The Devops Corner comparing features of
   BuddyCI and TravisCI.
 ---
 > [Continuous Integration(CI)](https://en.wikipedia.org/wiki/Continuous_integration) and [Continuous Deployment(CD](https://en.wikipedia.org/wiki/Continuous_deployment)) are both software development techniques mainly used in modern development practices. The concept of CI is a process that involves the practice of merging all developers' working branches on a shared repository several times a day. Each branch goes through an automated build check which in turn runs tests to ensure no errors are found before merging. The main goal of CI is to prevent integration problems, referred to as "integration hell" in its early adoption. On the other hand,  Continuous Deployment is closely related to Continuous Integration and refers to a software engineering approach in which software functionalities are delivered frequently through automated deployments.
-> In this post, we’ll take a look at two of the most popular CI/CD tools and outline the features of both, and also get to know each of them better. Let’s get right into it, shall we?
+
+
+In this post, we’ll take a look at two of the most popular CI/CD tools and outline the features of both, and also get to know each of them better. Let’s get right into it, shall we?
 
 ## What is Buddy?
 
