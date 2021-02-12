@@ -1,10 +1,10 @@
 const tailwindcss = require("tailwindcss");
 
 module.exports = {
-  siteName: "Gift Egwuenu | Frontend Engineer",
+  siteName: "Gift Egwuenu",
   siteUrl: "https://giftegwuenu.com",
   siteDescription:
-    "Gift Egwuenu's Personal Website. She's a Frontend Developer & Hobbyist Photographer and she's passionate about making the web accessible to everyone.",
+    "Gift Egwuenu is a frontend developer and content creator. Her blog features content on frontend development, accessibility, and tech career advice.",
   icon: {
     favicon: "./src/favicon.png",
   },
@@ -76,10 +76,11 @@ module.exports = {
       use: "gridsome-plugin-rss",
       options: {
         contentTypeName: "Post",
+        latest: true,
         feedOptions: {
           title: "Gift Egwuenu",
           description:
-            "A blog on frontend development, technical career and soft skills. Written by Gift Egwuenu, Front-end Developer",
+            "A blog on frontend development, technical career and soft skills. Written by Gift Egwuenu",
           feed_url: "https://giftegwuenu.com/rss.xml",
           site_url: "https://giftegwuenu.com",
         },
@@ -88,6 +89,14 @@ module.exports = {
           date: node.date,
           url: "https://giftegwuenu.com" + node.path,
           description: node.description,
+          custom_elements: [
+            {
+              "content:encoded": {
+                _cdata: node.content
+              }
+            }
+          ]
+
         }),
         output: {
           dir: "./static",
