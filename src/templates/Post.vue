@@ -3,10 +3,12 @@
     <div class="mx-auto">
       <div class="text-center mx-auto" id="main"> 
         <h1 class="text-4xl sm:text-2xl md:text-4xl font-semibold">{{ $page.post.title }}</h1>
-        <!-- TODO: quick pass of implementing digital garden -->
-        <span class="text-lg font-bold">{{ $page.post.date }}</span>
-        <PostTags :post="$page.post"/>
+        <span class="text-lg font-bold mr-2">{{ $page.post.date }}</span>
+        <span class="text-2xl font-bold mr-2">.</span>
+        <span class="text-2xl font-bold mr-1">⏱</span>
+        <span class="text-lg font-bold">{{ $page.post.timeToRead }} mins read</span>
       </div>
+      <PostTags :post="$page.post"/>
       <div class="mx-auto w-2/3 sm:mx-auto sm:w-10/12 md:mx-auto md:w-11/12 xs:mx-auto">
         <p class="lead" v-html="$page.post.excerpt"/>
         <div class="markdown" v-html="$page.post.content"/>
@@ -43,14 +45,12 @@ query Post ($path: String!) {
 
 <script>
 import getShareImage from '@jlengstorf/get-share-image';
-import PostMeta from "~/components/PostMeta";
 import PostTags from "~/components/PostTags";
 import Newsletter from "~/components/Newsletter.vue";
 import Author from "~/components/Author.vue";
 import CarbonAds from "~/components/CarbonAds.vue";
 export default {
   components: {
-    PostMeta,
     PostTags,
     Newsletter,
     Author,

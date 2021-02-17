@@ -12,7 +12,7 @@ export default {
     document.getElementById('newsletter').appendChild(newsletterScript)
   },
   metaInfo() {
-    script: [
+    [
       { src: 'https://sunny-maker-3173.ck.page/473ee130c5/index.js', body: true }
     ]
   }
