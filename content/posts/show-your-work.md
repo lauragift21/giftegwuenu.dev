@@ -30,9 +30,9 @@ Once a day, share some part of your work it might be unfinished yes, remember th
 
 > "Put yourself and your work out there every day and you'll start meeting some amazing people." — Bobby Solomon
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5100.heic](/images/uploads/img_5100.png)
+![Share something small every day](/images/uploads/img_5100.png)
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5099.heic](/images/uploads/img_5099.png)
+![Share something small every day](/images/uploads/img_5099.png)
 
 The format for sharing doesn't matter, we have many different platforms like Twitter, Instagram, YouTube for showing our work. It's also important to have a domain on the internet where we own our own content and it's great for your brand.
 
@@ -42,7 +42,7 @@ The format for sharing doesn't matter, we have many different platforms like Twi
 
 **Don't be a hoarder.** Be open to sharing your process as well as where you get your inspiration and ideas from. The people you follow are interested in learning how you come up with all that you do and seeing as creatives it is evident we collect inspiration from different sources we should be open to sharing that too. Also remember, attribution is very important and we should attribute when necessary. How do you know when to do that I love this sketch flow that shows exactly how.
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5102.heic](/images/uploads/img_5102.png)
+![Open up your cabinet of curiosities](/images/uploads/img_5102.png)
 
 ### Tell good stories
 
@@ -60,7 +60,7 @@ By teaching people what you've learned you get to solidify that knowledge more g
 
 Sharing what you do online is great until you start overdoing it and only open to promoting your work without promoting or reading other people's work. It's always good to know when you're turning into spam. The people you're trying to reach care about your work the moment you make it all about yourself they sense it and can stop supporting or patronizing you.
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5110.heic](/images/uploads/img_5110.png)
+![Don’t turn into human spam](/images/uploads/img_5110.png)
 
 **Be open and genuine,** don't focus on the follower count or how many subscribers you have let that be organic and remember people connect with you because they enjoy your work don't make them think you're just after the numbers or popularity.
 
@@ -72,7 +72,7 @@ Be ready to take a punch. When you share your work publicly be ready for the goo
 
 It's okay to **charge for the value you create**. Many people are made to believe as content creators we all should be doing free work. It's okay to start putting out work for free but the moment you feel it's time to start charging them don't feel guilty about it. We put in all the work and effort and we also have bills piling upright so that's certainly a valid reason to charge for your work. 
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5112.heic](/images/uploads/img_5112.png)
+![Sell out](/images/uploads/img_5112.png)
 
 Remember to **pay it forward** too when you are successful be open to pivoting other voices so they also can make it to where you are. 
 
@@ -80,7 +80,7 @@ Remember to **pay it forward** too when you are successful be open to pivoting o
 
 It's not always going to be rosy. we can either feel success from all the work we've done or feel like absolute failures but it helps to think of this as a journey. The road to success isn't going to be smooth at all times and keeping at what we do regardless of the outcome should be something we always hold on to. 
 
-![Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/IMG_5113.heic](/images/uploads/img_5113.png)
+![Stick Around](/images/uploads/img_5113.png)
 
 Of course, it's easier said than done when you feel you need to quit, take a break instead and continue when you feel alright to start again not start all over from scratch. it's hard to start over because our work still exists and all the knowledge gained from previous work still remains with us.
 
