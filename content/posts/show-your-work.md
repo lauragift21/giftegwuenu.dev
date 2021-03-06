@@ -34,9 +34,9 @@ Once a day, share some part of your work it might be unfinished yes, remember th
 
 > "Put yourself and your work out there every day and you'll start meeting some amazing people." — Bobby Solomon
 
-![Share something small every day](/images/uploads/img_5100.png)
+![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_780/v1615016353/IMG_5100_ohnzp8.png)
 
-![Share something small every day](/images/uploads/img_5099.png)
+![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_506/v1615016354/IMG_5099_oomuf3.png)
 
 The format for sharing doesn't matter, we have many different platforms like Twitter, Instagram, YouTube for showing our work. It's also important to have a domain on the internet where we own our own content and it's great for your brand.
 
@@ -46,7 +46,7 @@ The format for sharing doesn't matter, we have many different platforms like Twi
 
 **Don't be a hoarder.** Be open to sharing your process as well as where you get your inspiration and ideas from. The people you follow are interested in learning how you come up with all that you do and seeing as creatives it is evident we collect inspiration from different sources we should be open to sharing that too. Also remember, attribution is very important and we should attribute when necessary. How do you know when to do that I love this sketch flow that shows exactly how.
 
-![Open up your cabinet of curiosities](/images/uploads/img_5102.png)
+![Open up your cabinet of curiosities](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_489/v1615016349/IMG_5102_sq3q52.png)
 
 ### Tell good stories
 
