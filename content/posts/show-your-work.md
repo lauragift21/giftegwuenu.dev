@@ -10,21 +10,21 @@ description: A review of Show Your Work by Austin Kleon.
 ---
 What do you mean by **"Show your work!"?** This is what my brain tells me the first time I stumbled upon this book. I already do that no? I think I already do but I was so sure I will take out more from reading this book and I was not wrong. After reading lots of reviews on GoodReads I decided to get a copy and see what I'm doing wrong or need to start doing. In this article, I'll share the insights I learned from reading Austin Kleon's: **Show Your Work!**
 
-![Hardcover of Show Your Work By Austin Kleon](/images/uploads/00-show-cover-500x333.jpg "Hardcover of Show Your Work By Austin Kleon")
+![Hardcover of Show Your Work By Austin Kleon](https://res.cloudinary.com/lauragift/image/upload/v1615016326/00-show-cover-500x333_sqyagk.jpg "Hardcover of Show Your Work By Austin Kleon")
 
 ### You don’t have to be a genius
 
-The first chapter starts with this very statement we always shy away from when thinking of putting our work out in the world. I personally have this problem when I think I'm not a genius so I shouldn't be talking or sharing about a specific topic and I'm certain a lot of us feel that way too. In this chapter, Austin proves that is not a good yardstick for measuring what work we should put out. 
+The first chapter starts with this very statement we always shy away from when thinking of putting our work out in the world. I personally have this problem when I think I'm not a genius so I shouldn't be talking or sharing about a specific topic and I'm certain a lot of us feel that way too. In this chapter, Austin proves that is not a good yardstick for measuring what work we should put out.
 
 We should all be **Amateurs** because amateurs are willing to try different things, learn in public and share all the knowledge, rinse and repeat without the burden of thinking we have to be an expert.
 
 ### Think process, not product
 
-I like this statement so much! He's calling on us to start thinking of our work as a process and not a product. I can decide to create a book, course, tool, or even a library in private and come back with the finished product this is how a lot of artists, creators think. 
+I like this statement so much! He's calling on us to start thinking of our work as a process and not a product. I can decide to create a book, course, tool, or even a library in private and come back with the finished product this is how a lot of artists and creators think.
 
-This idea is different it's calling on us to sharing all the process, behind the scenes of creating. You might think this is not a great idea may be because your process is messy and not streamlined for anyone to understand. Share it anyway!
+This idea is different it's calling on us to share all the process behind the scenes of creating our work. You might think this is not a great idea may be because your process is messy and not streamlined for anyone to understand. Share it anyway!
 
-![Think Process, Not Product](/images/uploads/01-think-process-500x333.jpg "Think Process, Not Product")
+![Think Process, Not Product](https://res.cloudinary.com/lauragift/image/upload/v1615016326/01-think-process-500x333_yxtttb.jpg "Think Process, Not Product")
 
 People want to see how we create the things we create, from ideation to result and it's important to make them part of the journey to the product. You can think of it as a way of documenting your work out in the open.
 
@@ -34,9 +34,7 @@ Once a day, share some part of your work it might be unfinished yes, remember th
 
 > "Put yourself and your work out there every day and you'll start meeting some amazing people." — Bobby Solomon
 
-![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_315/v1615016353/IMG_5100_ohnzp8.png)
-
-![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:best,w_350/v1615016354/IMG_5099_oomuf3.png)
+![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/v1615025452/AD3AFAEA-FC37-43A0-9144-7C30583D72F2_oytmmw.jpg)
 
 The format for sharing doesn't matter, we have many different platforms like Twitter, Instagram, YouTube for showing our work. It's also important to have a domain on the internet where we own our own content and it's great for your brand.
 
