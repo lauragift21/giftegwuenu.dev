@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <div class="layout px-4">
     <a class="skip" href="#main" >Skip to Content</a>
     <Nav />
     <slot />
