@@ -84,7 +84,7 @@ Remember to **pay it forward** too when you are successful be open to pivoting o
 
 It's not always going to be rosy. we can either feel success from all the work we've done or feel like absolute failures but it helps to think of this as a journey. The road to success isn't going to be smooth at all times and keeping at what we do regardless of the outcome should be something we always hold on to. 
 
-![Stick Around](/images/uploads/img_5113.png)
+![Stick Around](https://res.cloudinary.com/lauragift/image/upload/q_auto:low/v1615016359/IMG_5113_hyaebe.png)
 
 Of course, it's easier said than done when you feel you need to quit, take a break instead and continue when you feel alright to start again not start all over from scratch. it's hard to start over because our work still exists and all the knowledge gained from previous work still remains with us.
 
