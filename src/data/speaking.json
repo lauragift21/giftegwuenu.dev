@@ -1,13 +1,5 @@
 {
-  "upcoming": [
-    {
-      "id": "1",
-      "title": "Tech Snacks: JSWorld Edition",
-      "date": "Febuary, 22 - 27 2021",
-      "event": "JSWorld Conference",
-      "link": "https://frontenddeveloperlove.com/program#d-1-s-9"
-    }
-  ],
+  "upcoming": [],
   "past":  [
     {
       "id": "1",
@@ -92,6 +84,13 @@
       "date": "January, 28 2021",
       "event": "The Jam.dev Conference",
       "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
+    },
+    {
+      "id": "13",
+      "title": "Tech Snacks: JSWorld Edition",
+      "date": "Febuary, 22 - 27 2021",
+      "event": "JSWorld Conference",
+      "link": "https://frontenddeveloperlove.com/program#d-1-s-9"
     }
   ],
   "interviews": [
