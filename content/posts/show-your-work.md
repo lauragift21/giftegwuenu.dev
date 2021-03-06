@@ -34,9 +34,9 @@ Once a day, share some part of your work it might be unfinished yes, remember th
 
 > "Put yourself and your work out there every day and you'll start meeting some amazing people." — Bobby Solomon
 
-![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_780/v1615016353/IMG_5100_ohnzp8.png)
+![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_315/v1615016353/IMG_5100_ohnzp8.png)
 
-![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_506/v1615016354/IMG_5099_oomuf3.png)
+![Share something small every day](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:best,w_350/v1615016354/IMG_5099_oomuf3.png)
 
 The format for sharing doesn't matter, we have many different platforms like Twitter, Instagram, YouTube for showing our work. It's also important to have a domain on the internet where we own our own content and it's great for your brand.
 
