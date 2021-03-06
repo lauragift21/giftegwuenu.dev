@@ -14,11 +14,15 @@ What do you mean by **"Show your work!"?** This is what my brain tells me the 
 
 ### You don’t have to be a genius
 
-The first chapter starts with this very statement we always shy away from when thinking of putting our work out in the world. I personally have this problem when I think I'm not a genius so I shouldn't be talking or sharing about a specific topic and I'm certain a lot of us feel that way too. In this chapter, Austin proves that is not a good yardstick for measuring what work we should put out. We should all be **Amateurs** because amateurs are willing to try different things, learn in public and share all the knowledge, rinse and repeat without the burden of thinking we have to be an expert.
+The first chapter starts with this very statement we always shy away from when thinking of putting our work out in the world. I personally have this problem when I think I'm not a genius so I shouldn't be talking or sharing about a specific topic and I'm certain a lot of us feel that way too. In this chapter, Austin proves that is not a good yardstick for measuring what work we should put out. 
+
+We should all be **Amateurs** because amateurs are willing to try different things, learn in public and share all the knowledge, rinse and repeat without the burden of thinking we have to be an expert.
 
 ### Think process, not product
 
-I like this statement so much! He's calling on us to start thinking of our work as a process and not a product. I can decide to create a book, course, tool, or even a library in private and come back with the finished product this is how a lot of artists, creators think. This idea is different it's calling on us to sharing all the process, behind the scenes of creating. You might think this is not a great idea may be because your process is messy and not streamlined for anyone to understand. Share it anyway!
+I like this statement so much! He's calling on us to start thinking of our work as a process and not a product. I can decide to create a book, course, tool, or even a library in private and come back with the finished product this is how a lot of artists, creators think. 
+
+This idea is different it's calling on us to sharing all the process, behind the scenes of creating. You might think this is not a great idea may be because your process is messy and not streamlined for anyone to understand. Share it anyway!
 
 ![Think Process, Not Product](/images/uploads/01-think-process-500x333.jpg "Think Process, Not Product")
 
