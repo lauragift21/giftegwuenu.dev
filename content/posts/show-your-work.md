@@ -52,7 +52,7 @@ The format for sharing doesn't matter, we have many different platforms like Twi
 
 Learn to share your knowledge by teaching others too, this is by far the best way to keep improving yourself. Teaching people doesn't subtract value from you it actually adds to it.
 
-![Learn Teach](/images/uploads/07-learn-teach.jpg)
+![Learn Teach](https://res.cloudinary.com/lauragift/image/upload/v1615016326/07-learn-teach_njc8c1.jpg)
 
 By teaching people what you've learned you get to solidify that knowledge more giving you even more leverage than you get if you just keep it to yourself.
 
