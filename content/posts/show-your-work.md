@@ -20,7 +20,7 @@ The first chapter starts with this very statement we always shy away from when t
 
 I like this statement so much! He's calling on us to start thinking of our work as a process and not a product. I can decide to create a book, course, tool, or even a library in private and come back with the finished product this is how a lot of artists, creators think. This idea is different it's calling on us to sharing all the process, behind the scenes of creating. You might think this is not a great idea may be because your process is messy and not streamlined for anyone to understand. Share it anyway!
 
-![Think Process, Not Product](Book%20Review%20Show%20Your%20Work!%20a949c29a9c3d4cd99dc52f489eba01f1/01-think-process-500x333.jpg "Think Process, Not Product")
+![Think Process, Not Product](/images/uploads/01-think-process-500x333.jpg "Think Process, Not Product")
 
 People want to see how we create the things we create, from ideation to result and it's important to make them part of the journey to the product. You can think of it as a way of documenting your work out in the open.
 
