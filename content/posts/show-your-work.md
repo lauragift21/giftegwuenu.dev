@@ -64,9 +64,9 @@ By teaching people what you've learned you get to solidify that knowledge more g
 
 Sharing what you do online is great until you start overdoing it and only open to promoting your work without promoting or reading other people's work. It's always good to know when you're turning into spam. The people you're trying to reach care about your work the moment you make it all about yourself they sense it and can stop supporting or patronizing you.
 
-![Don’t turn into human spam](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_564/v1615016356/IMG_5110_ulewa3.png)
+![Don’t turn into human spam](https://res.cloudinary.com/lauragift/image/upload/c_scale,q_auto:good,w_350/v1615016356/IMG_5110_ulewa3.png)
 
-**Be open and genuine,** don't focus on the follower count or how many subscribers you have let that be organic and remember people connect with you because they enjoy your work don't make them think you're just after the numbers or popularity.
+**Be open and genuine,** don't focus on the follower count or how many subscribers you have let that be organic, and remember people connect with you because they enjoy your work don't make them think you're just after the numbers or popularity.
 
 ### Learn to take a punch
 
@@ -76,7 +76,7 @@ Be ready to take a punch. When you share your work publicly be ready for the goo
 
 It's okay to **charge for the value you create**. Many people are made to believe as content creators we all should be doing free work. It's okay to start putting out work for free but the moment you feel it's time to start charging them don't feel guilty about it. We put in all the work and effort and we also have bills piling upright so that's certainly a valid reason to charge for your work. 
 
-![Sell out](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_558/v1615016354/IMG_5112_bwunfb.png)
+![Sell out](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:good,w_385/v1615016354/IMG_5112_bwunfb.png)
 
 Remember to **pay it forward** too when you are successful be open to pivoting other voices so they also can make it to where you are. 
 
@@ -84,7 +84,7 @@ Remember to **pay it forward** too when you are successful be open to pivoting o
 
 It's not always going to be rosy. we can either feel success from all the work we've done or feel like absolute failures but it helps to think of this as a journey. The road to success isn't going to be smooth at all times and keeping at what we do regardless of the outcome should be something we always hold on to. 
 
-![Stick Around](https://res.cloudinary.com/lauragift/image/upload/c_fit,q_auto:low,w_736/v1615016359/IMG_5113_hyaebe.png)
+![Stick Around](https://res.cloudinary.com/lauragift/image/upload/c_scale,q_auto:good,w_350/v1615016359/IMG_5113_hyaebe.png)
 
 Of course, it's easier said than done when you feel you need to quit, take a break instead and continue when you feel alright to start again not start all over from scratch. it's hard to start over because our work still exists and all the knowledge gained from previous work still remains with us.
 
