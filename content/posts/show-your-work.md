@@ -93,3 +93,5 @@ Of course, it's easier said than done when you feel you need to quit, take a bre
 I really enjoyed reading this book. It was a very insightful read and I took away a lot from reading it. It's the type of book I can always pick up to go over again and again and still learn something from it. I really liked the artwork incorporated into it as well.
 
 I'll rate this book **5 stars** because it changed how I view myself as a creative person. If you are trying to build a brand or put more work out in the open as a content creator this should be the next book you read.
+
+Get the book [here](https://amzn.to/3sTvgm3) :)
