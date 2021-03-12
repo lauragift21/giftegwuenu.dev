@@ -34,7 +34,8 @@
           >GitHub</a
         >
       </div>
-      <div class="flex my-4 justify-center">
+      <div class="flex my-4 justify-center items-center flex-col">
+        <iframe src="https://github.com/sponsors/lauragift21/button" title="Sponsor lauragift21" height="45" width="146" style="border: 0;"></iframe>
         <a href="https://www.buymeacoffee.com/lauragift"
           ><img
             src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lauragift&button_colour=e2216a&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"
