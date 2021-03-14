@@ -92,4 +92,10 @@ I really enjoyed reading this book. It was a very insightful read and I took awa
 
 I'll rate this book **5 stars** because it changed how I view myself as a creative person. If you are trying to build a brand or put more work out in the open as a content creator this should be the next book you read.
 
+
+
+## Video Review
+
+https://www.youtube.com/embed/9XHcWhJ1nBU
+
 Get the book [here](https://amzn.to/3sTvgm3) :)
