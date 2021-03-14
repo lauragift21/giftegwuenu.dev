@@ -33,10 +33,16 @@ https://www.youtube.com/embed/tQBh53KmxRU
 
 ### 🔗 Links Mentioned
 
-[Web Monetization with Coil](https://coil.com) [](https://www.youtube.com/redirect?q=https%3A%2F%2Fcoil.com&v=tQBh53KmxRU&redir_token=QUFFLUhqbnhfd3BPZC01a25wWTdRU1BvVWVrYVVLellrZ3xBQ3Jtc0tua2RhRGV3T3FZU2lPZEJ2MG1kY0ttMDlWUG1wV0k3dVEyYkZZLWltcnhuYUd2N3lTZ2hNLWw5Qi1kM2lGR0JmYXpLLWppRVZFZ0ZiS1o4b0hhZXVieXBwRk5SRVRpXzBjdnlkQ2dCU2h3V0dxYXJITQ%3D%3D&event=video_description)
+✨ [Web Monetization with Coil](https://coil.com) [](https://www.youtube.com/redirect?q=https%3A%2F%2Fcoil.com&v=tQBh53KmxRU&redir_token=QUFFLUhqbnhfd3BPZC01a25wWTdRU1BvVWVrYVVLellrZ3xBQ3Jtc0tua2RhRGV3T3FZU2lPZEJ2MG1kY0ttMDlWUG1wV0k3dVEyYkZZLWltcnhuYUd2N3lTZ2hNLWw5Qi1kM2lGR0JmYXpLLWppRVZFZ0ZiS1o4b0hhZXVieXBwRk5SRVRpXzBjdnlkQ2dCU2h3V0dxYXJITQ%3D%3D&event=video_description)
 
-[Carbon Ads](https://www.carbonads.net/) [](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carbonads.net%2F&v=tQBh53KmxRU&redir_token=QUFFLUhqbEEwcG1WZTdSaDV2NHUxc01DWGtxV3dlcUswUXxBQ3Jtc0tueHNBQ0FZdUhmelMxbE9zMWd6RG1KUjd6LW5waHlfQWZ0REF2d2YxNVFjdk5OS0JhNGZtdm1kRWFVTUNUQ3dGNE1fNi1obVA0NnQ0QlVJTTNTWXlTanFaRVo3aWhwUE9ud2dycUg1R1hncUNnZEhLWQ%3D%3D&event=video_description)
+✨ [Carbon Ads](https://www.carbonads.net/) [](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carbonads.net%2F&v=tQBh53KmxRU&redir_token=QUFFLUhqbEEwcG1WZTdSaDV2NHUxc01DWGtxV3dlcUswUXxBQ3Jtc0tueHNBQ0FZdUhmelMxbE9zMWd6RG1KUjd6LW5waHlfQWZ0REF2d2YxNVFjdk5OS0JhNGZtdm1kRWFVTUNUQ3dGNE1fNi1obVA0NnQ0QlVJTTNTWXlTanFaRVo3aWhwUE9ud2dycUg1R1hncUNnZEhLWQ%3D%3D&event=video_description)
 
-[List of Publications that pay up to $600](https://talk.hyvor.com/blog/write-for-get-paid-for-developers/) 
+✨ [Community Writers Program](https://github.com/malgamves/CommunityWriterPrograms)  
 
-Hope you enjoy the video :)
+✨ [ List of Publications that pay up to $600 ](https://dev.to/hyvortalk/10-companies-that-you-can-write-for-and-get-paid-as-a-developer-100-per-article-4dd7)
+
+✨ [Websites that Pay You To Write](https://catalins.tech/websites-that-pay-you-to-write-technical-articles)
+
+✨ [Who Pay Technical Writers](https://whopaystechnicalwriters.com/)
+
+[](https://whopaystechnicalwriters.com/)Hope you enjoy the video :)
