@@ -14,6 +14,5 @@ Cloudflare Pages was recently just released in public beta and I'm very happy to
 
 
 
-
 ## Video Tutorial
 https://www.youtube.com/embed/Fkm3e0j2sbU
