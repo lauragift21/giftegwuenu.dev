@@ -13,7 +13,7 @@ description: In this tutorial, we'll spin up a Nuxt.js app and deploy it to
 
 # What is Cloudflare Pages?
 
-Pages is a platform for deploying your frontend application. Pages are super-fast, always up-to-date, and deployed directly from your GitHub account.
+[Pages](https://pages.cloudflare.com/) is a platform for deploying your frontend application. Pages are super-fast, always up-to-date, and deployed directly from your GitHub account.
 
 ![Cloudflare Pages landing page](/images/uploads/screenshot-2021-03-18-at-09.22.27.png)
 
