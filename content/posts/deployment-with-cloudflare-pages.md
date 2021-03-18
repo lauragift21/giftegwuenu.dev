@@ -123,12 +123,14 @@ We don't need any of that, so let's click the save and deploy button to kick off
 
 ![Build in progress](/images/uploads/screenshot-2021-03-18-at-09.59.08.png)
 
-This was absolutely fast. this screenshot isn't the first build I made but the first build took 7sec to deploy and I'm very impressed with that.
+After the build completes and is successful you get a deploy URL where you can see the version of the app that was deployed. This was absolutely fast and this screenshot isn't the first build I made but the first build took around 7 secs to deploy and I'm very impressed with that.
 
+#### What else can you do?
 
+You can set up a custom domain for your website and also access the deployment settings incase you need to change anything.
 
+![Custom Domain](/images/uploads/screenshot-2021-03-18-at-09.58.37.png)
 
-
-If you prefer a video tutorial. I made one on my channel check it out.
+If you prefer a video version of this tutorial. I made one on my channel check it out and please subscribe 😁
 
 https://www.youtube.com/embed/Fkm3e0j2sbU
