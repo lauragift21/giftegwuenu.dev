@@ -133,8 +133,8 @@ You can set up a custom domain for your website and also access the deployment s
 
 [Cloudflare Pages Docs](https://developers.cloudflare.com/pages/)
 
-[A first look at Cloudflare Pages](https://www.youtube.com/watch?v=IeHC4NwkEfc&t=3s)
+[A first look at Cloudflare Pages](https://css-tricks.com/video-screencasts/203-a-first-look-at-cloudflare-pages/)
 
-[](https://www.youtube.com/watch?v=IeHC4NwkEfc&t=3s)If you prefer a video version of this tutorial. I made one on my channel check it out and please subscribe 😁
+[](https://css-tricks.com/video-screencasts/203-a-first-look-at-cloudflare-pages/)[](https://www.youtube.com/watch?v=IeHC4NwkEfc&t=3s)If you prefer a video version of this tutorial. I made one on my channel check it out and please subscribe 😁
 
 https://www.youtube.com/embed/Fkm3e0j2sbU
