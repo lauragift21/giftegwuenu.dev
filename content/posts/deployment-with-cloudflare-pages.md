@@ -119,13 +119,11 @@ We'll use the Nuxt.js preset for this and if there's a need to set up a default 
 
 ![Deploy project](/images/uploads/screenshot-2021-03-18-at-09.58.07.png)
 
-We don't need any of that, so let's click the save and deploy button to kick off the first build process.
+We don't need any of that, so let's click the save and deploy button to kick off the first build process. You'll be redirected to a page with a deploy log and details where you can see the current progress of the ongoing deployment. 
 
+![Build in progress](/images/uploads/screenshot-2021-03-18-at-09.59.08.png)
 
-
-
-
-
+This was absolutely fast. this screenshot isn't the first build I made but the first build took 7sec to deploy and I'm very impressed with that.
 
 
 
