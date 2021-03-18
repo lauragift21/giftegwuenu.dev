@@ -19,7 +19,41 @@ description: In this tutorial, we'll spin up a Nuxt.js app and deploy it to
 
 ## Getting Started
 
-Let's start with creating a Pages account.
+Let's start with creating a [Nuxt.js](https://nuxtjs.org/) website. I wanted the core of the tutorial to be Cloudflare Pages so I went with a miminal demo.
+
+To set up a new Nuxt.js app you need to use the command:
+
+```
+npx create-nuxt-app cloudflare-demo
+  or
+yarn create nuxt-app cloudflare-demo
+
+
+```
+
+You'll get prompted to answer some questions like what UI framework, Linter, Testing Framework you want to use. we'll skip all that but pick [Tailwind CSS](https://tailwindcss.com/) as the UI library of choice for the purpose of not writing our own CSS from scratch.
+
+After following this, all the dependencies will be installed and our project is now ready to work with. To start your local environment and get into coding :), run the following commands:
+
+```
+cd cloudflare-demo
+
+yarn dev
+```
+
+The application should now be available on localhost:3000!
+
+\## Designing the Demo
+
+
+
+
+
+
+
+
+
+
 
 If you prefer a video tutorial. I made one on my channel check it out.
 
