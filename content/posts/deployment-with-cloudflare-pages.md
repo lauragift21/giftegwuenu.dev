@@ -19,7 +19,7 @@ description: In this tutorial, we'll spin up a Nuxt.js app and deploy it to
 
 ## Getting Started
 
-Let's start with creating a [Nuxt.js](https://nuxtjs.org/) website. I wanted the core of the tutorial to be Cloudflare Pages so I went with a miminal demo.
+Let's start with creating a [Nuxt.js](https://nuxtjs.org/) website. I wanted the core of the tutorial to be Cloudflare Pages so I went with a mimimal demo.
 
 To set up a new Nuxt.js app you need to use the command:
 
@@ -29,7 +29,7 @@ npx create-nuxt-app cloudflare-demo
 yarn create nuxt-app cloudflare-demo
 ```
 
-You'll get prompted to answer some questions like what UI framework, Linter, Testing Framework you want to use. we'll skip all that but pick [Tailwind CSS](https://tailwindcss.com/) as the UI library of choice for the purpose of not writing our own CSS from scratch.
+You'll get prompted to answer some questions like what UI framework, Linter, Testing Framework you want to use. we'll skip all that but pick [Tailwind CSS](https://tailwindcss.com/) as the UI library of choice instead of writing our CSS from scratch.
 
 After following this, all the dependencies will be installed and our project is now ready to work with. To start your local environment and get into coding, run the following:
 
@@ -93,7 +93,7 @@ And a few changes made to the styling:
 
 ## [](https://github.com/lauragift21/cloudflare-demo)Deploy to Cloudflare Pages
 
-Now, let's get to the fun part. In order to deploy the app we just created we need to follow a couple of steps which I'll outline:
+Now, let's get to the fun part. To deploy the app we just created we need to follow a couple of steps which I'll outline:
 
 First, you need a Pages account if you don't have one yet, [you can create yours now. ](https://dash.cloudflare.com/?to=/:account/pages)Next, we can create a new project.
 
@@ -113,7 +113,7 @@ You can set a custom name you want to use as a hostname on pages.dev and also se
 
 ![Configure build commands](/images/uploads/screenshot-2021-03-18-at-09.57.52.png)
 
-You also need to set up build settings, there are different framework presets to choose from which makes it easier for you if you don't find the framework you are using or feel you don't need to use any of this then you can directly input your own commands in the fields provided.
+You also need to set up build settings, there are different framework presets to choose from which makes it easier for you if you don't find the framework you are using or feel you don't need to use any of this then you can directly input your commands in the fields provided.
 
 We'll use the Nuxt.js preset for this and if there's a need to set up a default root directory or add environment variables you can also do that here. 
 
@@ -123,7 +123,7 @@ We don't need any of that, so let's click the save and deploy button to kick off
 
 ![Build in progress](/images/uploads/screenshot-2021-03-18-at-09.59.08.png)
 
-After the build completes and is successful you get a deploy URL where you can see the version of the app that was deployed. This was absolutely fast and this screenshot isn't the first build I made but the first build took around 7 secs to deploy and I'm very impressed with that.
+After the build completes and is successful you get a deploy URL where you can see the version of the app that was deployed. This was fast and this screenshot isn't the first build I made but the first build took around 7 secs to deploy and I'm very impressed with that.
 
 #### What else can you do?
 
