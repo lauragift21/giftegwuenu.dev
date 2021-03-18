@@ -93,7 +93,7 @@ And a few changes made to the styling:
 
 
 
-
+## Deploy to Cloudflare Pages
 
 
 
