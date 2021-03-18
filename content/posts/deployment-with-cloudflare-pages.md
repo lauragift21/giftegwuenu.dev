@@ -101,8 +101,6 @@ First, you need a Pages account if you don't have one yet, [you can create yours
 
 Click the create a project button, and that leads to a page where you can connect your GitHub account. After connecting to GitHub you can select the project you want to deploy from the list of repos displayed.
 
-
-
 ![Select Project from GitHub](/images/uploads/screenshot-2021-03-18-at-09.57.06.png)
 
 After you select a project from GitHub, we need to set up build commands so that when a commit is triggered Cloudflare knows to use the command set to build your website.
@@ -131,6 +129,12 @@ You can set up a custom domain for your website and also access the deployment s
 
 ![Custom Domain](/images/uploads/screenshot-2021-03-18-at-09.58.37.png)
 
-If you prefer a video version of this tutorial. I made one on my channel check it out and please subscribe 😁
+#### Resources
+
+[Cloudflare Pages Docs](https://developers.cloudflare.com/pages/)
+
+[A first look at Cloudflare Pages](https://www.youtube.com/watch?v=IeHC4NwkEfc&t=3s)
+
+[](https://www.youtube.com/watch?v=IeHC4NwkEfc&t=3s)If you prefer a video version of this tutorial. I made one on my channel check it out and please subscribe 😁
 
 https://www.youtube.com/embed/Fkm3e0j2sbU
