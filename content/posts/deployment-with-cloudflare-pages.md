@@ -91,11 +91,9 @@ And a few changes made to the styling:
 </style>
 ```
 
+[All code snippets can be found on the GitHub Repo.](https://github.com/lauragift21/cloudflare-demo)
 
-
-## Deploy to Cloudflare Pages
-
-
+## [](https://github.com/lauragift21/cloudflare-demo)Deploy to Cloudflare Pages
 
 If you prefer a video tutorial. I made one on my channel check it out.
 
