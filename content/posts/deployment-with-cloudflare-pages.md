@@ -33,7 +33,7 @@ yarn create nuxt-app cloudflare-demo
 
 You'll get prompted to answer some questions like what UI framework, Linter, Testing Framework you want to use. we'll skip all that but pick [Tailwind CSS](https://tailwindcss.com/) as the UI library of choice for the purpose of not writing our own CSS from scratch.
 
-After following this, all the dependencies will be installed and our project is now ready to work with. To start your local environment and get into coding :), run the following commands:
+After following this, all the dependencies will be installed and our project is now ready to work with. To start your local environment and get into coding, run the following:
 
 ```
 cd cloudflare-demo
@@ -47,7 +47,7 @@ The application should now be available on localhost:3000!
 
 With our application now running, you get a landing page template from Nuxt as a default but instead of just deploying this. Let's twerk it a bit before deploying.
 
-If you want to learn more about Nuxt.js, [I wrote a getting started guide on it.](https://www.giftegwuenu.com/getting-started-with-nuxt-js/) For this demo, we'll make a few edits to the already existing page.
+If you want to learn more about Nuxt.js, [I wrote a getting started guide on it.](https://www.giftegwuenu.com/getting-started-with-nuxt-js/) For this demo, we'll make a few edits to the already existing `pages/index.vue`.
 
 ```html
 <template>
