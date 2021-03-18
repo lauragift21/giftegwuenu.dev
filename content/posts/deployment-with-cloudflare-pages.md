@@ -111,6 +111,22 @@ After you select a project from GitHub, we need to set up build commands so that
 
 You can set a custom name you want to use as a hostname on pages.dev and also select the production branch in our case this is the master branch.
 
+![Configure build commands](/images/uploads/screenshot-2021-03-18-at-09.57.52.png)
+
+You also need to set up build settings, there are different framework presets to choose from which makes it easier for you if you don't find the framework you are using or feel you don't need to use any of this then you can directly input your own commands in the fields provided.
+
+We'll use the Nuxt.js preset for this and if there's a need to set up a default root directory or add environment variables you can also do that here. 
+
+![Deploy project](/images/uploads/screenshot-2021-03-18-at-09.58.07.png)
+
+We don't need any of that, so let's click the save and deploy button to kick off the first build process.
+
+
+
+
+
+
+
 
 
 
