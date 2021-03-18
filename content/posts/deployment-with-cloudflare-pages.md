@@ -47,9 +47,49 @@ The application should now be available on localhost:3000!
 
 With our application now running, you get a landing page template from Nuxt as a default but instead of just deploying this. Let's twerk it a bit before deploying.
 
-If you want to learn more about Nuxt.js, I wrote a getting started guide on it. 
+If you want to learn more about Nuxt.js, [I wrote a getting started guide on it.](https://www.giftegwuenu.com/getting-started-with-nuxt-js/) For this demo, we'll make a few edits to the already existing page.
 
+```html
+<template>
+  <div class="container">
+    <div>
+      <img class="mx-auto" src="~assets/cloudflare.svg" alt="Cloudflare Pages" width="350">
+      <h1 class="title text-3xl mt-4">
+        Deploy your Jamstack Website with <a href="https://pages.cloudflare.com/"> Cloudflare Pages.</a>
+      </h1>
+    </div>
+    <div class="mt-8 text-lg">
+      <a class="bg-orange-500 font-bold text-white rounded py-2 px-6 hover:bg-orange-600" href="https://pages.cloudflare.com/">
+        Learn More
+      </a>
+    </div>
+  </div>
+</template>
+```
 
+And a few changes made to the styling:
+
+```css
+<style>
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-family:
+   -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  color: hsl(0, 30%, 10%);
+  letter-spacing: 1px;
+}
+</style>
+```
 
 
 
