@@ -43,9 +43,11 @@ yarn dev
 
 The application should now be available on localhost:3000!
 
-\## Designing the Demo
+## Designing the Demo
 
+With our application now running, you get a landing page template from Nuxt as a default but instead of just deploying this. Let's twerk it a bit before deploying.
 
+If you want to learn more about Nuxt.js, I wrote a getting started guide on it. 
 
 
 
