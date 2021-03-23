@@ -15,15 +15,11 @@ Have you been piling up so many branches you don't even use anymore and want to 
 
 You can delete a local branch that has been merged into the remote and also delete an un-merged local branch. You want to make sure you know which branch is merged in or not and to do that you can use the following commands:
 
-`git branch` - to list out all local branches
-
-`git branch -r` - to list all remote branches
-
-`git branch -a` - to list both local and remote branches
-
-`git branch --merged` - to list all the branches that have been merged
-
-`git branch --no-merged` - to list all branches not merged
+* `git branch` - to list out all local branches
+* `git branch -r` - to list all remote branches
+* `git branch -a` - to list both local and remote branches
+* `git branch --merged` - to list all the branches that have been merged
+* `git branch --no-merged` - to list all branches not merged
 
 Now to delete the local branches, you want to do either of these:
 
