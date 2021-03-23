@@ -61,7 +61,7 @@ git branch --no-merged | egrep -v "(^\*|master|main)" | xargs git branch -D
 git branch | egrep -v "(^\*|master|main)" | xargs echo git branch -D
 ```
 
-### Delete Remote Branches
+### Deleting Remote Branches
 
 In a case where you need to delete a remote branch because you are done working on it and it had been merged into the remote master branch. You can delete a remote branch using the `--delete` flag and a git push to the remote branch:
 
@@ -69,7 +69,7 @@ In a case where you need to delete a remote branch because you are done working 
 git push origin --delete 'name-of-branch'
 ```
 
-### Delete Multiple Remote Branches
+### Deleting Multiple Remote Branches
 
 When you need to delete multiple remote branches and don't want to do them individually with the command previously stated, you can do so using:
 
