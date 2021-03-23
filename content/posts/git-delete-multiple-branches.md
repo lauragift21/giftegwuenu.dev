@@ -27,17 +27,17 @@ You can delete a local branch that has been merged into the remote and also dele
 
 Now to delete the local branches, you want to do either of these:
 
-```jsx
-// delete fully merged branch
+```bash
+# delete fully merged branch
 git branch -d 'name-of-branch' 
 
-// I use git alias a lot so this also applies
+# I use the git alias a lot so this also applies
 gbd 'name-of-branch'
 
-// delete branch (even if not merged)
+# delete branch (even if not merged)
 git branch -D 'name-of-branch'
 
-// alias 
+# alias 
 gbD 'name-of-branch'
 ```
 
@@ -47,17 +47,17 @@ Feeling confident enough and you want to delete multiple local branches you can 
 
 > Note: You need to be careful when doing this so you don't delete a branch that is not merged in yet and adding the `--merged` flag helps ascertain that you don't do that.
 
-```jsx
+```bash
 git branch --merged | egrep -v "(^\*|master|main)" | xargs git branch -d
 ```
 
 To further explain the command above, `git branch --merged` will list out all the merged branches, `egrep -v "(^\*|master|main)"` will ensure the master and main branch is not deleted,  you can add other branches you want to exclude here. `xargs git branch -d` will go ahead and delete the remaining branches.
 
-```jsx
-// ⚠️ adding --no-merged and -D flag will go ahead and delete unmerged branches
+```bash
+# ⚠️ adding --no-merged and -D flag will go ahead and delete unmerged branches
 git branch --no-merged | egrep -v "(^\*|master|main)" | xargs git branch -D
 
-// ⚠️ use this for when you want to delete all the branches both merged and unmerged
+# ⚠️ use this for when you want to delete all the branches both merged and unmerged
 git branch | egrep -v "(^\*|master|main)" | xargs echo git branch -D
 ```
 
@@ -65,7 +65,7 @@ git branch | egrep -v "(^\*|master|main)" | xargs echo git branch -D
 
 In a case where you need to delete a remote branch because you are done working on it and it had been merged into the remote master branch. You can delete a remote branch using the `--delete` flag and a git push to the remote branch:
 
-```jsx
+```bash
 git push origin --delete 'name-of-branch'
 ```
 
@@ -73,7 +73,7 @@ git push origin --delete 'name-of-branch'
 
 When you need to delete multiple remote branches and don't want to do them individually with the command previously stated, you can do so using:
 
-```jsx
+```bash
 git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 ```
 
@@ -86,7 +86,7 @@ This will delete all remote merged branches excluding `master` and `main`. To fu
 
 Now if you're feeling very confident and want to delete all un-merged branches or all the remote branches use this:
 
-```jsx
+```bash
 // ⚠️ deletes all un-merged branches from remote 
 git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 echo git push origin --delete
 
@@ -98,13 +98,13 @@ I added the `echo` command to print what I'll be doing to the screen so I'm sure
 
 ![List of remote branches](/images/uploads/screenshot-2021-03-23-at-14.09.22.png)
 
-Now you can take that out and run the command.
+Now you can take the `echo` command out:
 
-```jsx
-// ⚠️ deletes all un-merged branches from remote 
+```bash
+# ⚠️ deletes all un-merged branches from remote 
 git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 
-// delete all branches including merged and unmerged 🙊 
+# delete all branches including merged and unmerged 🙊 
 git branch -r | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 ```
 
