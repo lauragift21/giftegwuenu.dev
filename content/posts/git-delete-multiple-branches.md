@@ -44,17 +44,17 @@ Feeling confident enough and you want to delete multiple local branches you can 
 > Note: You need to be careful when doing this so you don't delete a branch that is not merged in yet and adding the `--merged` flag helps ascertain that you don't do that.
 
 ```bash
-git branch --merged | egrep -v "(^\*|master|main)" | xargs git branch -d
+git branch --merged | egrep -v "(^\*|master|main|develop)" | xargs git branch -d
 ```
 
 To further explain the command above, `git branch --merged` will list out all the merged branches, `egrep -v "(^\*|master|main)"` will ensure the master and main branch is not deleted,  you can add other branches you want to exclude here. `xargs git branch -d` will go ahead and delete the remaining branches.
 
 ```bash
 # ⚠️ adding --no-merged and -D flag will go ahead and delete unmerged branches
-git branch --no-merged | egrep -v "(^\*|master|main)" | xargs git branch -D
+git branch --no-merged | egrep -v "(^\*|master|main|develop)" | xargs git branch -D
 
 # ⚠️ use this for when you want to delete all the branches both merged and unmerged
-git branch | egrep -v "(^\*|master|main)" | xargs echo git branch -D
+git branch | egrep -v "(^\*|master|main|develop)" | xargs echo git branch -D
 ```
 
 ### Deleting Remote Branches
@@ -70,7 +70,7 @@ git push origin --delete 'name-of-branch'
 When you need to delete multiple remote branches and don't want to do them individually with the command previously stated, you can do so using:
 
 ```bash
-git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
+git branch -r --merged | egrep -v "(^\*|master|main|develop)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 ```
 
 This will delete all remote merged branches excluding `master` and `main`. To further explain the command:
@@ -84,10 +84,10 @@ Now if you're feeling very confident and want to delete all un-merged branches o
 
 ```bash
 // ⚠️ deletes all un-merged branches from remote 
-git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 echo git push origin --delete
+git branch -r --no-merged | egrep -v "(^\*|master|main|develop)" | sed 's/origin\///' | xargs -n 1 echo git push origin --delete
 
 // delete all branches including merged and unmerged 🙊 
-git branch -r | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 echo git push origin --delete
+git branch -r | egrep -v "(^\*|master|main|develop)" | sed 's/origin\///' | xargs -n 1 echo git push origin --delete
 ```
 
 I added the `echo` command to print what I'll be doing to the screen so I'm sure I know what I'm about to delete.
@@ -98,10 +98,10 @@ Now you can take the `echo` command out:
 
 ```bash
 # ⚠️ deletes all un-merged branches from remote 
-git branch -r --merged | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
+git branch -r --no-merged | egrep -v "(^\*|master|main|develop)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 
 # delete all branches including merged and unmerged 🙊 
-git branch -r | egrep -v "(^\*|master|main)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
+git branch -r | egrep -v "(^\*|master|main|develop)" | sed 's/origin\///' | xargs -n 1 git push origin --delete
 ```
 
 That's it! I hope this was helpful for you. I know I will be referencing this again when I need it.
