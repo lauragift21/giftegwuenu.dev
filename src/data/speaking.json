@@ -1,5 +1,13 @@
 {
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "1",
+      "title": "Github Codespaces Jam",
+      "date": "April, 22 2021",
+      "event": "Jam Jam Jam",
+      "link": "https://giftegwuenu.com/speaking"
+    }
+  ],
   "past":  [
     {
       "id": "1",
