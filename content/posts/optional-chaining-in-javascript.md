@@ -72,4 +72,4 @@ The Optional Chaining Operator is currently supported in all browsers except Int
 
 ## Video
 
-https://www.youtube.com/watch?v=u29ZiZnR-q0
+https://www.youtube.com/embed/u29ZiZnR-q0
