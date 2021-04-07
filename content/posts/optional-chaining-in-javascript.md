@@ -70,6 +70,6 @@ The Optional Chaining Operator is currently supported in all browsers except Int
 * MDN Resource: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining>
 * TC39 Proposal Optional Chaining: <https://github.com/tc39/proposal-optional-chaining>
 
-## Video
+## Video Format
 
 https://www.youtube.com/embed/u29ZiZnR-q0
