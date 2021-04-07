@@ -5,11 +5,8 @@ published: true
 tags:
   - javascript
 canonical_url: true
-description: "Are you always frustrated when you try to access a value from an
-  object/array and it returns this error `Uncaught TypeError: Cannot read
-  property 'value' of undefined` because the value is not available yet or does
-  not exist? Let's see an example, say we have `countries` object with values
-  like this:"
+description: In this article, I will show you how to use the JavaScript Optional
+  Chaining Operator.
 ---
 Are you always frustrated when you try to access a value from an object/array and it returns this error `Uncaught TypeError: Cannot read property 'value' of undefined` because the value is not available yet or does not exist? Let's see an example, say we have `countries` object with values like this:
 
