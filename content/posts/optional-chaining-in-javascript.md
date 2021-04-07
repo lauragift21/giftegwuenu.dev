@@ -63,12 +63,13 @@ This will check if the parent value exists and if it doesn't it returns `undefin
 
 The Optional Chaining Operator is currently supported in all browsers except Internet Explorer as seen from [CanIUse](https://caniuse.com/?search=optional%20chaining).
 
-[Optional%20Chaining%20in%20JavaScript%206afd31dbceea4a05a091a0e0430c870a/mdn-javascript__operators__optional_chaining-1617783531767.webp](Optional%20Chaining%20in%20JavaScript%206afd31dbceea4a05a091a0e0430c870a/mdn-javascript__operators__optional_chaining-1617783531767.webp)
+![Can I use - Optional Chaining](/images/uploads/mdn-javascript__operators__optional_chaining-1617785356676.png)
 
 ## Resources
 
-- [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
-- [https://github.com/tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining)
+* <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining>
+* <https://github.com/tc39/proposal-optional-chaining>
 
 ## Video
+
 https://www.youtube.com/watch?v=u29ZiZnR-q0
