@@ -19,7 +19,7 @@ Polywork is a platform for **Multiplayers** - creatives, developers, designers, 
 
 Think of it as a mix of LinkedIn and Twitter where it's a platform you can share literally anything without feeling as though it's not the right place for it to be shared.
 
-Polywork is still in beta at the moment of writing but if you'll like to join you can reach to me and I'll share an invite code with you.
+> Polywork is still in beta at the moment of writing but if you'll like to join [you can reach to me](https://twitter.com/lauragift_) and I'll share an invite code with you.
 
 Now let's assume you have already setup a profile and now you want to create a custom domain, how do you go about this?
 
