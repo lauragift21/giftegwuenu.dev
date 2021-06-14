@@ -62,6 +62,6 @@ Polywork isn't just a platform where you can share your work, it's also a connec
 
 **Multiverse** is one place where you can find all of these. You can explore trending badges, featured people, collaboration possibilities and so much more this is what I've been missing from other platforms and to think this is just the start of all of this.
 
-![Multiverse on Polywork](/images/uploads/screenshot-2021-06-14-at-23.58.35.png)
+![Multiverse on Polywork](/images/uploads/screenshot-2021-06-15-at-00.09.13.png)
 
 I'm excited to see where the platform goes in terms of adoption from the community and overall growth, it's still in early beta and looking this good already, I'm looking forward to trying all the cool updates the team is building to make this a unified platform for multiplayer.
