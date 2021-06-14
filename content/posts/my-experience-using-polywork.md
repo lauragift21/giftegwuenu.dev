@@ -13,7 +13,7 @@ I joined [Polywork](https://www.polywork.com/) a few weeks ago, it's been an a
 
 In case you are not familiar with Polywork, that's not a problem I can give a **tl;dr** explanation of what the platform is but I'll [recommend you check it out yourself](https://www.polywork.com/) the landing page does a great job of explaining the platform in the most creative way.
 
-Polywork is a platform for Multiplayers - creatives, developers, designers, anyone who is looking to build a platform with their personal and professional work and achievements that allow you to represent who you are and the value you create.
+> Polywork is a platform for Multiplayers - creatives, developers, designers, anyone who is looking to build a platform with their personal and professional work and achievements that allow you to represent who you are and the value you create.
 
 You know how you have always wanted a tool to exist for the things you needed so bad that you carve into the side-projects hell and decide to make that tool yourself or just find another solution?
 
@@ -22,6 +22,8 @@ I was exactly at this point earlier in the year, I wanted a unified way of shari
 ## One place for all my work!
 
 So I got thinking, I already had a Blog, Channel, Twitter profile and so many more but where do I collate all of the things that I was doing, that's exactly the problem I had. I found a tool - [Linktree](https://linktr.ee/) that I decided to give a try but it wasn't exactly what I needed. This only helped direct people to all the other platforms where my content lived but not exactly showing them the content in one place.
+
+![Linktree profile](/images/uploads/screenshot-2021-06-14-at-22.08.05.png)
 
 I went with it regardless at the time I thought it might be nice to build something for myself similar to Linktree and have that live on my domain but I never got to it. Thanks to [Stephanie Morillo](https://twitter.com/radiomorillo) for the idea though.
 
@@ -45,7 +47,11 @@ Before I go on with what I like about the platform and some of its features, I j
 
 So, the first thing that struck my attention has the be the superb illustrations and the minimal design used on the platform it gives off a very modern vibe and general good UX for users of the platform. The other thing I also like is how they allow me to track all my achievements in a timeline where I can share all the work I've done from the start of my career that's just great and what I wanted in the first place, problem solved!
 
+![Polywork Profile Page](/images/uploads/screenshot-2021-06-14-at-23.09.41.png)
+
 In addition, you can create activity tags for your post this is where I enjoy just randomly checking what activities tag already exist and I also just discovered I can create my own ain't that cool!
+
+![Activity Tags Selection](/images/uploads/screenshot-2021-06-14-at-23.15.56.png)
 
 A part of this that just makes absolute sense to me is the fact that you don't get likes and comments on your posts like other social media platforms [I once read a book that justified why having these metrics could be damaging](https://www.calnewport.com/books/digital-minimalism/). Do you know what else is possible? You can set up a custom domain for your profile and a couple of days ago [I published a guide on how to set up a custom domain](https://www.giftegwuenu.com/setup-sub-domain-on-polywork-with-netlify-namecheap/) with Netlify and Namecheap check it out!
 
@@ -54,5 +60,7 @@ A part of this that just makes absolute sense to me is the fact that you don't g
 Polywork isn't just a platform where you can share your work, it's also a connected network of professionals. I like to think of it as where the future of work is going where there's less barrier in finding and connecting to other professionals based on their work and interests.
 
 **Multiverse** is one place where you can find all of these. You can explore trending badges, featured people, collaboration possibilities and so much more this is what I've been missing from other platforms and to think this is just the start of all of this.
+
+![Multiverse on Polywork](/images/uploads/screenshot-2021-06-14-at-23.34.56.png)
 
 I'm excited to see where the platform goes in terms of adoption from the community and overall growth, it's still in early beta and looking this good already, I'm looking forward to trying all the cool updates the team is building to make this a unified platform for multiplayer.
