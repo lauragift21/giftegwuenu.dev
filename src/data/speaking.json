@@ -105,6 +105,13 @@
 			"date": "May, 27 2021",
 			"event": "Prisma Connect Dev Africa Meetup",
 			"link": "https://www.youtube.com/watch?v=7Hs2D8V0uvk"
+		},
+		{
+			"id": "16",
+			"title": "How to get started as an open source contributor",
+			"date": "June, 10 2021",
+			"event": "Plurasight Webinar Events and",
+			"link": "https://www.pluralsight.com/events/2021/open-source-contributor"
 		}
 	],
 	"interviews": [
