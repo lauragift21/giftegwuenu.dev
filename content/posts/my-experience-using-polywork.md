@@ -6,9 +6,9 @@ tags:
   - reflections
   - career
 canonical_url: true
-description: I joined [Polywork](https://www.polywork.com/) a few weeks ago,
-  it's been an amazing experience and I thought it'll be great to pen down my
-  thoughts as an early adopter of the platform.
+description: I joined Polywork a few weeks ago, it's been an amazing experience
+  and I thought it'll be great to pen down my thoughts as an early adopter of
+  the platform.
 ---
 I joined [Polywork](https://www.polywork.com/) a few weeks ago, it's been an amazing experience and I thought it'll be great to pen down my thoughts as an early adopter of the platform.
 
