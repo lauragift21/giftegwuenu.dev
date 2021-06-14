@@ -19,7 +19,7 @@ You know how you have always wanted a tool to exist for the things you needed so
 
 I was exactly at this point earlier in the year, I wanted a unified way of sharing all the things I was doing in one place - (from my writing, videos, speaking, etc) I do these outside my 9-5 job and it's been a big part of my career so I wanted to have one place where I can track all of these activities for myself and for others to find as well.
 
-### One place for all my work!
+## One place for all my work!
 
 So I got thinking, I already had a Blog, Channel, Twitter profile and so many more but where do I collate all of the things that I was doing, that's exactly the problem I had. I found a tool - [Linktree](https://linktr.ee/) that I decided to give a try but it wasn't exactly what I needed. This only helped direct people to all the other platforms where my content lived but not exactly showing them the content in one place.
 
