@@ -65,7 +65,9 @@ When using images in your websites, One important thing people miss out on is ad
 
 ![https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG](https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG)
 
-`<img src="./cat.png' alt="A cat sitting on a chair">`
+```html
+<img src="./cat.png' alt="A cat sitting on a chair">
+```
 
 The big picture difference between having the alt attribute in all images and not including it at all is that it goes a long way in making sure your website is accessible because now screen readers can announce the alt tags for people with visual and cognitive disabilities. One rule of thumb here is to make sure the alt description is in context meaning it should describe the intent of the actual image. In the example above, I used `A cat sitting on a chair` and not just `cat` for the description.
 
