@@ -58,7 +58,9 @@ It is really important to have consistency across the web. What this means is ar
 
 I’ll be highlighting tips to help incorporate accessibility into your usual routine when building websites. Most of these tips can be implemented easily and will not impact the overall look and feel of your website.
 
-* **Add Alternative Text for Images:** When using images in your websites, One important thing people miss out on is adding the `alt=""` attribute to images. Here’s an example of an accessible image tag.
+**Add Alternative Text for Images**  
+
+When using images in your websites, One important thing people miss out on is adding the `alt=""` attribute to images. Here’s an example of an accessible image tag.
 
 ![https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG](https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG)
 
@@ -78,13 +80,30 @@ I’ve found that for people making use of screen readers and keyboard, this fea
 
 Most people miss out on this, I feel like it should be one of the things we look out for when building accessible sites. Always remember to indicate the primary language of every page by using the `lang` attribute in the `HTML` tag, for example, `<html lang="en">`. Use the `lang` attribute on specific elements when the language of the element differs from the rest of the page.
 
-`<--here the language can either be switched to the default language used in the page.--> <html lang="en"> <head> ... </head> <body>...</body> </html>`
+```html
+<--here the language can either be switched to the default language used in the page.--> 
+<html lang="en"> 
+ <head> 
+   ...
+ </head> 
+ <body>
+   ...
+ </body> 
+</html>
+```
 
 **Associate a label with every form element**
 
 Whenever possible, use the `label` element to associate text with form elements explicitly. The `for` attribute of the label must exactly match the `id` of the form control. In specific situations, it may be acceptable to hide `<label>` elements visually, but in most cases, labels are needed to help all readers understand the required input.
 
-`<form> <label for="username">Username</label> <input type="text" name="username" id="username"> <label for="email">Email</label> <input type="email" name="email" id="email"> </form>`
+```
+<form> 
+ <label for="username">Username</label> 
+ <input type="text" name="username" id="username"> 
+ <label for="email">Email</label> 
+ <input type="email" name="email" id="email"> 
+</form>
+```
 
 ## Tools To Leverage When Building Accessible Sites
 
