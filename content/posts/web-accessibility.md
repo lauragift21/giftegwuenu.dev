@@ -3,7 +3,6 @@ title: Web Accessibility For Beginners
 date: 2019-03-22
 published: true
 tags:
-  - links
   - accessibility
 canonical_url: true
 description: Building accessible applications or websites is not the norm today.
