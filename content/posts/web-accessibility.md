@@ -41,40 +41,52 @@ Accessibility encompasses disability and still account for cases whereby the peo
 
 The POUR principle is what guides building accessible websites. This principle helps put people at the center of the process. Every website should fulfill the following principles:
 
-**Perceivable**  
-Content on the web should be perceivable, This means the web should be available to the senses (vision, touch, and hearing) either through the browser or through assistive technologies like screen readers, screen enlargers etc.
+**Perceivable**
+Content on the web should be perceivable, This means the web should be available to the senses (vision, touch, and hearing) either through the browser or through assistive technologies like screen readers, screen enlargers, etc.
 
-**Operable**  
-Content on the web must be operable, This means users can interact with all controls and interactive elements using either the mouse, keyboard or an assistive device. If the content is impossible to navigate then it is inaccessible.
+**Operable**
 
-\*\*Understandable:\*\*The content on the web should be clear and concise and easy to understand. Try as much as possible to cut down spelling errors and complex grammar. This is because as web developers we should never assume knowledge for the user.
+Content on the web must be operable, This means users can interact with all controls and interactive elements using either the mouse, keyboard, or an assistive device. If the content is impossible to navigate then it is inaccessible.
 
-\*\*Robust:\*\*It is really important to have consistency across the web. What this means is are you maximizing compatibility with the tools you are building for? Does your site work the same way across all platforms i.e Browsers, Operating systems, and Device sizes etc?
+**Understandable**
+
+The content on the web should be clear and concise and easy to understand. Try as much as possible to cut down spelling errors and complex grammar. This is because as web developers we should never assume knowledge for the user.
+
+**Robust**
+
+It is really important to have consistency across the web. What this means is are you maximizing compatibility with the tools you are building for? Does your site work the same way across all platforms i.e Browsers, Operating systems, and Device sizes, etc?
 
 ## Tips For Making Your Site Accessible on the Web
 
 I’ll be highlighting tips to help incorporate accessibility into your usual routine when building websites. Most of these tips can be implemented easily and will not impact the overall look and feel of your website.
 
-* \*\*Add Alternative Text for Images:\*\*When using images in your websites, One important thing people miss out on is adding the `alt=""` attribute to images. Here’s an example of an accessible image tag.
+* **Add Alternative Text for Images:** When using images in your websites, One important thing people miss out on is adding the `alt=""` attribute to images. Here’s an example of an accessible image tag.
 
 ![https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG](https://www.kimballstock.com/pix/CAT/02/CAT_02_RK0640_03_P.JPG)
 
-`<img src="./cat.png' alt="A cat sitting on a chair">`BASHCSSCSS-EXTRASGITGOGRAPHQLJAVAJAVASCRIPTJSONLESSMARKDOWNMARKUPMARKUP-TEMPLATINGCLIKEOCAMLPHPPHP-EXTRASPYTHONJSXTSXREASONRUBYSASSSCSSTYPESCRIPTYAMLCSHARPKOTLINCOFFEESCRIPTGROOVYHANDLEBARSHASKELLHTTPSWIFTR
+`<img src="./cat.png' alt="A cat sitting on a chair">`
 
 The big picture difference between having the alt attribute in all images and not including it at all is that it goes a long way in making sure your website is accessible because now screen readers can announce the alt tags for people with visual and cognitive disabilities. One rule of thumb here is to make sure the alt description is in context meaning it should describe the intent of the actual image. In the example above, I used `A cat sitting on a chair` and not just `cat` for the description.
 
-* \*\*Make use of Semantic HTML:\*\*This is another important rule missed out on. Most developers use `div` to represent everything and forget about the appropriate mark-up for headings, lists, tables that exists. HTML5 provides additional elements, such as `<nav>` , `section` and `<aside>`, to better structure your content. This is an example of a well-structured page using semantic HTML.
+**Make use of Semantic HTML**
 
-`<body> <header> <h1>Scotch.io Shop</h1> </header> <main> <article> <h2>An inside look at the new Scotch Shop v2</h2> <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> </article> </main> <footer> <p>© Scotch Shop Inc.</p> </footer> </body>`BASHCSSCSS-EXTRASGITGOGRAPHQLJAVAJAVASCRIPTJSONLESSMARKDOWNMARKUPMARKUP-TEMPLATINGCLIKEOCAMLPHPPHP-EXTRASPYTHONJSXTSXREASONRUBYSASSSCSSTYPESCRIPTYAMLCSHARPKOTLINCOFFEESCRIPTGROOVYHANDLEBARSHASKELLHTTPSWIFTR
+This is another important rule missed out on. Most developers use `div` to represent everything and forget about the appropriate mark-up for headings, lists, tables that exists. HTML5 provides additional elements, such as `<nav>` , `section` and `<aside>`, to better structure your content. This is an example of a well-structured page using semantic HTML.
 
-* \*\*Always provide an option to skip the Main Content:\*\*I’ve found that for people making use of screen readers and keyboard, this feature is really important because it provides the option to skip to the main content when using either the keyboard or screen readers for navigation. The technique for achieving this by adding a link to skip to the main content and make it invisible until the element receives keyboard focus. An example of this is [BBC.com](http://BBC.com) official website. When using your keyboard to navigate the option to skip to the main content is provided when the keyboard focuses on that element and it is visible.
-* \*\*Identify page language and language changes:\*\*Most people miss out on this, I feel like it should be one of the things we look out for when building accessible sites. Always remember to indicate the primary language of every page by using the `lang` attribute in the `HTML` tag, for example, `<html lang="en">`. Use the `lang` attribute on specific elements when the language of the element differs from the rest of the page.
+**Always provide an option to skip the Main Content**
 
-`<--here the language can either be switched to the default language used in the page.--> <html lang="en"> <head> ... </head> <body>...</body> </html>`BASHCSSCSS-EXTRASGITGOGRAPHQLJAVAJAVASCRIPTJSONLESSMARKDOWNMARKUPMARKUP-TEMPLATINGCLIKEOCAMLPHPPHP-EXTRASPYTHONJSXTSXREASONRUBYSASSSCSSTYPESCRIPTYAMLCSHARPKOTLINCOFFEESCRIPTGROOVYHANDLEBARSHASKELLHTTPSWIFTR
+I’ve found that for people making use of screen readers and keyboard, this feature is really important because it provides the option to skip to the main content when using either the keyboard or screen readers for navigation. The technique for achieving this by adding a link to skip to the main content and make it invisible until the element receives keyboard focus. An example of this is [BBC.com](http://BBC.com) official website. When using your keyboard to navigate the option to skip to the main content is provided when the keyboard focuses on that element and it is visible.
 
-* \*\*Associate a label with every form element:\*\*Whenever possible, use the `label` element to associate text with form elements explicitly. The `for` attribute of the label must exactly match the `id` of the form control. In specific situations, it may be acceptable to hide `<label>` elements visually, but in most cases, labels are needed to help all readers understand the required input.
+**Identify page language and language changes**
 
-`<form> <label for="username">Username</label> <input type="text" name="username" id="username"> <label for="email">Email</label> <input type="email" name="email" id="email"> </form>`BASHCSSCSS-EXTRASGITGOGRAPHQLJAVAJAVASCRIPTJSONLESSMARKDOWNMARKUPMARKUP-TEMPLATINGCLIKEOCAMLPHPPHP-EXTRASPYTHONJSXTSXREASONRUBYSASSSCSSTYPESCRIPTYAMLCSHARPKOTLINCOFFEESCRIPTGROOVYHANDLEBARSHASKELLHTTPSWIFTR
+Most people miss out on this, I feel like it should be one of the things we look out for when building accessible sites. Always remember to indicate the primary language of every page by using the `lang` attribute in the `HTML` tag, for example, `<html lang="en">`. Use the `lang` attribute on specific elements when the language of the element differs from the rest of the page.
+
+`<--here the language can either be switched to the default language used in the page.--> <html lang="en"> <head> ... </head> <body>...</body> </html>`
+
+**Associate a label with every form element**
+
+Whenever possible, use the `label` element to associate text with form elements explicitly. The `for` attribute of the label must exactly match the `id` of the form control. In specific situations, it may be acceptable to hide `<label>` elements visually, but in most cases, labels are needed to help all readers understand the required input.
+
+`<form> <label for="username">Username</label> <input type="text" name="username" id="username"> <label for="email">Email</label> <input type="email" name="email" id="email"> </form>`
 
 ## Tools To Leverage When Building Accessible Sites
 
