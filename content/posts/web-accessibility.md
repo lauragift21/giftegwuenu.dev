@@ -5,7 +5,6 @@ published: true
 tags:
   - links
   - accessibility
-  - guestpost
 canonical_url: true
 description: Building accessible applications or websites is not the norm today.
   This is because the idea of accessibility is known to most developers, while
