@@ -39,7 +39,8 @@ Accessibility encompasses disability and still account for cases whereby the peo
 
 The POUR principle is what guides building accessible websites. This principle helps put people at the center of the process. Every website should fulfill the following principles:
 
-**Perceivable**
+**Perceivable**  
+
 Content on the web should be perceivable, This means the web should be available to the senses (vision, touch, and hearing) either through the browser or through assistive technologies like screen readers, screen enlargers, etc.
 
 **Operable**
@@ -74,14 +75,13 @@ This is another important rule missed out on. Most developers use `div` to repre
 
 **Always provide an option to skip the Main Content**
 
-I’ve found that for people making use of screen readers and keyboard, this feature is really important because it provides the option to skip to the main content when using either the keyboard or screen readers for navigation. The technique for achieving this by adding a link to skip to the main content and make it invisible until the element receives keyboard focus. An example of this is [BBC.com](http://BBC.com) official website. When using your keyboard to navigate the option to skip to the main content is provided when the keyboard focuses on that element and it is visible.
+I’ve found that for people making use of screen readers and keyboard, this feature is really important because it provides the option to skip to the main content when using either the keyboard or screen readers for navigation. The technique for achieving this by adding a link to skip to the main content and make it invisible until the element receives keyboard focus. An example of this is [BBC.com's](http://BBC.com) official website. When using your keyboard to navigate the option to skip to the main content is provided when the keyboard focuses on that element and it is visible.
 
 **Identify page language and language changes**
 
 Most people miss out on this, I feel like it should be one of the things we look out for when building accessible sites. Always remember to indicate the primary language of every page by using the `lang` attribute in the `HTML` tag, for example, `<html lang="en">`. Use the `lang` attribute on specific elements when the language of the element differs from the rest of the page.
 
 ```html
-<--here the language can either be switched to the default language used in the page.--> 
 <html lang="en"> 
  <head> 
    ...
@@ -96,7 +96,7 @@ Most people miss out on this, I feel like it should be one of the things we look
 
 Whenever possible, use the `label` element to associate text with form elements explicitly. The `for` attribute of the label must exactly match the `id` of the form control. In specific situations, it may be acceptable to hide `<label>` elements visually, but in most cases, labels are needed to help all readers understand the required input.
 
-```
+```html
 <form> 
  <label for="username">Username</label> 
  <input type="text" name="username" id="username"> 
