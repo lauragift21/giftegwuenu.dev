@@ -57,7 +57,7 @@ It is really important to have consistency across the web. What this means is ar
 
 ## Tips For Making Your Site Accessible on the Web
 
-I’ll be highlighting tips to help incorporate accessibility into your usual routine when building websites. Most of these tips can be implemented easily and will not impact the overall look and feel of your website.
+I’ll be highlighting tips to help incorporate accessibility into your usual routine when building websites. Most of these tips can be implemented without affecting your website's overall look and feel.
 
 **Add Alternative Text for Images**  
 
@@ -69,7 +69,7 @@ When using images in your websites, One important thing people miss out on is ad
 <img src="./cat.png' alt="A cat sitting on a chair">
 ```
 
-The big picture difference between having the alt attribute in all images and not including it at all is that it goes a long way in making sure your website is accessible because now screen readers can announce the alt tags for people with visual and cognitive disabilities. One rule of thumb here is to make sure the alt description is in context meaning it should describe the intent of the actual image. In the example above, I used `A cat sitting on a chiar` and not just `cat` for the description.
+The big picture difference between having the alt attribute in all images and not including it at all is that it goes a long way in making sure your website is accessible because now screen readers can announce the alt tags for people with visual and cognitive disabilities. One rule of thumb here is to make sure the alt description is in context meaning it should describe the intent of the actual image. In the example above, I used `A cat sitting on a chair` and not just `cat` for the description.
 
 **Make use of Semantic HTML**
 
@@ -109,7 +109,7 @@ Whenever possible, use the `label` element to associate text with form elements 
 
 ## Tools To Leverage When Building Accessible Sites
 
-I found this interesting while researching this topic, there are countless tools available to help you build accessible sites. The question right now is why aren’t people making use of these to build accessible websites? The reason might be because getting started with accessibility may seem difficult and challenging at first, especially for teams that are maintaining a legacy codebase. I’ll be sharing some tools to leverage when thinking of accessibility.
+I found this interesting while researching this topic, there are countless tools available to help you build accessible sites. The question right now is why aren’t people making use of these to build accessible websites? The reason might be because getting started with accessibility may seem difficult at first, especially for teams that are maintaining a legacy codebase. I’ll be sharing some tools to leverage when thinking of accessibility.
 
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [Accessibility Insights](https://accessibilityinsights.io/)
@@ -136,4 +136,4 @@ These tools will go a long way in helping you build accessible applications. You
 
 ## Conclusion
 
-In this article, We have gotten a good understanding of web accessibility and what it means for users with disabilities. I’ll like to end this by saying we should all be accessibility advocates by driving this force together, we’ll see a significant change in the way the web is approached. We should always remember to build for the user and this includes all users with any kind of disability.
+In this article, We got a good understanding of web accessibility and what it means for users with disabilities. I’ll like to end this by saying we should all be accessibility advocates by driving this force together, we’ll see a significant change in the way the web is approached. We should always remember to build for the user and this includes all users with any kind of disability.
