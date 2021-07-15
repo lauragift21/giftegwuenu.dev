@@ -8,7 +8,7 @@
     <div class="card rounded-lg border border-l-8 shadow-md my-6 py-4" data-aos="slide-up" v-for="edge in $static.allPost.edges" :key="edge.node.id">
       <g-link :to="edge.node.path">
         <h3 class="text-2xl px-5 py-2 font-bold">{{edge.node.title}}</h3>
-        <h3 class="description text-xl font-medium mb-3 px-5 py-2">{{edge.node.description}}</h3>
+        <h3 class="description text-xl mb-3 px-5 py-2">{{edge.node.description}}</h3>
       </g-link>
     </div>
   </div>

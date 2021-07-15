@@ -16,7 +16,7 @@
       <div class="nav-content">
         <ul>
           <li>
-            <a @click="link('/#about')"
+            <a @click="link('/about')"
               class="nav-item mr-12 sm:mr-2 sm:-pr-3 sm:mb-3 md:mb-4 font-black text-xl sm:text-base link"
             >About</a>
           </li>

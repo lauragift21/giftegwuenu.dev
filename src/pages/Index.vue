@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <Hero />
-    <About />
+    <!-- <About /> -->
     <Latest />
     <Footer />
   </Layout>
@@ -9,13 +9,11 @@
 
 <script>
 import Hero from '~/components/Hero.vue'
-import About from '~/components/About.vue'
 import Footer from '~/components/Footer.vue'
 import Latest from '~/components/Latest.vue'
 export default {
   components: {
     Hero,
-    About,
     Latest,
     Footer
   },
