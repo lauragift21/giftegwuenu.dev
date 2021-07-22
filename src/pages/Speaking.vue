@@ -67,6 +67,10 @@ h1, h2 {
   background: var(--secondary-color);
 }
 
+.past:last-of-type {
+  overflow: hidden;
+}
+
   /* Smaller text for mobile */
 @media screen and (min-width: 200px) {
   .card {
