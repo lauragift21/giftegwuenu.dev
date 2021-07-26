@@ -1,175 +1,183 @@
 {
-	"upcoming": [],
-	"past": [
-		{
-			"id": "1",
-			"title": "Crafting Rich Documentation With Vuepress",
-			"date": "August, 11 2018",
-			"event": "Concatenate Conference 2018, Lagos Nigeria",
-			"link": "https://speakerdeck.com/lauragift21/crafting-rich-documentation-with-vuepress"
-		},
-		{
-			"id": "2",
-			"title": "Building Your Network As A Newbie In Tech",
-			"date": "March, 06 2019",
-			"event": "forloop Babcock University, Ota Nigeria",
-			"link": "https://speakerdeck.com/lauragift21/building-your-network-as-a-newbie-in-a-tech-community"
-		},
-		{
-			"id": "3",
-			"title": "How To Supercharge Your Productivity As A Developer",
-			"date": "March, 08 2019",
-			"event": "forloop Summit, Lagos Nigeria",
-			"link": "https://speakerdeck.com/lauragift21/how-to-supercharge-your-productivity-as-a-developer"
-		},
-		{
-			"id": "4",
-			"title": "Building A Killer Personal Brand",
-			"date": "April, 27 2019",
-			"event": "Women TechMakers Ajah, Nigeria",
-			"link": "https://speakerdeck.com/lauragift21/building-a-killer-personal-brand"
-		},
-		{
-			"id": "5",
-			"title": "Debugging Like a Boss: A Developer's Guide to Great Debugging Experience",
-			"date": "November, 16 2019",
-			"event": "Denver Script Colorado",
-			"link": "https://bit.ly/debugging-talk"
-		},
-		{
-			"id": "6",
-			"title": "Jamstack FTW: Static Site Generation With Gridsome",
-			"date": "May, 15 2020",
-			"event": "Certified Fresh Events",
-			"link": "https://www.crowdcast.io/e/jamstack-ftw"
-		},
-		{
-			"id": "7",
-			"title": "A11Y for Everyone: Building Inclusive and Accessible Web Applications",
-			"date": "July, 16 2020",
-			"event": "Avocado Labs",
-			"link": "https://www.youtube.com/watch?v=7iAKlFzzmi8"
-		},
-		{
-			"id": "8",
-			"title": "Scaling your eCommerce with Vue Storefront",
-			"date": "September, 3 2020",
-			"event": "Headless Commerce Summit",
-			"link": "https://www.youtube.com/watch?v=seNgpGrwNBY&t=54s"
-		},
-		{
-			"id": "9",
-			"title": "Jamstack FTW: Static Site Generation With Gridsome",
-			"date": "September, 17 - 18 2020",
-			"event": "Vuejs Global",
-			"link": "https://www.vuejs.amsterdam/"
-		},
-		{
-			"id": "10",
-			"title": "Building from Scratch with Nuxt.js",
-			"date": "October, 7 2020",
-			"event": "Jamstack Conf Virtual",
-			"link": "https://jamstackconf.com/virtual/"
-		},
-		{
-			"id": "11",
-			"title": "Jamstack FTW: Static Site Generation with Gridsome",
-			"date": "November, 23 2020",
-			"event": "3 Hours of Jamstack Conference",
-			"link": "https://nimbella.com/webinars/3-hours-of-jamstack-conference/"
-		},
-		{
-			"id": "12",
-			"title": "Going Beyond Static Sites (Panel)",
-			"date": "January, 28 2021",
-			"event": "The Jam.dev Conference",
-			"link": "https://cfe.dev/sessions/going-beyond-static-sites/"
-		},
-		{
-			"id": "13",
-			"title": "Tech Snacks: JSWorld Edition",
-			"date": "Febuary, 22 - 27 2021",
-			"event": "JSWorld Conference",
-			"link": "https://frontenddeveloperlove.com/program#d-1-s-9"
-		},
-		{
-			"id": "14",
-			"title": "Personal Branding for Software Engineers",
-			"date": "May, 21 2021",
-			"event": "JSWorld USA Conference 2021",
-			"link": "https://www.youtube.com/watch?v=SMIiIqOR94U"
-		},
+  "upcoming": [
     {
-			"id": "15",
-			"title": "Personal Branding for Software Engineers",
-			"date": "May, 27 2021",
-			"event": "Prisma Connect Dev Africa Meetup",
-			"link": "https://www.youtube.com/watch?v=7Hs2D8V0uvk"
-		},
-		{
-			"id": "16",
-			"title": "How to get started as an open source contributor",
-			"date": "June, 10 2021",
-			"event": "Plurasight Webinar Events and",
-			"link": "https://www.pluralsight.com/events/2021/open-source-contributor"
-		}
-	],
-	"interviews": [
-		{
-			"id": 1,
-			"title": "Learning In Public, Self Advocacy and Adulting",
-			"date": "June, 17, 2020",
-			"event": "Rushing Forward",
-			"link": "https://polelo.co/waves/1f443pI1suK?utm_content=buffer297f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-		},
-		{
-			"id": 2,
-			"title": "Building a Web for Everyone",
-			"date": "May, 21, 2020",
-			"event": "Microsoft Build 2020",
-			"link": "https://mybuild.microsoft.com/sessions/13da0e38-2147-4714-9334-3c079e6c1920"
-		},
-		{
-			"id": 3,
-			"title": "Build a Personal Blog Using Gridsome",
-			"date": "February, 14, 2020",
-			"event": "Learn With Jason",
-			"link": "https://www.learnwithjason.dev/build-a-personal-blog-using-gridsome"
-		},
-		{
-			"id": 4,
-			"title": "Discussing Tech Communities with Gift Egwuenu",
-			"date": "January, 07, 2020",
-			"event": "My Life As A Software Engineer - Vanessa Ating",
-			"link": "https://anchor.fm/mylifeasasoftwareengineer/episodes/EP--7-Discussing-Tech-Communities-with-Gift-Egwuenu-ea0eqi"
-		},
-		{
-			"id": 5,
-			"title": "2020 JAMstack year in preview",
-			"date": "December, 31, 2019",
-			"event": "That's My Jamstack - Bryan Robinson",
-			"link": "https://thatsmyjamstack.com/posts/2020-jamstack-year-in-preview/"
-		},
-		{
-			"id": 6,
-			"title": "Gift Egwuenu on Gridsome, Netlify, Serverless and more",
-			"date": "November, 05, 2019",
-			"event": "That's My Jamstack - Bryan Robinson",
-			"link": "https://thatsmyjamstack.com/posts/gift-egwuenu/"
-		},
-		{
-			"id": 7,
-			"title": "Sipping our drinks, enjoying the Vue - Vue JS",
-			"date": "November, 24, 2019",
-			"event": "Frontend Happy Hour",
-			"link": "https://frontendhappyhour.com/episodes/sipping-our-drinks-enjoying-the-vue-vue-js/"
-		},
-		{
-			"id": 8,
-			"title": "VoV 071: Gridsome with Gift Egwuenu",
-			"date": "July, 23, 2019",
-			"event": "Views on Vue",
-			"link": "https://podtail.com/en/podcast/views-on-vue/vov-071-gridsome-with-gift-egwuenu/"
-		}
-	]
+      "id": "1",
+      "title": "What's New in the World of CSS / The Future of CSS",
+      "date": "September, 6-7 2021",
+      "event": "Shift Dev Conference, Split, Croatia",
+      "link": "https://shift.infobip.com/"
+    }
+  ],
+  "past": [
+    {
+      "id": "1",
+      "title": "Crafting Rich Documentation With Vuepress",
+      "date": "August, 11 2018",
+      "event": "Concatenate Conference 2018, Lagos Nigeria",
+      "link": "https://speakerdeck.com/lauragift21/crafting-rich-documentation-with-vuepress"
+    },
+    {
+      "id": "2",
+      "title": "Building Your Network As A Newbie In Tech",
+      "date": "March, 06 2019",
+      "event": "forloop Babcock University, Ota Nigeria",
+      "link": "https://speakerdeck.com/lauragift21/building-your-network-as-a-newbie-in-a-tech-community"
+    },
+    {
+      "id": "3",
+      "title": "How To Supercharge Your Productivity As A Developer",
+      "date": "March, 08 2019",
+      "event": "forloop Summit, Lagos Nigeria",
+      "link": "https://speakerdeck.com/lauragift21/how-to-supercharge-your-productivity-as-a-developer"
+    },
+    {
+      "id": "4",
+      "title": "Building A Killer Personal Brand",
+      "date": "April, 27 2019",
+      "event": "Women TechMakers Ajah, Nigeria",
+      "link": "https://speakerdeck.com/lauragift21/building-a-killer-personal-brand"
+    },
+    {
+      "id": "5",
+      "title": "Debugging Like a Boss: A Developer's Guide to Great Debugging Experience",
+      "date": "November, 16 2019",
+      "event": "Denver Script Colorado",
+      "link": "https://bit.ly/debugging-talk"
+    },
+    {
+      "id": "6",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "May, 15 2020",
+      "event": "Certified Fresh Events",
+      "link": "https://www.crowdcast.io/e/jamstack-ftw"
+    },
+    {
+      "id": "7",
+      "title": "A11Y for Everyone: Building Inclusive and Accessible Web Applications",
+      "date": "July, 16 2020",
+      "event": "Avocado Labs",
+      "link": "https://www.youtube.com/watch?v=7iAKlFzzmi8"
+    },
+    {
+      "id": "8",
+      "title": "Scaling your eCommerce with Vue Storefront",
+      "date": "September, 3 2020",
+      "event": "Headless Commerce Summit",
+      "link": "https://www.youtube.com/watch?v=seNgpGrwNBY&t=54s"
+    },
+    {
+      "id": "9",
+      "title": "Jamstack FTW: Static Site Generation With Gridsome",
+      "date": "September, 17 - 18 2020",
+      "event": "Vuejs Global",
+      "link": "https://www.vuejs.amsterdam/"
+    },
+    {
+      "id": "10",
+      "title": "Building from Scratch with Nuxt.js",
+      "date": "October, 7 2020",
+      "event": "Jamstack Conf Virtual",
+      "link": "https://jamstackconf.com/virtual/"
+    },
+    {
+      "id": "11",
+      "title": "Jamstack FTW: Static Site Generation with Gridsome",
+      "date": "November, 23 2020",
+      "event": "3 Hours of Jamstack Conference",
+      "link": "https://nimbella.com/webinars/3-hours-of-jamstack-conference/"
+    },
+    {
+      "id": "12",
+      "title": "Going Beyond Static Sites (Panel)",
+      "date": "January, 28 2021",
+      "event": "The Jam.dev Conference",
+      "link": "https://cfe.dev/sessions/going-beyond-static-sites/"
+    },
+    {
+      "id": "13",
+      "title": "Tech Snacks: JSWorld Edition",
+      "date": "Febuary, 22 - 27 2021",
+      "event": "JSWorld Conference",
+      "link": "https://frontenddeveloperlove.com/program#d-1-s-9"
+    },
+    {
+      "id": "14",
+      "title": "Personal Branding for Software Engineers",
+      "date": "May, 21 2021",
+      "event": "JSWorld USA Conference 2021",
+      "link": "https://www.youtube.com/watch?v=SMIiIqOR94U"
+    },
+    {
+      "id": "15",
+      "title": "Personal Branding for Software Engineers",
+      "date": "May, 27 2021",
+      "event": "Prisma Connect Dev Africa Meetup",
+      "link": "https://www.youtube.com/watch?v=7Hs2D8V0uvk"
+    },
+    {
+      "id": "16",
+      "title": "How to get started as an open source contributor",
+      "date": "June, 10 2021",
+      "event": "Plurasight Webinar Events and",
+      "link": "https://www.pluralsight.com/events/2021/open-source-contributor"
+    }
+  ],
+  "interviews": [
+    {
+      "id": 1,
+      "title": "Learning In Public, Self Advocacy and Adulting",
+      "date": "June, 17, 2020",
+      "event": "Rushing Forward",
+      "link": "https://polelo.co/waves/1f443pI1suK?utm_content=buffer297f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+    },
+    {
+      "id": 2,
+      "title": "Building a Web for Everyone",
+      "date": "May, 21, 2020",
+      "event": "Microsoft Build 2020",
+      "link": "https://mybuild.microsoft.com/sessions/13da0e38-2147-4714-9334-3c079e6c1920"
+    },
+    {
+      "id": 3,
+      "title": "Build a Personal Blog Using Gridsome",
+      "date": "February, 14, 2020",
+      "event": "Learn With Jason",
+      "link": "https://www.learnwithjason.dev/build-a-personal-blog-using-gridsome"
+    },
+    {
+      "id": 4,
+      "title": "Discussing Tech Communities with Gift Egwuenu",
+      "date": "January, 07, 2020",
+      "event": "My Life As A Software Engineer - Vanessa Ating",
+      "link": "https://anchor.fm/mylifeasasoftwareengineer/episodes/EP--7-Discussing-Tech-Communities-with-Gift-Egwuenu-ea0eqi"
+    },
+    {
+      "id": 5,
+      "title": "2020 JAMstack year in preview",
+      "date": "December, 31, 2019",
+      "event": "That's My Jamstack - Bryan Robinson",
+      "link": "https://thatsmyjamstack.com/posts/2020-jamstack-year-in-preview/"
+    },
+    {
+      "id": 6,
+      "title": "Gift Egwuenu on Gridsome, Netlify, Serverless and more",
+      "date": "November, 05, 2019",
+      "event": "That's My Jamstack - Bryan Robinson",
+      "link": "https://thatsmyjamstack.com/posts/gift-egwuenu/"
+    },
+    {
+      "id": 7,
+      "title": "Sipping our drinks, enjoying the Vue - Vue JS",
+      "date": "November, 24, 2019",
+      "event": "Frontend Happy Hour",
+      "link": "https://frontendhappyhour.com/episodes/sipping-our-drinks-enjoying-the-vue-vue-js/"
+    },
+    {
+      "id": 8,
+      "title": "VoV 071: Gridsome with Gift Egwuenu",
+      "date": "July, 23, 2019",
+      "event": "Views on Vue",
+      "link": "https://podtail.com/en/podcast/views-on-vue/vov-071-gridsome-with-gift-egwuenu/"
+    }
+  ]
 }
