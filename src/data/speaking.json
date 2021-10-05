@@ -1,20 +1,5 @@
 {
-  "upcoming": [
-    {
-      "id": "1",
-      "title": "What's New in the World of CSS / The Future of CSS",
-      "date": "September, 6-7 2021",
-      "event": "Shift Dev Conference, Split, Croatia",
-      "link": "https://shift.infobip.com"
-    },
-    {
-      "id": "2",
-      "title": "One Rule to Rule Them All: Learning in Public",
-      "date": "September, 23-24 2021",
-      "event": "Codeland Conference 2021, Online",
-      "link": "https://codelandconf.com"
-    }
-  ],
+  "upcoming": [],
   "past": [
     {
       "id": "1",
@@ -127,6 +112,20 @@
       "date": "June, 10 2021",
       "event": "Plurasight Webinar Events and",
       "link": "https://www.pluralsight.com/events/2021/open-source-contributor"
+    },
+    {
+      "id": "17",
+      "title": "What's New in the World of CSS / The Future of CSS",
+      "date": "September, 6-7 2021",
+      "event": "Shift Dev Conference, Split, Croatia",
+      "link": "https://shift.infobip.com"
+    },
+    {
+      "id": "18",
+      "title": "One Rule to Rule Them All: Learning in Public",
+      "date": "September, 23-24 2021",
+      "event": "Codeland Conference 2021, Online",
+      "link": "https://codelandconf.com"
     }
   ],
   "interviews": [
