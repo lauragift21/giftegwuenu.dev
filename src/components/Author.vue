@@ -1,7 +1,7 @@
 <template>
   <p class="author text-xl border-black border-4 rounded p-6 pb-3">
     Hello! 👋
-    I’m Gift, a Frontend Engineer passionate about making the web accessible to everyone and building communities.
+    I’m Gift, a developer advocate and content creator passionate about sharing my learning and experience with other developers.
     I write content on HTML, CSS, Jamstack, Accessibility, and Career related topics.
     <br>
     <br>
