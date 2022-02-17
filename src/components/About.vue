@@ -8,7 +8,9 @@
      experience in web development and building tools to help businesses grow.
      In her previous role, she was a front-end developer. She is now working in
      developer advocacy.
+    </p>
 
+    <p class="pb-6">
      Gift shares her experience in web development, Jamstack, career-related
      topics, and developer lifestyle videos with people seeking guidance in the
      tech industry.
