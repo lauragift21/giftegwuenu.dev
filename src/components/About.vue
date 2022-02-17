@@ -3,32 +3,32 @@
   <h1 class="text-6xl font-black mb-6">About Me</h1>
   <section class="flex flex-col flex-wrap section">
    <article class="my-6 pr-6 font-serif text-2xl w-full">
-    <p class="pb-12">
+    <p class="pb-8">
      Gift Egwuenu is a Developer Advocate at Cloudflare. With over 5 years of
      experience in web development and building tools to help businesses grow.
      In her previous role, she was a front-end developer. She is now working in
      developer advocacy.
     </p>
 
-    <p class="pb-12">
+    <p class="pb-8">
      Gift shares her experience in web development, JamStack, career-related
      topics, and developer lifestyle videos with people seeking guidance in the
      tech industry.
     </p>
 
-    <p class="pb-12">
+    <p class="pb-8">
      It's her pleasure to have been named a Cloudinary Media Developer Expert,
      Microsoft MVP, Auth0 Ambassador, GitHub Star, Polynuat Advisor, and Nuxt.js
      Ambassador.
     </p>
 
-    <p class="pb-12">
+    <p class="pb-8">
      She spends her free time reading, cooking, and going on travel adventures
      whenever she is not making content or writing code.
     </p>
 
-    <p class="pb-8">
-     I share a lot of helpful resources for developers and also curate some
+    <p class="pb-6">
+     She shares a lot of helpful resources for developers and also curate some
      resources myself.
      <br />
      You can check out
@@ -36,9 +36,9 @@
       Educative a platform with helpful courses for developers.
      </a>
     </p>
-    <p class="pb-12">
+    <p class="pb-6">
      Say hi to her on Twitter
-     <a href="https://twitter.com/lauragift_">@lauragift_</a>,.
+     <a href="https://twitter.com/lauragift_">@lauragift_</a>.
     </p>
    </article>
 
