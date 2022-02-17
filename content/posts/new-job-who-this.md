@@ -8,6 +8,8 @@ canonical_url: true
 description: I quit my job as a full-time developer and transitioned into
   developer advocacy.
 ---
-I share my thoughts on going full-time in developer relations.
+I share my thoughts on going full-time as a developer advocate 🥑.
+
+## Watch full video 👇
 
 https://www.youtube.com/embed/swJvGygptrI
