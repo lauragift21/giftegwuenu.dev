@@ -6,7 +6,7 @@
   >
     <div class="tagline flex-1 mt-40 sm-px-6 xs:text-center sm:text-center p-2 xs:mt-1 sm:mt-0">
       <h1 class="text-6xl font-semibold">Hello I'm Gift Egwuenu</h1>
-      <p class="text-2xl">I’m a frontend developer and content creator based in the Netherlands.</p>
+      <p class="text-2xl">I’m a developer advocate based in the Netherlands.</p>
       <div class="my-6 text-white">
         <abbr title="Twitter" class="pr-5 text-2xl font-semibold hover:text-pink-300">
           <a href="https://twitter.com/lauragift_" target="_blank" rel="noopener">TW</a>
