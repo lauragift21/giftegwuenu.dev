@@ -9,3 +9,7 @@ description: I quit my job as a full-time developer and transitioned into
   developer advocacy.
 ---
 In this article, I'm going to share my thoughts on going full time in develeper relations.
+
+
+
+https://www.youtube.com/embed/swJvGygptrI
